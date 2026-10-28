@@ -1,0 +1,3 @@
+date,player,market,line,odds
+# Örnek: 2026-10-28,De'Aaron Fox,PTS,15,1.64   (15 = "15+", 14.5 yazarsan da 15+ sayılır)
+# market: PTS REB AST PR PA RA PRA

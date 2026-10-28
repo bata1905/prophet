@@ -1,0 +1,23 @@
+{
+  "bankroll_tl": 1000,
+  "kelly_fraction": 0.25,
+  "max_stake_pct": 0.03,
+  "max_player_pct": 0.04,
+  "max_game_pct": 0.08,
+  "max_day_pct": 0.20,
+  "min_edge": 0.05,
+  "model_weight": 0.5,
+  "market_margin": 1.08,
+  "min_sample": 20,
+  "min_avg_minutes": 18,
+  "lookback_games": 15,
+  "half_life_games": 6,
+  "prev_season_weight": 0.4,
+  "picks_per_game": 8,
+  "markets": ["PTS", "REB", "AST", "RA", "PRA", "3PM"],
+  "odds_source": "nesine",
+  "nesine_market_map": {"717": "PTS", "718": "REB", "719": "AST", "720": "3PM", "725": "PRA", "766": "RA"},
+  "timezone": "Europe/Istanbul",
+  "us_odds_ttl_hours": 20,
+  "model_weight_with_us": 0.35
+}
