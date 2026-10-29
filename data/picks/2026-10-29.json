@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated": "2026-10-29T14:25:42.945300Z",
+ "generated": "2026-10-29T14:33:41.682178Z",
  "games": [
   {
    "id": "401909893",
@@ -3279,12 +3279,12 @@
     {
      "kind": "total",
      "label": "Toplam 237.5 ÜST",
-     "odds": 1.7,
+     "odds": 1.71,
      "line": 237.5,
-     "prob": 0.4451,
+     "prob": 0.4429,
      "prob_model": 0.3746,
-     "prob_market": 0.4753,
-     "value": -0.2433,
+     "prob_market": 0.4722,
+     "value": -0.2426,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.7,
@@ -3293,12 +3293,12 @@
     {
      "kind": "total",
      "label": "Toplam 237.5 ALT",
-     "odds": 1.54,
+     "odds": 1.53,
      "line": 237.5,
-     "prob": 0.5549,
+     "prob": 0.5571,
      "prob_model": 0.6254,
-     "prob_market": 0.5247,
-     "value": -0.1455,
+     "prob_market": 0.5278,
+     "value": -0.1477,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.54,
@@ -3307,12 +3307,12 @@
     {
      "kind": "total",
      "label": "Toplam 239.5 ÜST",
-     "odds": 1.86,
+     "odds": 1.88,
      "line": 239.5,
-     "prob": 0.403,
+     "prob": 0.4012,
      "prob_model": 0.3333,
-     "prob_market": 0.4329,
-     "value": -0.2503,
+     "prob_market": 0.4303,
+     "value": -0.2457,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.86,
@@ -3323,10 +3323,10 @@
      "label": "Toplam 239.5 ALT",
      "odds": 1.42,
      "line": 239.5,
-     "prob": 0.597,
+     "prob": 0.5988,
      "prob_model": 0.6667,
-     "prob_market": 0.5671,
-     "value": -0.1523,
+     "prob_market": 0.5697,
+     "value": -0.1497,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
@@ -3335,12 +3335,12 @@
     {
      "kind": "total",
      "label": "Toplam 234.5 ÜST",
-     "odds": 1.49,
+     "odds": 1.51,
      "line": 234.5,
-     "prob": 0.5108,
+     "prob": 0.5065,
      "prob_model": 0.4392,
-     "prob_market": 0.5415,
-     "value": -0.2388,
+     "prob_market": 0.5354,
+     "value": -0.2351,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.49,
@@ -3349,12 +3349,12 @@
     {
      "kind": "total",
      "label": "Toplam 234.5 ALT",
-     "odds": 1.76,
+     "odds": 1.74,
      "line": 234.5,
-     "prob": 0.4892,
+     "prob": 0.4935,
      "prob_model": 0.5608,
-     "prob_market": 0.4585,
-     "value": -0.1391,
+     "prob_market": 0.4646,
+     "value": -0.1414,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.76,
@@ -3363,12 +3363,12 @@
     {
      "kind": "total",
      "label": "Toplam 235.5 ÜST",
-     "odds": 1.55,
+     "odds": 1.57,
      "line": 235.5,
-     "prob": 0.4893,
+     "prob": 0.485,
      "prob_model": 0.4174,
-     "prob_market": 0.5201,
-     "value": -0.2416,
+     "prob_market": 0.5139,
+     "value": -0.2386,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.55,
@@ -3377,12 +3377,12 @@
     {
      "kind": "total",
      "label": "Toplam 235.5 ALT",
-     "odds": 1.68,
+     "odds": 1.66,
      "line": 235.5,
-     "prob": 0.5107,
+     "prob": 0.515,
      "prob_model": 0.5826,
-     "prob_market": 0.4799,
-     "value": -0.142,
+     "prob_market": 0.4861,
+     "value": -0.1451,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.68,
@@ -3391,12 +3391,12 @@
     {
      "kind": "total",
      "label": "Toplam 236.5 ÜST",
-     "odds": 1.62,
+     "odds": 1.64,
      "line": 236.5,
-     "prob": 0.4677,
+     "prob": 0.4633,
      "prob_model": 0.3959,
-     "prob_market": 0.4985,
-     "value": -0.2424,
+     "prob_market": 0.4923,
+     "value": -0.2401,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.62,
@@ -3405,12 +3405,12 @@
     {
      "kind": "total",
      "label": "Toplam 236.5 ALT",
-     "odds": 1.61,
+     "odds": 1.59,
      "line": 236.5,
-     "prob": 0.5323,
+     "prob": 0.5367,
      "prob_model": 0.6041,
-     "prob_market": 0.5015,
-     "value": -0.143,
+     "prob_market": 0.5077,
+     "value": -0.1467,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.61,
@@ -3419,12 +3419,12 @@
     {
      "kind": "total",
      "label": "Toplam 238.5 ÜST",
-     "odds": 1.77,
+     "odds": 1.8,
      "line": 238.5,
-     "prob": 0.4249,
+     "prob": 0.4208,
      "prob_model": 0.3538,
-     "prob_market": 0.4554,
-     "value": -0.2479,
+     "prob_market": 0.4495,
+     "value": -0.2425,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.77,
@@ -3433,12 +3433,12 @@
     {
      "kind": "total",
      "label": "Toplam 238.5 ALT",
-     "odds": 1.48,
+     "odds": 1.47,
      "line": 238.5,
-     "prob": 0.5751,
+     "prob": 0.5792,
      "prob_model": 0.6462,
-     "prob_market": 0.5446,
-     "value": -0.1488,
+     "prob_market": 0.5505,
+     "value": -0.1486,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.48,
@@ -3447,12 +3447,12 @@
     {
      "kind": "total",
      "label": "Toplam 233.5 ÜST",
-     "odds": 1.43,
+     "odds": 1.45,
      "line": 233.5,
-     "prob": 0.5332,
+     "prob": 0.5289,
      "prob_model": 0.4612,
-     "prob_market": 0.564,
-     "value": -0.2376,
+     "prob_market": 0.5579,
+     "value": -0.2331,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.43,
@@ -3461,12 +3461,12 @@
     {
      "kind": "total",
      "label": "Toplam 233.5 ALT",
-     "odds": 1.85,
+     "odds": 1.83,
      "line": 233.5,
-     "prob": 0.4668,
+     "prob": 0.4711,
      "prob_model": 0.5388,
-     "prob_market": 0.436,
-     "value": -0.1364,
+     "prob_market": 0.4421,
+     "value": -0.1379,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.85,
@@ -3589,10 +3589,10 @@
      "label": "NO -6.5",
      "odds": 1.7,
      "line": -6.5,
-     "prob": 0.4641,
+     "prob": 0.4652,
      "prob_model": 0.4417,
-     "prob_market": 0.4737,
-     "value": -0.2111,
+     "prob_market": 0.4753,
+     "value": -0.2091,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.7,
@@ -3601,12 +3601,12 @@
     {
      "kind": "spread",
      "label": "SAC +6.5",
-     "odds": 1.53,
+     "odds": 1.54,
      "line": -6.5,
-     "prob": 0.5359,
+     "prob": 0.5348,
      "prob_model": 0.5583,
-     "prob_market": 0.5263,
-     "value": -0.1801,
+     "prob_market": 0.5247,
+     "value": -0.1764,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.53,
@@ -3615,12 +3615,12 @@
     {
      "kind": "spread",
      "label": "NO -8.5",
-     "odds": 1.96,
+     "odds": 1.95,
      "line": -8.5,
-     "prob": 0.4019,
+     "prob": 0.4027,
      "prob_model": 0.3795,
-     "prob_market": 0.4114,
-     "value": -0.2124,
+     "prob_market": 0.4127,
+     "value": -0.2147,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.96,
@@ -3631,10 +3631,10 @@
      "label": "SAC +8.5",
      "odds": 1.37,
      "line": -8.5,
-     "prob": 0.5981,
+     "prob": 0.5973,
      "prob_model": 0.6205,
-     "prob_market": 0.5886,
-     "value": -0.1805,
+     "prob_market": 0.5873,
+     "value": -0.1817,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.37,
@@ -3645,10 +3645,10 @@
      "label": "NO -3.5",
      "odds": 1.42,
      "line": -3.5,
-     "prob": 0.559,
+     "prob": 0.5599,
      "prob_model": 0.5372,
-     "prob_market": 0.5684,
-     "value": -0.2062,
+     "prob_market": 0.5697,
+     "value": -0.2049,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
@@ -3657,12 +3657,12 @@
     {
      "kind": "spread",
      "label": "SAC +3.5",
-     "odds": 1.87,
+     "odds": 1.88,
      "line": -3.5,
-     "prob": 0.441,
+     "prob": 0.4401,
      "prob_model": 0.4628,
-     "prob_market": 0.4316,
-     "value": -0.1754,
+     "prob_market": 0.4303,
+     "value": -0.1727,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.87,
@@ -3671,12 +3671,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 120.5 ÜST",
-     "odds": 1.57,
+     "odds": 1.58,
      "line": 120.5,
-     "prob": 0.486,
+     "prob": 0.4839,
      "prob_model": 0.421,
-     "prob_market": 0.5139,
-     "value": -0.2369,
+     "prob_market": 0.5108,
+     "value": -0.2355,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.57,
@@ -3685,12 +3685,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 120.5 ALT",
-     "odds": 1.66,
+     "odds": 1.65,
      "line": 120.5,
-     "prob": 0.514,
+     "prob": 0.5161,
      "prob_model": 0.579,
-     "prob_market": 0.4861,
-     "value": -0.1468,
+     "prob_market": 0.4892,
+     "value": -0.1484,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.66,
@@ -3699,12 +3699,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 118.5 ÜST",
-     "odds": 1.39,
+     "odds": 1.4,
      "line": 118.5,
-     "prob": 0.553,
+     "prob": 0.5509,
      "prob_model": 0.4898,
-     "prob_market": 0.5801,
-     "value": -0.2313,
+     "prob_market": 0.577,
+     "value": -0.2288,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.39,
@@ -3713,12 +3713,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 118.5 ALT",
-     "odds": 1.92,
+     "odds": 1.91,
      "line": 118.5,
-     "prob": 0.447,
+     "prob": 0.4491,
      "prob_model": 0.5102,
-     "prob_market": 0.4199,
-     "value": -0.1417,
+     "prob_market": 0.423,
+     "value": -0.1422,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.92,
@@ -3727,12 +3727,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 119.5 ÜST",
-     "odds": 1.47,
+     "odds": 1.48,
      "line": 119.5,
-     "prob": 0.52,
+     "prob": 0.5178,
      "prob_model": 0.4552,
-     "prob_market": 0.5477,
-     "value": -0.2357,
+     "prob_market": 0.5446,
+     "value": -0.2337,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.47,
@@ -3741,12 +3741,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 119.5 ALT",
-     "odds": 1.78,
+     "odds": 1.77,
      "line": 119.5,
-     "prob": 0.48,
+     "prob": 0.4822,
      "prob_model": 0.5448,
-     "prob_market": 0.4523,
-     "value": -0.1455,
+     "prob_market": 0.4554,
+     "value": -0.1465,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.78,
@@ -3755,12 +3755,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 122.5 ÜST",
-     "odds": 1.81,
+     "odds": 1.82,
      "line": 122.5,
-     "prob": 0.4189,
+     "prob": 0.4167,
      "prob_model": 0.3545,
-     "prob_market": 0.4465,
-     "value": -0.2418,
+     "prob_market": 0.4434,
+     "value": -0.2415,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.81,
@@ -3769,12 +3769,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 122.5 ALT",
-     "odds": 1.46,
+     "odds": 1.45,
      "line": 122.5,
-     "prob": 0.5811,
+     "prob": 0.5833,
      "prob_model": 0.6455,
-     "prob_market": 0.5535,
-     "value": -0.1516,
+     "prob_market": 0.5566,
+     "value": -0.1543,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.46,
@@ -3783,12 +3783,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 121.5 ÜST",
-     "odds": 1.68,
+     "odds": 1.7,
      "line": 121.5,
-     "prob": 0.4521,
+     "prob": 0.4489,
      "prob_model": 0.3873,
-     "prob_market": 0.4799,
-     "value": -0.2405,
+     "prob_market": 0.4753,
+     "value": -0.2369,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.68,
@@ -3797,12 +3797,12 @@
     {
      "kind": "team_total",
      "label": "NO takım 121.5 ALT",
-     "odds": 1.55,
+     "odds": 1.54,
      "line": 121.5,
-     "prob": 0.5479,
+     "prob": 0.5511,
      "prob_model": 0.6127,
-     "prob_market": 0.5201,
-     "value": -0.1508,
+     "prob_market": 0.5247,
+     "value": -0.1513,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.55,
@@ -3811,12 +3811,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 115.5 ÜST",
-     "odds": 1.61,
+     "odds": 1.63,
      "line": 115.5,
-     "prob": 0.4797,
+     "prob": 0.4764,
      "prob_model": 0.4323,
-     "prob_market": 0.5,
-     "value": -0.2277,
+     "prob_market": 0.4954,
+     "value": -0.2234,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.61,
@@ -3825,11 +3825,11 @@
     {
      "kind": "team_total",
      "label": "SAC takım 115.5 ALT",
-     "odds": 1.61,
+     "odds": 1.6,
      "line": 115.5,
-     "prob": 0.5203,
+     "prob": 0.5236,
      "prob_model": 0.5677,
-     "prob_market": 0.5,
+     "prob_market": 0.5046,
      "value": -0.1623,
      "model_total": 231.7,
      "model_margin": 4.7,
@@ -3839,12 +3839,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 117.5 ÜST",
-     "odds": 1.87,
+     "odds": 1.89,
      "line": 117.5,
-     "prob": 0.4117,
+     "prob": 0.4087,
      "prob_model": 0.3653,
-     "prob_market": 0.4316,
-     "value": -0.2301,
+     "prob_market": 0.4273,
+     "value": -0.2276,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.87,
@@ -3853,12 +3853,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 117.5 ALT",
-     "odds": 1.42,
+     "odds": 1.41,
      "line": 117.5,
-     "prob": 0.5883,
+     "prob": 0.5913,
      "prob_model": 0.6347,
-     "prob_market": 0.5684,
-     "value": -0.1646,
+     "prob_market": 0.5727,
+     "value": -0.1662,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
@@ -3867,12 +3867,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 114.5 ÜST",
-     "odds": 1.51,
+     "odds": 1.53,
      "line": 114.5,
-     "prob": 0.5148,
+     "prob": 0.5105,
      "prob_model": 0.4667,
-     "prob_market": 0.5354,
-     "value": -0.2227,
+     "prob_market": 0.5292,
+     "value": -0.219,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.51,
@@ -3881,12 +3881,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 114.5 ALT",
-     "odds": 1.74,
+     "odds": 1.72,
      "line": 114.5,
-     "prob": 0.4852,
+     "prob": 0.4895,
      "prob_model": 0.5333,
-     "prob_market": 0.4646,
-     "value": -0.1557,
+     "prob_market": 0.4708,
+     "value": -0.158,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.74,
@@ -3895,12 +3895,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 116.5 ÜST",
-     "odds": 1.74,
+     "odds": 1.75,
      "line": 116.5,
-     "prob": 0.4448,
+     "prob": 0.4426,
      "prob_model": 0.3984,
-     "prob_market": 0.4646,
-     "value": -0.2261,
+     "prob_market": 0.4615,
+     "value": -0.2254,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.74,
@@ -3909,12 +3909,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 116.5 ALT",
-     "odds": 1.51,
+     "odds": 1.5,
      "line": 116.5,
-     "prob": 0.5552,
+     "prob": 0.5574,
      "prob_model": 0.6016,
-     "prob_market": 0.5354,
-     "value": -0.1616,
+     "prob_market": 0.5385,
+     "value": -0.1639,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.51,
@@ -3923,12 +3923,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 113.5 ÜST",
-     "odds": 1.42,
+     "odds": 1.43,
      "line": 113.5,
-     "prob": 0.5483,
+     "prob": 0.5462,
      "prob_model": 0.5014,
-     "prob_market": 0.5684,
-     "value": -0.2214,
+     "prob_market": 0.5653,
+     "value": -0.219,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
@@ -3937,12 +3937,12 @@
     {
      "kind": "team_total",
      "label": "SAC takım 113.5 ALT",
-     "odds": 1.87,
+     "odds": 1.86,
      "line": 113.5,
-     "prob": 0.4517,
+     "prob": 0.4538,
      "prob_model": 0.4986,
-     "prob_market": 0.4316,
-     "value": -0.1553,
+     "prob_market": 0.4347,
+     "value": -0.1559,
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.87,
@@ -4828,12 +4828,12 @@
      "market": "REB",
      "label": "Ribaund",
      "line": 2,
-     "prob": 0.685,
+     "prob": 0.6833,
      "odds": 1.46,
      "source": "MODEL",
      "value": null,
      "stake_tl": 0,
-     "expected": 2.59,
+     "expected": 2.58,
      "proj_min": 23.9,
      "notes": [],
      "confidence": "Orta Güven",
@@ -4850,12 +4850,12 @@
      "market": "AST",
      "label": "Asist",
      "line": 1,
-     "prob": 0.6819,
+     "prob": 0.6798,
      "odds": 1.47,
      "source": "MODEL",
      "value": null,
      "stake_tl": 0,
-     "expected": 1.36,
+     "expected": 1.35,
      "proj_min": 23.9,
      "notes": [],
      "confidence": "Orta Güven",
@@ -4872,7 +4872,7 @@
      "market": "AST",
      "label": "Asist",
      "line": 1,
-     "prob": 0.6583,
+     "prob": 0.6598,
      "odds": 1.52,
      "source": "MODEL",
      "value": null,
@@ -4896,7 +4896,7 @@
      "market": "AST",
      "label": "Asist",
      "line": 1,
-     "prob": 0.6583,
+     "prob": 0.6598,
      "odds": 1.52,
      "source": "MODEL",
      "value": null,
@@ -4918,14 +4918,38 @@
      "market": "REB",
      "label": "Ribaund",
      "line": 4,
-     "prob": 0.6523,
-     "odds": 1.53,
+     "prob": 0.6507,
+     "odds": 1.54,
      "source": "MODEL",
      "value": null,
      "stake_tl": 0,
-     "expected": 4.54,
+     "expected": 4.53,
      "proj_min": 23.6,
      "notes": [],
+     "confidence": "Orta Güven",
+     "actual": null,
+     "actual_min": null,
+     "result": null
+    },
+    {
+     "player_id": "4066211",
+     "player": "Robert Williams III",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066211.png",
+     "injury": "",
+     "market": "REB",
+     "label": "Ribaund",
+     "line": 6,
+     "prob": 0.6506,
+     "odds": 1.54,
+     "source": "MODEL",
+     "value": null,
+     "stake_tl": 0,
+     "expected": 6.79,
+     "proj_min": 18.2,
+     "notes": [
+      "rakip pivotlara %12 az ribaund veriyor"
+     ],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
@@ -4940,7 +4964,7 @@
      "market": "AST",
      "label": "Asist",
      "line": 2,
-     "prob": 0.6496,
+     "prob": 0.6503,
      "odds": 1.54,
      "source": "MODEL",
      "value": null,
@@ -4954,30 +4978,6 @@
      "actual": null,
      "actual_min": null,
      "result": null
-    },
-    {
-     "player_id": "4066211",
-     "player": "Robert Williams III",
-     "team": "POR",
-     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066211.png",
-     "injury": "",
-     "market": "AST",
-     "label": "Asist",
-     "line": 1,
-     "prob": 0.6389,
-     "odds": 1.57,
-     "source": "MODEL",
-     "value": null,
-     "stake_tl": 0,
-     "expected": 1.07,
-     "proj_min": 18.2,
-     "notes": [
-      "rakip pivotlara %12 az ribaund veriyor"
-     ],
-     "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
     }
    ],
    "all": [],
@@ -4985,12 +4985,12 @@
     {
      "kind": "total",
      "label": "Toplam 231.5 ÜST",
-     "odds": 1.48,
+     "odds": 1.52,
      "line": 231.5,
-     "prob": 0.5188,
+     "prob": 0.5102,
      "prob_model": 0.4586,
-     "prob_market": 0.5446,
-     "value": -0.2322,
+     "prob_market": 0.5323,
+     "value": -0.2245,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.48,
@@ -4999,12 +4999,12 @@
     {
      "kind": "total",
      "label": "Toplam 231.5 ALT",
-     "odds": 1.77,
+     "odds": 1.73,
      "line": 231.5,
-     "prob": 0.4812,
+     "prob": 0.4898,
      "prob_model": 0.5414,
-     "prob_market": 0.4554,
-     "value": -0.1483,
+     "prob_market": 0.4677,
+     "value": -0.1526,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.77,
@@ -5013,12 +5013,12 @@
     {
      "kind": "total",
      "label": "Toplam 232.5 ÜST",
-     "odds": 1.55,
+     "odds": 1.58,
      "line": 232.5,
-     "prob": 0.4961,
+     "prob": 0.4886,
      "prob_model": 0.4366,
-     "prob_market": 0.5216,
-     "value": -0.231,
+     "prob_market": 0.5108,
+     "value": -0.2281,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.55,
@@ -5027,12 +5027,12 @@
     {
      "kind": "total",
      "label": "Toplam 232.5 ALT",
-     "odds": 1.69,
+     "odds": 1.65,
      "line": 232.5,
-     "prob": 0.5039,
+     "prob": 0.5114,
      "prob_model": 0.5634,
-     "prob_market": 0.4784,
-     "value": -0.1484,
+     "prob_market": 0.4892,
+     "value": -0.1561,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.69,
@@ -5041,12 +5041,12 @@
     {
      "kind": "total",
      "label": "Toplam 230.5 ÜST",
-     "odds": 1.42,
+     "odds": 1.46,
      "line": 230.5,
-     "prob": 0.5411,
+     "prob": 0.5317,
      "prob_model": 0.4807,
-     "prob_market": 0.5671,
-     "value": -0.2316,
+     "prob_market": 0.5535,
+     "value": -0.2238,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.42,
@@ -5055,12 +5055,12 @@
     {
      "kind": "total",
      "label": "Toplam 230.5 ALT",
-     "odds": 1.86,
+     "odds": 1.81,
      "line": 230.5,
-     "prob": 0.4589,
+     "prob": 0.4683,
      "prob_model": 0.5193,
-     "prob_market": 0.4329,
-     "value": -0.1465,
+     "prob_market": 0.4465,
+     "value": -0.1523,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.86,
@@ -5069,12 +5069,12 @@
     {
      "kind": "total",
      "label": "Toplam 234.5 ÜST",
-     "odds": 1.69,
+     "odds": 1.73,
      "line": 234.5,
-     "prob": 0.4529,
+     "prob": 0.4454,
      "prob_model": 0.3933,
-     "prob_market": 0.4784,
-     "value": -0.2347,
+     "prob_market": 0.4677,
+     "value": -0.2295,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.69,
@@ -5083,12 +5083,12 @@
     {
      "kind": "total",
      "label": "Toplam 234.5 ALT",
-     "odds": 1.55,
+     "odds": 1.52,
      "line": 234.5,
-     "prob": 0.5471,
+     "prob": 0.5546,
      "prob_model": 0.6067,
-     "prob_market": 0.5216,
-     "value": -0.1519,
+     "prob_market": 0.5323,
+     "value": -0.157,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.55,
@@ -5097,12 +5097,12 @@
     {
      "kind": "total",
      "label": "Toplam 235.5 ÜST",
-     "odds": 1.77,
+     "odds": 1.81,
      "line": 235.5,
-     "prob": 0.4304,
+     "prob": 0.4242,
      "prob_model": 0.3721,
-     "prob_market": 0.4554,
-     "value": -0.2382,
+     "prob_market": 0.4465,
+     "value": -0.2323,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.77,
@@ -5111,12 +5111,12 @@
     {
      "kind": "total",
      "label": "Toplam 235.5 ALT",
-     "odds": 1.48,
+     "odds": 1.46,
      "line": 235.5,
-     "prob": 0.5696,
+     "prob": 0.5758,
      "prob_model": 0.6279,
-     "prob_market": 0.5446,
-     "value": -0.157,
+     "prob_market": 0.5535,
+     "value": -0.1593,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.48,
@@ -5125,12 +5125,12 @@
     {
      "kind": "total",
      "label": "Toplam 233.5 ÜST",
-     "odds": 1.61,
+     "odds": 1.65,
      "line": 233.5,
-     "prob": 0.4744,
+     "prob": 0.4669,
      "prob_model": 0.4148,
-     "prob_market": 0.5,
-     "value": -0.2361,
+     "prob_market": 0.4892,
+     "value": -0.2297,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.61,
@@ -5139,12 +5139,12 @@
     {
      "kind": "total",
      "label": "Toplam 233.5 ALT",
-     "odds": 1.61,
+     "odds": 1.58,
      "line": 233.5,
-     "prob": 0.5256,
+     "prob": 0.5331,
      "prob_model": 0.5852,
-     "prob_market": 0.5,
-     "value": -0.1539,
+     "prob_market": 0.5108,
+     "value": -0.1576,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.61,
@@ -5153,12 +5153,12 @@
     {
      "kind": "total",
      "label": "Toplam 236.5 ÜST",
-     "odds": 1.86,
+     "odds": 1.9,
      "line": 236.5,
-     "prob": 0.4096,
+     "prob": 0.4036,
      "prob_model": 0.3513,
-     "prob_market": 0.4347,
-     "value": -0.2381,
+     "prob_market": 0.426,
+     "value": -0.2332,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.86,
@@ -5167,12 +5167,12 @@
     {
      "kind": "total",
      "label": "Toplam 236.5 ALT",
-     "odds": 1.43,
+     "odds": 1.41,
      "line": 236.5,
-     "prob": 0.5904,
+     "prob": 0.5964,
      "prob_model": 0.6487,
-     "prob_market": 0.5653,
-     "value": -0.1558,
+     "prob_market": 0.574,
+     "value": -0.159,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.43,
@@ -5181,12 +5181,12 @@
     {
      "kind": "spread",
      "label": "POR -5.5",
-     "odds": 1.44,
+     "odds": 1.46,
      "line": -5.5,
-     "prob": 0.522,
+     "prob": 0.5168,
      "prob_model": 0.4312,
-     "prob_market": 0.561,
-     "value": -0.2483,
+     "prob_market": 0.5535,
+     "value": -0.2454,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.44,
@@ -5195,12 +5195,12 @@
     {
      "kind": "spread",
      "label": "MEM +5.5",
-     "odds": 1.84,
+     "odds": 1.81,
      "line": -5.5,
-     "prob": 0.478,
+     "prob": 0.4832,
      "prob_model": 0.5688,
-     "prob_market": 0.439,
-     "value": -0.1206,
+     "prob_market": 0.4465,
+     "value": -0.1254,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.84,
@@ -5209,12 +5209,12 @@
     {
      "kind": "spread",
      "label": "POR -4.5",
-     "odds": 1.36,
+     "odds": 1.37,
      "line": -4.5,
-     "prob": 0.5547,
+     "prob": 0.5509,
      "prob_model": 0.4628,
-     "prob_market": 0.594,
-     "value": -0.2457,
+     "prob_market": 0.5886,
+     "value": -0.2453,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.36,
@@ -5223,12 +5223,12 @@
     {
      "kind": "spread",
      "label": "MEM +4.5",
-     "odds": 1.99,
+     "odds": 1.96,
      "line": -4.5,
-     "prob": 0.4453,
+     "prob": 0.4491,
      "prob_model": 0.5372,
-     "prob_market": 0.406,
-     "value": -0.1138,
+     "prob_market": 0.4114,
+     "value": -0.1197,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 2.0,
@@ -5237,12 +5237,12 @@
     {
      "kind": "spread",
      "label": "POR -9.5",
-     "odds": 1.89,
+     "odds": 1.92,
      "line": -9.5,
-     "prob": 0.3924,
+     "prob": 0.3884,
      "prob_model": 0.3109,
-     "prob_market": 0.4273,
-     "value": -0.2584,
+     "prob_market": 0.4217,
+     "value": -0.2542,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.89,
@@ -5251,12 +5251,12 @@
     {
      "kind": "spread",
      "label": "MEM +9.5",
-     "odds": 1.41,
+     "odds": 1.4,
      "line": -9.5,
-     "prob": 0.6076,
+     "prob": 0.6116,
      "prob_model": 0.6891,
-     "prob_market": 0.5727,
-     "value": -0.1432,
+     "prob_market": 0.5783,
+     "value": -0.1438,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.41,
@@ -5265,12 +5265,12 @@
     {
      "kind": "spread",
      "label": "POR -7.5",
-     "odds": 1.64,
+     "odds": 1.66,
      "line": -7.5,
-     "prob": 0.4554,
+     "prob": 0.4522,
      "prob_model": 0.3694,
-     "prob_market": 0.4923,
-     "value": -0.2531,
+     "prob_market": 0.4877,
+     "value": -0.2494,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.64,
@@ -5279,12 +5279,12 @@
     {
      "kind": "spread",
      "label": "MEM +7.5",
-     "odds": 1.59,
+     "odds": 1.58,
      "line": -7.5,
-     "prob": 0.5446,
+     "prob": 0.5478,
      "prob_model": 0.6306,
-     "prob_market": 0.5077,
-     "value": -0.1341,
+     "prob_market": 0.5123,
+     "value": -0.1345,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.59,
@@ -5293,12 +5293,12 @@
     {
      "kind": "spread",
      "label": "POR -8.5",
-     "odds": 1.75,
+     "odds": 1.78,
      "line": -8.5,
-     "prob": 0.4238,
+     "prob": 0.4185,
      "prob_model": 0.3397,
-     "prob_market": 0.4599,
-     "value": -0.2583,
+     "prob_market": 0.4523,
+     "value": -0.255,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.75,
@@ -5307,12 +5307,12 @@
     {
      "kind": "spread",
      "label": "MEM +8.5",
-     "odds": 1.49,
+     "odds": 1.47,
      "line": -8.5,
-     "prob": 0.5762,
+     "prob": 0.5815,
      "prob_model": 0.6603,
-     "prob_market": 0.5401,
-     "value": -0.1415,
+     "prob_market": 0.5477,
+     "value": -0.1452,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.5,
@@ -5321,12 +5321,12 @@
     {
      "kind": "spread",
      "label": "POR -6.5",
-     "odds": 1.53,
+     "odds": 1.56,
      "line": -6.5,
-     "prob": 0.4884,
+     "prob": 0.483,
      "prob_model": 0.4,
-     "prob_market": 0.5263,
-     "value": -0.2527,
+     "prob_market": 0.5185,
+     "value": -0.2466,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.53,
@@ -5335,12 +5335,12 @@
     {
      "kind": "spread",
      "label": "MEM +6.5",
-     "odds": 1.7,
+     "odds": 1.68,
      "line": -6.5,
-     "prob": 0.5116,
+     "prob": 0.517,
      "prob_model": 0.6,
-     "prob_market": 0.4737,
-     "value": -0.1303,
+     "prob_market": 0.4815,
+     "value": -0.1314,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.7,
@@ -5349,12 +5349,12 @@
     {
      "kind": "spread",
      "label": "POR -10.5",
-     "odds": 2.04,
+     "odds": 2.07,
      "line": -10.5,
-     "prob": 0.3625,
+     "prob": 0.3575,
      "prob_model": 0.2832,
-     "prob_market": 0.3964,
-     "value": -0.2605,
+     "prob_market": 0.3894,
+     "value": -0.2599,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 2.04,
@@ -5363,12 +5363,12 @@
     {
      "kind": "spread",
      "label": "MEM +10.5",
-     "odds": 1.34,
+     "odds": 1.32,
      "line": -10.5,
-     "prob": 0.6375,
+     "prob": 0.6425,
      "prob_model": 0.7168,
-     "prob_market": 0.6036,
-     "value": -0.1457,
+     "prob_market": 0.6106,
+     "value": -0.1519,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.34,
@@ -5377,12 +5377,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 120.5 ÜST",
-     "odds": 1.64,
+     "odds": 1.68,
      "line": 120.5,
-     "prob": 0.4536,
+     "prob": 0.4449,
      "prob_model": 0.3633,
-     "prob_market": 0.4923,
-     "value": -0.2561,
+     "prob_market": 0.4799,
+     "value": -0.2525,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.64,
@@ -5391,12 +5391,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 120.5 ALT",
-     "odds": 1.59,
+     "odds": 1.55,
      "line": 120.5,
-     "prob": 0.5464,
+     "prob": 0.5551,
      "prob_model": 0.6367,
-     "prob_market": 0.5077,
-     "value": -0.1312,
+     "prob_market": 0.5201,
+     "value": -0.1396,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.59,
@@ -5405,12 +5405,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 118.5 ÜST",
-     "odds": 1.44,
+     "odds": 1.47,
      "line": 118.5,
-     "prob": 0.5218,
+     "prob": 0.5134,
      "prob_model": 0.4303,
-     "prob_market": 0.561,
-     "value": -0.2487,
+     "prob_market": 0.5491,
+     "value": -0.2452,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.44,
@@ -5419,12 +5419,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 118.5 ALT",
-     "odds": 1.84,
+     "odds": 1.79,
      "line": 118.5,
-     "prob": 0.4782,
+     "prob": 0.4866,
      "prob_model": 0.5697,
-     "prob_market": 0.439,
-     "value": -0.1201,
+     "prob_market": 0.4509,
+     "value": -0.1291,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.84,
@@ -5433,12 +5433,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 119.5 ÜST",
-     "odds": 1.53,
+     "odds": 1.57,
      "line": 119.5,
-     "prob": 0.4873,
+     "prob": 0.4787,
      "prob_model": 0.3964,
-     "prob_market": 0.5263,
-     "value": -0.2544,
+     "prob_market": 0.5139,
+     "value": -0.2485,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.53,
@@ -5447,12 +5447,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 119.5 ALT",
-     "odds": 1.7,
+     "odds": 1.66,
      "line": 119.5,
-     "prob": 0.5127,
+     "prob": 0.5213,
      "prob_model": 0.6036,
-     "prob_market": 0.4737,
-     "value": -0.1285,
+     "prob_market": 0.4861,
+     "value": -0.1346,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.7,
@@ -5460,41 +5460,13 @@
     },
     {
      "kind": "team_total",
-     "label": "POR takım 122.5 ÜST",
-     "odds": 1.89,
-     "line": 122.5,
-     "prob": 0.3892,
-     "prob_model": 0.3003,
-     "prob_market": 0.4273,
-     "value": -0.2644,
-     "model_total": 229.6,
-     "model_margin": 3.3,
-     "odds_open": 1.89,
-     "result": null
-    },
-    {
-     "kind": "team_total",
-     "label": "POR takım 122.5 ALT",
-     "odds": 1.41,
-     "line": 122.5,
-     "prob": 0.6108,
-     "prob_model": 0.6997,
-     "prob_market": 0.5727,
-     "value": -0.1388,
-     "model_total": 229.6,
-     "model_margin": 3.3,
-     "odds_open": 1.41,
-     "result": null
-    },
-    {
-     "kind": "team_total",
      "label": "POR takım 121.5 ÜST",
-     "odds": 1.75,
+     "odds": 1.81,
      "line": 121.5,
-     "prob": 0.4213,
+     "prob": 0.4119,
      "prob_model": 0.3312,
-     "prob_market": 0.4599,
-     "value": -0.2628,
+     "prob_market": 0.4465,
+     "value": -0.2544,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.75,
@@ -5503,12 +5475,12 @@
     {
      "kind": "team_total",
      "label": "POR takım 121.5 ALT",
-     "odds": 1.49,
+     "odds": 1.46,
      "line": 121.5,
-     "prob": 0.5787,
+     "prob": 0.5881,
      "prob_model": 0.6688,
-     "prob_market": 0.5401,
-     "value": -0.1377,
+     "prob_market": 0.5535,
+     "value": -0.1414,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.49,
@@ -5516,13 +5488,41 @@
     },
     {
      "kind": "team_total",
+     "label": "POR takım 117.5 ÜST",
+     "odds": 1.39,
+     "line": 117.5,
+     "prob": 0.5463,
+     "prob_model": 0.4647,
+     "prob_market": 0.5813,
+     "value": -0.2406,
+     "model_total": 229.6,
+     "model_margin": 3.3,
+     "odds_open": 1.39,
+     "result": null
+    },
+    {
+     "kind": "team_total",
+     "label": "POR takım 117.5 ALT",
+     "odds": 1.93,
+     "line": 117.5,
+     "prob": 0.4537,
+     "prob_model": 0.5353,
+     "prob_market": 0.4187,
+     "value": -0.1244,
+     "model_total": 229.6,
+     "model_margin": 3.3,
+     "odds_open": 1.93,
+     "result": null
+    },
+    {
+     "kind": "team_total",
      "label": "MEM takım 113.5 ÜST",
-     "odds": 1.64,
+     "odds": 1.66,
      "line": 113.5,
-     "prob": 0.4898,
+     "prob": 0.4866,
      "prob_model": 0.4877,
-     "prob_market": 0.4907,
-     "value": -0.1967,
+     "prob_market": 0.4861,
+     "value": -0.1923,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.64,
@@ -5531,11 +5531,11 @@
     {
      "kind": "team_total",
      "label": "MEM takım 113.5 ALT",
-     "odds": 1.58,
+     "odds": 1.57,
      "line": 113.5,
-     "prob": 0.5102,
+     "prob": 0.5134,
      "prob_model": 0.5123,
-     "prob_market": 0.5093,
+     "prob_market": 0.5139,
      "value": -0.1939,
      "model_total": 229.6,
      "model_margin": 3.3,
@@ -5545,12 +5545,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 112.5 ÜST",
-     "odds": 1.53,
+     "odds": 1.55,
      "line": 112.5,
-     "prob": 0.5251,
+     "prob": 0.5219,
      "prob_model": 0.5224,
-     "prob_market": 0.5263,
-     "value": -0.1965,
+     "prob_market": 0.5216,
+     "value": -0.1911,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.53,
@@ -5559,12 +5559,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 112.5 ALT",
-     "odds": 1.7,
+     "odds": 1.69,
      "line": 112.5,
-     "prob": 0.4749,
+     "prob": 0.4781,
      "prob_model": 0.4776,
-     "prob_market": 0.4737,
-     "value": -0.1928,
+     "prob_market": 0.4784,
+     "value": -0.1919,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.7,
@@ -5573,12 +5573,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 111.5 ÜST",
-     "odds": 1.44,
+     "odds": 1.45,
      "line": 111.5,
-     "prob": 0.5588,
+     "prob": 0.5557,
      "prob_model": 0.5569,
-     "prob_market": 0.5596,
-     "value": -0.1953,
+     "prob_market": 0.5552,
+     "value": -0.1942,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.44,
@@ -5587,12 +5587,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 111.5 ALT",
-     "odds": 1.83,
+     "odds": 1.81,
      "line": 111.5,
-     "prob": 0.4412,
+     "prob": 0.4443,
      "prob_model": 0.4431,
-     "prob_market": 0.4404,
-     "value": -0.1926,
+     "prob_market": 0.4448,
+     "value": -0.1959,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.83,
@@ -5601,12 +5601,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 114.5 ÜST",
-     "odds": 1.77,
+     "odds": 1.79,
      "line": 114.5,
-     "prob": 0.4547,
+     "prob": 0.4516,
      "prob_model": 0.4532,
-     "prob_market": 0.4554,
-     "value": -0.1951,
+     "prob_market": 0.4509,
+     "value": -0.1916,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.77,
@@ -5615,12 +5615,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 114.5 ALT",
-     "odds": 1.48,
+     "odds": 1.47,
      "line": 114.5,
-     "prob": 0.5453,
+     "prob": 0.5484,
      "prob_model": 0.5468,
-     "prob_market": 0.5446,
-     "value": -0.193,
+     "prob_market": 0.5491,
+     "value": -0.1938,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.48,
@@ -5629,12 +5629,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 115.5 ÜST",
-     "odds": 1.92,
+     "odds": 1.93,
      "line": 115.5,
-     "prob": 0.4209,
+     "prob": 0.4175,
      "prob_model": 0.4189,
-     "prob_market": 0.4217,
-     "value": -0.192,
+     "prob_market": 0.4169,
+     "value": -0.1942,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.92,
@@ -5643,12 +5643,12 @@
     {
      "kind": "team_total",
      "label": "MEM takım 115.5 ALT",
-     "odds": 1.4,
+     "odds": 1.38,
      "line": 115.5,
-     "prob": 0.5791,
+     "prob": 0.5825,
      "prob_model": 0.5811,
-     "prob_market": 0.5783,
-     "value": -0.1892,
+     "prob_market": 0.5831,
+     "value": -0.1962,
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.4,
@@ -5656,10 +5656,10 @@
     }
    ],
    "game_bets": [],
-   "iddaa_total": 233.5,
+   "iddaa_total": 232.5,
    "context": {
     "MEM": [
-     "iddaa beklentisi 113 sayı (ort. 115)"
+     "iddaa beklentisi 112 sayı (ort. 115)"
     ],
     "POR": [
      "iddaa beklentisi 120 sayı (ort. 120)"
@@ -5675,20 +5675,20 @@
      "proj_min": 32.8,
      "markets": {
       "PTS": {
-       "mean": 14.91,
-       "var": 28.08,
+       "mean": 14.84,
+       "var": 27.84,
        "under": 20.5,
-       "over": 9.5
+       "over": 8.5
       },
       "REB": {
-       "mean": 10.58,
-       "var": 19.63,
+       "mean": 10.55,
+       "var": 19.52,
        "under": 15.5,
        "over": 5.5
       },
       "AST": {
-       "mean": 4.77,
-       "var": 5.24,
+       "mean": 4.75,
+       "var": 5.23,
        "under": 7.5,
        "over": 1.5
       },
@@ -5699,26 +5699,26 @@
        "over": null
       },
       "PRA": {
-       "mean": 30.24,
-       "var": 80.68,
-       "under": 40.5,
+       "mean": 30.13,
+       "var": 80.1,
+       "under": 39.5,
        "over": 20.5
       },
       "RA": {
-       "mean": 15.25,
-       "var": 33.26,
+       "mean": 15.21,
+       "var": 33.08,
        "under": 21.5,
        "over": 8.5
       },
       "PR": {
-       "mean": 25.45,
-       "var": 65.28,
+       "mean": 25.35,
+       "var": 64.81,
        "under": 34.5,
        "over": 16.5
       },
       "PA": {
-       "mean": 19.74,
-       "var": 41.12,
+       "mean": 19.66,
+       "var": 40.78,
        "under": 26.5,
        "over": 12.5
       }
@@ -5733,51 +5733,51 @@
      "proj_min": 31.7,
      "markets": {
       "PTS": {
-       "mean": 22.61,
-       "var": 64.61,
+       "mean": 22.52,
+       "var": 64.07,
        "under": 31.5,
        "over": 13.5
       },
       "REB": {
-       "mean": 6.28,
-       "var": 9.14,
+       "mean": 6.27,
+       "var": 9.09,
        "under": 9.5,
        "over": 2.5
       },
       "AST": {
-       "mean": 6.14,
-       "var": 8.01,
+       "mean": 6.12,
+       "var": 7.97,
        "under": 9.5,
        "over": 2.5
       },
       "3PM": {
-       "mean": 1.65,
-       "var": 1.82,
+       "mean": 1.64,
+       "var": 1.81,
        "under": 3.5,
        "over": null
       },
       "PRA": {
-       "mean": 34.89,
-       "var": 107.41,
-       "under": 46.5,
+       "mean": 34.76,
+       "var": 106.62,
+       "under": 45.5,
        "over": 23.5
       },
       "RA": {
-       "mean": 12.27,
-       "var": 21.53,
+       "mean": 12.24,
+       "var": 21.42,
        "under": 17.5,
        "over": 7.5
       },
       "PR": {
-       "mean": 28.74,
-       "var": 83.26,
+       "mean": 28.63,
+       "var": 82.63,
        "under": 38.5,
        "over": 18.5
       },
       "PA": {
-       "mean": 28.86,
-       "var": 87.86,
-       "under": 39.5,
+       "mean": 28.75,
+       "var": 87.18,
+       "under": 38.5,
        "over": 18.5
       }
      }
@@ -5791,51 +5791,51 @@
      "proj_min": 31.4,
      "markets": {
       "PTS": {
-       "mean": 28.62,
-       "var": 103.53,
+       "mean": 28.49,
+       "var": 102.62,
        "under": 39.5,
        "over": 17.5
       },
       "REB": {
-       "mean": 3.44,
-       "var": 7.44,
+       "mean": 3.43,
+       "var": 7.4,
        "under": 6.5,
        "over": 0.5
       },
       "AST": {
-       "mean": 6.96,
-       "var": 10.3,
+       "mean": 6.94,
+       "var": 10.24,
        "under": 10.5,
        "over": 3.5
       },
       "3PM": {
-       "mean": 2.96,
-       "var": 3.38,
+       "mean": 2.95,
+       "var": 3.35,
        "under": 5.5,
        "over": 0.5
       },
       "PRA": {
-       "mean": 38.8,
-       "var": 132.79,
-       "under": 51.5,
+       "mean": 38.64,
+       "var": 131.73,
+       "under": 50.5,
        "over": 26.5
       },
       "RA": {
-       "mean": 10.21,
-       "var": 15.62,
+       "mean": 10.18,
+       "var": 15.53,
        "under": 14.5,
        "over": 5.5
       },
       "PR": {
-       "mean": 31.82,
-       "var": 108.07,
-       "under": 43.5,
+       "mean": 31.69,
+       "var": 107.16,
+       "under": 42.5,
        "over": 20.5
       },
       "PA": {
-       "mean": 35.73,
-       "var": 134.66,
-       "under": 48.5,
+       "mean": 35.58,
+       "var": 133.54,
+       "under": 47.5,
        "over": 23.5
       }
      }
@@ -5849,50 +5849,50 @@
      "proj_min": 30.4,
      "markets": {
       "PTS": {
-       "mean": 16.17,
-       "var": 51.98,
-       "under": 24.5,
+       "mean": 16.1,
+       "var": 51.53,
+       "under": 23.5,
        "over": 8.5
       },
       "REB": {
-       "mean": 7.86,
-       "var": 19.38,
+       "mean": 7.84,
+       "var": 19.28,
        "under": 12.5,
        "over": 2.5
       },
       "AST": {
-       "mean": 2.64,
-       "var": 3.1,
+       "mean": 2.63,
+       "var": 3.08,
        "under": 4.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 1.97,
-       "var": 2.16,
+       "mean": 1.96,
+       "var": 2.15,
        "under": 3.5,
        "over": null
       },
       "PRA": {
-       "mean": 26.66,
-       "var": 87.48,
+       "mean": 26.56,
+       "var": 86.83,
        "under": 36.5,
        "over": 16.5
       },
       "RA": {
-       "mean": 10.45,
-       "var": 23.04,
+       "mean": 10.43,
+       "var": 22.92,
        "under": 15.5,
        "over": 5.5
       },
       "PR": {
-       "mean": 23.96,
-       "var": 81.96,
+       "mean": 23.87,
+       "var": 81.34,
        "under": 33.5,
        "over": 14.5
       },
       "PA": {
-       "mean": 18.9,
-       "var": 56.88,
+       "mean": 18.82,
+       "var": 56.4,
        "under": 27.5,
        "over": 10.5
       }
@@ -5907,50 +5907,50 @@
      "proj_min": 29.2,
      "markets": {
       "PTS": {
-       "mean": 15.29,
-       "var": 29.56,
+       "mean": 15.23,
+       "var": 29.3,
        "under": 21.5,
        "over": 9.5
       },
       "REB": {
-       "mean": 3.81,
-       "var": 4.19,
+       "mean": 3.8,
+       "var": 4.18,
        "under": 6.5,
        "over": 1.5
       },
       "AST": {
        "mean": 1.52,
-       "var": 1.85,
+       "var": 1.84,
        "under": 3.5,
        "over": null
       },
       "3PM": {
-       "mean": 2.06,
-       "var": 2.27,
+       "mean": 2.05,
+       "var": 2.26,
        "under": 4.5,
        "over": 0.5
       },
       "PRA": {
-       "mean": 20.58,
-       "var": 39.95,
+       "mean": 20.49,
+       "var": 39.63,
        "under": 27.5,
        "over": 13.5
       },
       "RA": {
-       "mean": 5.31,
-       "var": 7.39,
+       "mean": 5.29,
+       "var": 7.35,
        "under": 8.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 19.0,
-       "var": 36.39,
+       "mean": 18.92,
+       "var": 36.1,
        "under": 25.5,
        "over": 12.5
       },
       "PA": {
-       "mean": 16.91,
-       "var": 30.65,
+       "mean": 16.83,
+       "var": 30.39,
        "under": 23.5,
        "over": 10.5
       }
@@ -5965,51 +5965,51 @@
      "proj_min": 28.8,
      "markets": {
       "PTS": {
-       "mean": 8.43,
-       "var": 18.01,
+       "mean": 8.39,
+       "var": 17.85,
        "under": 13.5,
        "over": 3.5
       },
       "REB": {
-       "mean": 3.59,
-       "var": 5.76,
+       "mean": 3.58,
+       "var": 5.73,
        "under": 6.5,
        "over": 0.5
       },
       "AST": {
-       "mean": 3.64,
-       "var": 8.05,
+       "mean": 3.63,
+       "var": 8.0,
        "under": 6.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 0.65,
+       "mean": 0.64,
        "var": 0.73,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 15.6,
-       "var": 36.6,
+       "mean": 15.54,
+       "var": 36.33,
        "under": 22.5,
        "over": 8.5
       },
       "RA": {
-       "mean": 7.14,
-       "var": 17.52,
+       "mean": 7.12,
+       "var": 17.42,
        "under": 11.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 11.97,
-       "var": 22.11,
+       "mean": 11.92,
+       "var": 21.94,
        "under": 17.5,
        "over": 6.5
       },
       "PA": {
-       "mean": 12.1,
-       "var": 28.45,
-       "under": 18.5,
+       "mean": 12.05,
+       "var": 28.22,
+       "under": 17.5,
        "over": 6.5
       }
      }
@@ -6023,50 +6023,50 @@
      "proj_min": 27.3,
      "markets": {
       "PTS": {
-       "mean": 19.93,
-       "var": 50.21,
+       "mean": 19.85,
+       "var": 49.8,
        "under": 27.5,
        "over": 12.5
       },
       "REB": {
-       "mean": 2.99,
-       "var": 4.4,
+       "mean": 2.98,
+       "var": 4.37,
        "under": 5.5,
        "over": 0.5
       },
       "AST": {
-       "mean": 7.76,
-       "var": 12.8,
+       "mean": 7.74,
+       "var": 12.73,
        "under": 11.5,
        "over": 3.5
       },
       "3PM": {
        "mean": 1.14,
-       "var": 1.26,
+       "var": 1.25,
        "under": 2.5,
        "over": null
       },
       "PRA": {
-       "mean": 30.48,
-       "var": 81.97,
+       "mean": 30.37,
+       "var": 81.36,
        "under": 40.5,
        "over": 20.5
       },
       "RA": {
-       "mean": 10.54,
-       "var": 21.86,
+       "mean": 10.51,
+       "var": 21.74,
        "under": 15.5,
        "over": 5.5
       },
       "PR": {
-       "mean": 22.76,
-       "var": 52.23,
+       "mean": 22.67,
+       "var": 51.82,
        "under": 30.5,
        "over": 14.5
       },
       "PA": {
-       "mean": 27.77,
-       "var": 81.38,
+       "mean": 27.67,
+       "var": 80.76,
        "under": 37.5,
        "over": 18.5
       }
@@ -6081,50 +6081,50 @@
      "proj_min": 26.0,
      "markets": {
       "PTS": {
-       "mean": 14.82,
-       "var": 32.71,
+       "mean": 14.76,
+       "var": 32.44,
        "under": 21.5,
        "over": 8.5
       },
       "REB": {
-       "mean": 3.85,
-       "var": 4.23,
+       "mean": 3.84,
+       "var": 4.22,
        "under": 6.5,
        "over": 1.5
       },
       "AST": {
-       "mean": 4.39,
-       "var": 6.28,
+       "mean": 4.38,
+       "var": 6.24,
        "under": 7.5,
        "over": 1.5
       },
       "3PM": {
-       "mean": 2.03,
-       "var": 2.23,
+       "mean": 2.02,
+       "var": 2.22,
        "under": 4.5,
        "over": 0.5
       },
       "PRA": {
-       "mean": 22.96,
-       "var": 46.52,
+       "mean": 22.88,
+       "var": 46.18,
        "under": 30.5,
        "over": 15.5
       },
       "RA": {
-       "mean": 8.13,
-       "var": 9.46,
+       "mean": 8.11,
+       "var": 9.4,
        "under": 11.5,
        "over": 4.5
       },
       "PR": {
-       "mean": 18.57,
-       "var": 40.08,
+       "mean": 18.5,
+       "var": 39.78,
        "under": 25.5,
        "over": 11.5
       },
       "PA": {
-       "mean": 19.29,
-       "var": 39.24,
+       "mean": 19.21,
+       "var": 38.94,
        "under": 26.5,
        "over": 12.5
       }
@@ -6139,50 +6139,50 @@
      "proj_min": 25.1,
      "markets": {
       "PTS": {
-       "mean": 13.61,
-       "var": 24.07,
+       "mean": 13.55,
+       "var": 23.85,
        "under": 19.5,
        "over": 8.5
       },
       "REB": {
-       "mean": 3.74,
-       "var": 4.12,
+       "mean": 3.73,
+       "var": 4.11,
        "under": 6.5,
        "over": 1.5
       },
       "AST": {
-       "mean": 3.85,
-       "var": 4.23,
+       "mean": 3.84,
+       "var": 4.22,
        "under": 6.5,
        "over": 1.5
       },
       "3PM": {
-       "mean": 1.94,
-       "var": 2.13,
+       "mean": 1.93,
+       "var": 2.12,
        "under": 3.5,
        "over": null
       },
       "PRA": {
-       "mean": 21.11,
-       "var": 39.32,
-       "under": 28.5,
+       "mean": 21.03,
+       "var": 39.02,
+       "under": 27.5,
        "over": 14.5
       },
       "RA": {
-       "mean": 7.5,
-       "var": 8.25,
+       "mean": 7.47,
+       "var": 8.22,
        "under": 10.5,
        "over": 4.5
       },
       "PR": {
-       "mean": 17.26,
-       "var": 30.02,
+       "mean": 17.19,
+       "var": 29.78,
        "under": 23.5,
        "over": 11.5
       },
       "PA": {
-       "mean": 17.52,
-       "var": 32.39,
+       "mean": 17.45,
+       "var": 32.12,
        "under": 23.5,
        "over": 11.5
       }
@@ -6197,14 +6197,14 @@
      "proj_min": 24.7,
      "markets": {
       "PTS": {
-       "mean": 11.41,
-       "var": 42.13,
+       "mean": 11.36,
+       "var": 41.78,
        "under": 18.5,
        "over": 4.5
       },
       "REB": {
-       "mean": 3.03,
-       "var": 3.33,
+       "mean": 3.02,
+       "var": 3.32,
        "under": 5.5,
        "over": 0.5
       },
@@ -6215,32 +6215,32 @@
        "over": null
       },
       "3PM": {
-       "mean": 2.6,
-       "var": 2.86,
+       "mean": 2.59,
+       "var": 2.84,
        "under": 4.5,
        "over": 0.5
       },
       "PRA": {
-       "mean": 15.71,
-       "var": 48.96,
+       "mean": 15.65,
+       "var": 48.6,
        "under": 23.5,
        "over": 8.5
       },
       "RA": {
-       "mean": 4.31,
-       "var": 4.74,
+       "mean": 4.3,
+       "var": 4.73,
        "under": 7.5,
        "over": 1.5
       },
       "PR": {
-       "mean": 14.36,
-       "var": 44.23,
+       "mean": 14.31,
+       "var": 43.9,
        "under": 21.5,
        "over": 7.5
       },
       "PA": {
-       "mean": 12.79,
-       "var": 47.45,
+       "mean": 12.74,
+       "var": 47.07,
        "under": 20.5,
        "over": 5.5
       }
@@ -6255,50 +6255,50 @@
      "proj_min": 23.9,
      "markets": {
       "PTS": {
-       "mean": 11.84,
-       "var": 25.37,
+       "mean": 11.79,
+       "var": 25.14,
        "under": 17.5,
        "over": 6.5
       },
       "REB": {
-       "mean": 2.59,
-       "var": 3.46,
+       "mean": 2.58,
+       "var": 3.44,
        "under": 4.5,
        "over": 0.5
       },
       "AST": {
-       "mean": 1.36,
-       "var": 1.9,
+       "mean": 1.35,
+       "var": 1.88,
        "under": 3.5,
        "over": null
       },
       "3PM": {
-       "mean": 1.65,
-       "var": 1.81,
+       "mean": 1.64,
+       "var": 1.8,
        "under": 3.5,
        "over": null
       },
       "PRA": {
-       "mean": 15.74,
-       "var": 27.33,
+       "mean": 15.68,
+       "var": 27.11,
        "under": 21.5,
        "over": 9.5
       },
       "RA": {
-       "mean": 3.92,
-       "var": 6.49,
+       "mean": 3.91,
+       "var": 6.45,
        "under": 6.5,
        "over": 0.5
       },
       "PR": {
-       "mean": 14.34,
-       "var": 28.77,
+       "mean": 14.28,
+       "var": 28.54,
        "under": 20.5,
        "over": 8.5
       },
       "PA": {
-       "mean": 13.27,
-       "var": 22.87,
+       "mean": 13.21,
+       "var": 22.68,
        "under": 18.5,
        "over": 7.5
       }
@@ -6313,52 +6313,52 @@
      "proj_min": 23.6,
      "markets": {
       "PTS": {
-       "mean": 15.45,
-       "var": 49.75,
+       "mean": 15.38,
+       "var": 49.32,
        "under": 23.5,
        "over": 7.5
       },
       "REB": {
-       "mean": 4.54,
-       "var": 4.99,
+       "mean": 4.53,
+       "var": 4.98,
        "under": 7.5,
        "over": 1.5
       },
       "AST": {
        "mean": 1.13,
-       "var": 1.25,
+       "var": 1.24,
        "under": 2.5,
        "over": null
       },
       "3PM": {
-       "mean": 1.58,
-       "var": 1.74,
+       "mean": 1.57,
+       "var": 1.73,
        "under": 3.5,
        "over": null
       },
       "PRA": {
-       "mean": 21.08,
-       "var": 57.9,
+       "mean": 21.0,
+       "var": 57.44,
        "under": 29.5,
        "over": 12.5
       },
       "RA": {
-       "mean": 5.66,
-       "var": 6.22,
+       "mean": 5.64,
+       "var": 6.21,
        "under": 8.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 19.88,
-       "var": 57.03,
+       "mean": 19.8,
+       "var": 56.58,
        "under": 28.5,
        "over": 11.5
       },
       "PA": {
-       "mean": 16.68,
-       "var": 50.37,
+       "mean": 16.6,
+       "var": 49.94,
        "under": 24.5,
-       "over": 9.5
+       "over": 8.5
       }
      }
     },
@@ -6371,50 +6371,50 @@
      "proj_min": 23.5,
      "markets": {
       "PTS": {
-       "mean": 7.79,
-       "var": 31.97,
+       "mean": 7.76,
+       "var": 31.71,
        "under": 13.5,
        "over": 1.5
       },
       "REB": {
-       "mean": 4.14,
-       "var": 6.79,
+       "mean": 4.13,
+       "var": 6.75,
        "under": 7.5,
        "over": 1.5
       },
       "AST": {
        "mean": 2.69,
-       "var": 4.98,
+       "var": 4.96,
        "under": 5.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 0.81,
-       "var": 0.89,
+       "mean": 0.8,
+       "var": 0.88,
        "under": 2.5,
        "over": null
       },
       "PRA": {
-       "mean": 14.6,
-       "var": 48.56,
+       "mean": 14.55,
+       "var": 48.23,
        "under": 22.5,
        "over": 7.5
       },
       "RA": {
-       "mean": 6.77,
-       "var": 9.92,
+       "mean": 6.76,
+       "var": 9.87,
        "under": 10.5,
        "over": 3.5
       },
       "PR": {
-       "mean": 11.9,
-       "var": 51.43,
+       "mean": 11.86,
+       "var": 51.06,
        "under": 19.5,
        "over": 4.5
       },
       "PA": {
-       "mean": 10.52,
-       "var": 30.97,
+       "mean": 10.48,
+       "var": 30.74,
        "under": 16.5,
        "over": 4.5
       }
@@ -6429,20 +6429,20 @@
      "proj_min": 22.9,
      "markets": {
       "PTS": {
-       "mean": 7.99,
-       "var": 10.64,
+       "mean": 7.96,
+       "var": 10.55,
        "under": 11.5,
        "over": 4.5
       },
       "REB": {
-       "mean": 8.16,
-       "var": 11.68,
+       "mean": 8.14,
+       "var": 11.62,
        "under": 12.5,
        "over": 4.5
       },
       "AST": {
-       "mean": 1.75,
-       "var": 1.92,
+       "mean": 1.74,
+       "var": 1.91,
        "under": 3.5,
        "over": null
       },
@@ -6453,26 +6453,26 @@
        "over": null
       },
       "PRA": {
-       "mean": 17.94,
-       "var": 28.39,
+       "mean": 17.88,
+       "var": 28.21,
        "under": 23.5,
        "over": 11.5
       },
       "RA": {
-       "mean": 9.89,
-       "var": 13.98,
+       "mean": 9.86,
+       "var": 13.91,
        "under": 14.5,
        "over": 5.5
       },
       "PR": {
-       "mean": 16.15,
-       "var": 26.31,
+       "mean": 16.1,
+       "var": 26.14,
        "under": 21.5,
        "over": 10.5
       },
       "PA": {
-       "mean": 9.78,
-       "var": 12.48,
+       "mean": 9.74,
+       "var": 12.38,
        "under": 13.5,
        "over": 5.5
       }
@@ -6487,20 +6487,20 @@
      "proj_min": 21.3,
      "markets": {
       "PTS": {
-       "mean": 8.33,
-       "var": 21.23,
+       "mean": 8.3,
+       "var": 21.05,
        "under": 13.5,
        "over": 3.5
       },
       "REB": {
-       "mean": 7.6,
-       "var": 10.49,
+       "mean": 7.58,
+       "var": 10.44,
        "under": 11.5,
        "over": 3.5
       },
       "AST": {
        "mean": 1.13,
-       "var": 1.25,
+       "var": 1.24,
        "under": 2.5,
        "over": null
       },
@@ -6511,26 +6511,26 @@
        "over": null
       },
       "PRA": {
-       "mean": 17.11,
-       "var": 46.03,
+       "mean": 17.05,
+       "var": 45.71,
        "under": 24.5,
        "over": 9.5
       },
       "RA": {
-       "mean": 8.73,
-       "var": 12.28,
+       "mean": 8.71,
+       "var": 12.22,
        "under": 12.5,
        "over": 4.5
       },
       "PR": {
-       "mean": 15.93,
-       "var": 46.5,
+       "mean": 15.87,
+       "var": 46.18,
        "under": 23.5,
        "over": 8.5
       },
       "PA": {
-       "mean": 9.51,
-       "var": 20.06,
+       "mean": 9.47,
+       "var": 19.89,
        "under": 14.5,
        "over": 4.5
       }
@@ -6545,50 +6545,50 @@
      "proj_min": 21.1,
      "markets": {
       "PTS": {
-       "mean": 8.96,
-       "var": 33.5,
+       "mean": 8.92,
+       "var": 33.21,
        "under": 15.5,
        "over": 2.5
       },
       "REB": {
-       "mean": 4.13,
-       "var": 4.93,
+       "mean": 4.12,
+       "var": 4.91,
        "under": 6.5,
        "over": 1.5
       },
       "AST": {
        "mean": 0.88,
-       "var": 0.97,
+       "var": 0.96,
        "under": 2.5,
        "over": null
       },
       "3PM": {
-       "mean": 1.12,
-       "var": 1.54,
+       "mean": 1.11,
+       "var": 1.52,
        "under": 2.5,
        "over": null
       },
       "PRA": {
-       "mean": 13.96,
-       "var": 53.88,
+       "mean": 13.91,
+       "var": 53.47,
        "under": 21.5,
        "over": 6.5
       },
       "RA": {
-       "mean": 4.99,
-       "var": 6.14,
+       "mean": 4.98,
+       "var": 6.11,
        "under": 8.5,
        "over": 1.5
       },
       "PR": {
-       "mean": 13.04,
-       "var": 49.15,
+       "mean": 12.99,
+       "var": 48.77,
        "under": 20.5,
        "over": 5.5
       },
       "PA": {
-       "mean": 9.89,
-       "var": 37.86,
+       "mean": 9.85,
+       "var": 37.53,
        "under": 16.5,
        "over": 3.5
       }
@@ -6603,14 +6603,14 @@
      "proj_min": 18.9,
      "markets": {
       "PTS": {
-       "mean": 9.94,
-       "var": 37.73,
+       "mean": 9.9,
+       "var": 37.42,
        "under": 16.5,
        "over": 3.5
       },
       "REB": {
-       "mean": 1.59,
-       "var": 1.75,
+       "mean": 1.58,
+       "var": 1.74,
        "under": 3.5,
        "over": null
       },
@@ -6627,26 +6627,26 @@
        "over": null
       },
       "PRA": {
-       "mean": 13.29,
-       "var": 45.26,
+       "mean": 13.24,
+       "var": 44.92,
        "under": 20.5,
        "over": 6.5
       },
       "RA": {
        "mean": 3.36,
-       "var": 3.7,
+       "var": 3.69,
        "under": 5.5,
        "over": 0.5
       },
       "PR": {
-       "mean": 11.45,
-       "var": 42.39,
+       "mean": 11.4,
+       "var": 42.06,
        "under": 18.5,
        "over": 4.5
       },
       "PA": {
-       "mean": 11.81,
-       "var": 39.5,
+       "mean": 11.77,
+       "var": 39.19,
        "under": 18.5,
        "over": 5.5
       }
@@ -6661,50 +6661,50 @@
      "proj_min": 18.4,
      "markets": {
       "PTS": {
-       "mean": 9.22,
-       "var": 18.69,
+       "mean": 9.18,
+       "var": 18.54,
        "under": 14.5,
        "over": 4.5
       },
       "REB": {
-       "mean": 4.98,
-       "var": 6.68,
+       "mean": 4.96,
+       "var": 6.65,
        "under": 8.5,
        "over": 1.5
       },
       "AST": {
        "mean": 1.06,
-       "var": 1.47,
+       "var": 1.46,
        "under": 2.5,
        "over": null
       },
       "3PM": {
        "mean": 1.19,
-       "var": 1.31,
+       "var": 1.3,
        "under": 2.5,
        "over": null
       },
       "PRA": {
-       "mean": 15.27,
-       "var": 44.43,
+       "mean": 15.21,
+       "var": 44.12,
        "under": 22.5,
        "over": 8.5
       },
       "RA": {
-       "mean": 6.03,
-       "var": 8.94,
+       "mean": 6.01,
+       "var": 8.89,
        "under": 9.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 14.16,
-       "var": 40.46,
+       "mean": 14.11,
+       "var": 40.17,
        "under": 21.5,
        "over": 7.5
       },
       "PA": {
-       "mean": 10.34,
-       "var": 21.84,
+       "mean": 10.3,
+       "var": 21.67,
        "under": 15.5,
        "over": 5.5
       }
@@ -6719,14 +6719,14 @@
      "proj_min": 18.2,
      "markets": {
       "PTS": {
-       "mean": 7.61,
-       "var": 16.55,
+       "mean": 7.58,
+       "var": 16.41,
        "under": 12.5,
        "over": 3.5
       },
       "REB": {
-       "mean": 6.81,
-       "var": 8.13,
+       "mean": 6.79,
+       "var": 8.09,
        "under": 10.5,
        "over": 3.5
       },
@@ -6743,26 +6743,26 @@
        "over": null
       },
       "PRA": {
-       "mean": 15.53,
-       "var": 21.27,
+       "mean": 15.47,
+       "var": 21.13,
        "under": 20.5,
        "over": 10.5
       },
       "RA": {
-       "mean": 7.87,
-       "var": 8.87,
+       "mean": 7.85,
+       "var": 8.82,
        "under": 11.5,
        "over": 4.5
       },
       "PR": {
-       "mean": 14.41,
-       "var": 20.94,
+       "mean": 14.36,
+       "var": 20.8,
        "under": 19.5,
        "over": 9.5
       },
       "PA": {
-       "mean": 8.73,
-       "var": 16.72,
+       "mean": 8.69,
+       "var": 16.59,
        "under": 13.5,
        "over": 4.5
       }
@@ -6832,25 +6832,25 @@
      "team": "Paris",
      "headshot": "",
      "injury": "",
-     "market": "PTS",
-     "label": "Sayı",
-     "line": 20,
-     "prob": 0.6514,
-     "odds": 1.41,
+     "market": "PA",
+     "label": "Sayı+Asist",
+     "line": 22,
+     "prob": 0.6637,
+     "odds": 1.42,
      "source": "IDDAA",
-     "value": -0.0815,
+     "value": -0.0575,
      "stake_tl": 0.0,
-     "expected": 23.18,
+     "expected": 26.01,
      "proj_min": 26.3,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.6435,
-     "prob_market": 0.6567,
+     "prob_model": 0.6813,
+     "prob_market": 0.6521,
      "market_src": "iddaa",
-     "odds_open": 1.41
+     "odds_open": 1.42
     },
     {
      "player_id": "P012611",
@@ -7083,6 +7083,20 @@
     {
      "player_id": "P012640",
      "player": "Nadir Hifi",
+     "market": "PA",
+     "line": 22,
+     "prob": 0.6637,
+     "prob_model": 0.6813,
+     "prob_market": 0.6521,
+     "odds": 1.42,
+     "odds_open": 1.42,
+     "value": -0.0575,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P012640",
+     "player": "Nadir Hifi",
      "market": "PR",
      "line": 21,
      "prob": 0.6991,
@@ -7133,6 +7147,20 @@
      "odds": 1.84,
      "odds_open": 1.84,
      "value": -0.0823,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P011052",
+     "player": "Yam Madar",
+     "market": "PA",
+     "line": 17,
+     "prob": 0.651,
+     "prob_model": 0.6284,
+     "prob_market": 0.6661,
+     "odds": 1.39,
+     "odds_open": 1.39,
+     "value": -0.0951,
      "result": null,
      "actual": null
     },
@@ -7319,6 +7347,20 @@
      "actual": null
     },
     {
+     "player_id": "P013699",
+     "player": "Jimmy Clark Iii",
+     "market": "PA",
+     "line": 17,
+     "prob": 0.6122,
+     "prob_model": 0.5092,
+     "prob_market": 0.6808,
+     "odds": 1.36,
+     "odds_open": 1.36,
+     "value": -0.1674,
+     "result": null,
+     "actual": null
+    },
+    {
      "player_id": "P015085",
      "player": "Keaton Wallace",
      "market": "PTS",
@@ -7455,6 +7497,20 @@
      "odds": 1.72,
      "odds_open": 1.72,
      "value": -0.2224,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P014178",
+     "player": "Jared Rhoden",
+     "market": "PA",
+     "line": 15,
+     "prob": 0.5452,
+     "prob_model": 0.385,
+     "prob_market": 0.6521,
+     "odds": 1.42,
+     "odds_open": 1.42,
+     "value": -0.2258,
      "result": null,
      "actual": null
     },
@@ -8998,6 +9054,20 @@
      "actual": null
     },
     {
+     "player_id": "P007027",
+     "player": "Theo Maledon",
+     "market": "PA",
+     "line": 19,
+     "prob": 0.6411,
+     "prob_model": 0.6383,
+     "prob_market": 0.643,
+     "odds": 1.44,
+     "odds_open": 1.44,
+     "value": -0.0768,
+     "result": null,
+     "actual": null
+    },
+    {
      "player_id": "P002849",
      "player": "Nicolo Melli",
      "market": "PR",
@@ -9022,6 +9092,20 @@
      "odds": 1.51,
      "odds_open": 1.51,
      "value": -0.0774,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P011247",
+     "player": "Andres Feliz",
+     "market": "PA",
+     "line": 15,
+     "prob": 0.641,
+     "prob_model": 0.6244,
+     "prob_market": 0.6521,
+     "odds": 1.42,
+     "odds_open": 1.42,
+     "value": -0.0898,
      "result": null,
      "actual": null
     },
@@ -9166,6 +9250,20 @@
      "actual": null
     },
     {
+     "player_id": "P005928",
+     "player": "Facundo Campazzo",
+     "market": "PA",
+     "line": 13,
+     "prob": 0.6071,
+     "prob_model": 0.5395,
+     "prob_market": 0.6521,
+     "odds": 1.42,
+     "odds_open": 1.42,
+     "value": -0.138,
+     "result": null,
+     "actual": null
+    },
+    {
      "player_id": "P002849",
      "player": "Nicolo Melli",
      "market": "PTS",
@@ -9274,6 +9372,20 @@
      "odds": 1.43,
      "odds_open": 1.43,
      "value": -0.1713,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P009863",
+     "player": "Wade Baldwin Iv",
+     "market": "PA",
+     "line": 17,
+     "prob": 0.5847,
+     "prob_model": 0.4625,
+     "prob_market": 0.6661,
+     "odds": 1.39,
+     "odds_open": 1.39,
+     "value": -0.1873,
      "result": null,
      "actual": null
     },
@@ -10581,14 +10693,14 @@
    "completed": false,
    "date_utc": "2026-10-29T19:00Z",
    "home": {
-    "id": "FC BAYERN MUNICH",
+    "id": "CRVENA ZVEZDA MERIDIANBET BELGRADE",
     "abbr": "Kızıl Yıldız",
     "name": "Kızıl Yıldız",
     "logo": "",
     "score": null
    },
    "away": {
-    "id": "CRVENA ZVEZDA MERIDIANBET BELGRADE",
+    "id": "FC BAYERN MUNICH",
     "abbr": "Bayern Münih",
     "name": "Bayern Münih",
     "logo": "",
@@ -10598,8 +10710,8 @@
     "comp": "E",
     "year": 2026,
     "teams": [
-     "FC BAYERN MUNICH",
-     "CRVENA ZVEZDA MERIDIANBET BELGRADE"
+     "CRVENA ZVEZDA MERIDIANBET BELGRADE",
+     "FC BAYERN MUNICH"
     ],
     "after_code": 60
    },
@@ -10607,33 +10719,59 @@
     {
      "player_id": "P003958",
      "player": "Johannes Thiemann",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "market": "PRA",
      "label": "Sayı+Rib+Asist",
      "line": 12,
-     "prob": 0.6933,
+     "prob": 0.6801,
      "odds": 1.64,
      "source": "IDDAA",
-     "value": 0.1369,
+     "value": 0.1153,
      "stake_tl": 30.0,
-     "expected": 17.61,
+     "expected": 16.62,
      "proj_min": 21.7,
      "notes": [],
      "confidence": "Yüksek Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.8863,
+     "prob_model": 0.8532,
      "prob_market": 0.5646,
      "market_src": "iddaa",
      "odds_open": 1.64
     },
     {
+     "player_id": "P011982",
+     "player": "Semi Ojeleye",
+     "team": "Kızıl Yıldız",
+     "headshot": "",
+     "injury": "",
+     "market": "PTS",
+     "label": "Sayı",
+     "line": 9,
+     "prob": 0.6725,
+     "odds": 1.52,
+     "source": "IDDAA",
+     "value": 0.0222,
+     "stake_tl": 0.0,
+     "expected": 11.65,
+     "proj_min": 24.7,
+     "notes": [],
+     "confidence": "Yüksek Güven",
+     "actual": null,
+     "actual_min": null,
+     "result": null,
+     "prob_model": 0.7675,
+     "prob_market": 0.6092,
+     "market_src": "iddaa",
+     "odds_open": 1.52
+    },
+    {
      "player_id": "P003958",
      "player": "Johannes Thiemann",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "market": "REB",
@@ -10657,53 +10795,27 @@
      "odds_open": 1.53
     },
     {
-     "player_id": "P011982",
-     "player": "Semi Ojeleye",
-     "team": "Bayern Münih",
-     "headshot": "",
-     "injury": "",
-     "market": "PTS",
-     "label": "Sayı",
-     "line": 9,
-     "prob": 0.6448,
-     "odds": 1.52,
-     "source": "IDDAA",
-     "value": -0.0199,
-     "stake_tl": 0.0,
-     "expected": 10.66,
-     "proj_min": 24.7,
-     "notes": [],
-     "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
-     "prob_model": 0.6983,
-     "prob_market": 0.6092,
-     "market_src": "iddaa",
-     "odds_open": 1.52
-    },
-    {
      "player_id": "P012201",
      "player": "Chima Moneke",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "market": "PRA",
      "label": "Sayı+Rib+Asist",
      "line": 17,
-     "prob": 0.6317,
+     "prob": 0.6563,
      "odds": 1.57,
      "source": "IDDAA",
-     "value": -0.0083,
+     "value": 0.0304,
      "stake_tl": 0.0,
-     "expected": 20.2,
+     "expected": 21.62,
      "proj_min": 21.2,
      "notes": [],
      "confidence": "Yüksek Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.6945,
+     "prob_model": 0.7561,
      "prob_market": 0.5898,
      "market_src": "iddaa",
      "odds_open": 1.57
@@ -10711,25 +10823,25 @@
     {
      "player_id": "P012201",
      "player": "Chima Moneke",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "market": "PTS",
      "label": "Sayı",
      "line": 12,
-     "prob": 0.6264,
+     "prob": 0.651,
      "odds": 1.54,
      "source": "IDDAA",
-     "value": -0.0354,
+     "value": 0.0026,
      "stake_tl": 0.0,
-     "expected": 14.81,
+     "expected": 16.19,
      "proj_min": 21.2,
      "notes": [],
      "confidence": "Yüksek Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.6641,
+     "prob_model": 0.7256,
      "prob_market": 0.6013,
      "market_src": "iddaa",
      "odds_open": 1.54
@@ -10737,25 +10849,25 @@
     {
      "player_id": "P014029",
      "player": "Ebuka Izundu",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "market": "PTS",
      "label": "Sayı",
      "line": 5,
-     "prob": 0.6054,
+     "prob": 0.6298,
      "odds": 1.61,
      "source": "IDDAA",
-     "value": -0.0253,
+     "value": 0.0139,
      "stake_tl": 0.0,
-     "expected": 5.63,
+     "expected": 6.15,
      "proj_min": 17.3,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.6508,
+     "prob_model": 0.7118,
      "prob_market": 0.5751,
      "market_src": "iddaa",
      "odds_open": 1.61
@@ -10763,25 +10875,25 @@
     {
      "player_id": "P014163",
      "player": "Jared Butler",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "market": "AST",
      "label": "Asist",
      "line": 3,
-     "prob": 0.5128,
+     "prob": 0.5284,
      "odds": 1.97,
      "source": "IDDAA",
-     "value": 0.0103,
+     "value": 0.041,
      "stake_tl": 0.0,
-     "expected": 3.05,
+     "expected": 3.24,
      "proj_min": 16.8,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.5771,
+     "prob_model": 0.616,
      "prob_market": 0.47,
      "market_src": "iddaa",
      "odds_open": 1.97
@@ -10789,7 +10901,7 @@
     {
      "player_id": "P014029",
      "player": "Ebuka Izundu",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "market": "REB",
@@ -10819,12 +10931,40 @@
      "player": "Johannes Thiemann",
      "market": "PRA",
      "line": 12,
-     "prob": 0.6933,
-     "prob_model": 0.8863,
+     "prob": 0.6801,
+     "prob_model": 0.8532,
      "prob_market": 0.5646,
      "odds": 1.64,
      "odds_open": 1.64,
-     "value": 0.1369,
+     "value": 0.1153,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P014163",
+     "player": "Jared Butler",
+     "market": "AST",
+     "line": 3,
+     "prob": 0.5284,
+     "prob_model": 0.616,
+     "prob_market": 0.47,
+     "odds": 1.97,
+     "odds_open": 1.97,
+     "value": 0.041,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P012201",
+     "player": "Chima Moneke",
+     "market": "PRA",
+     "line": 17,
+     "prob": 0.6563,
+     "prob_model": 0.7561,
+     "prob_market": 0.5898,
+     "odds": 1.57,
+     "odds_open": 1.57,
+     "value": 0.0304,
      "result": null,
      "actual": null
     },
@@ -10843,58 +10983,16 @@
      "actual": null
     },
     {
-     "player_id": "P014163",
-     "player": "Jared Butler",
-     "market": "AST",
-     "line": 3,
-     "prob": 0.5128,
-     "prob_model": 0.5771,
-     "prob_market": 0.47,
-     "odds": 1.97,
-     "odds_open": 1.97,
-     "value": 0.0103,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P012201",
-     "player": "Chima Moneke",
-     "market": "PRA",
-     "line": 17,
-     "prob": 0.6317,
-     "prob_model": 0.6945,
-     "prob_market": 0.5898,
-     "odds": 1.57,
-     "odds_open": 1.57,
-     "value": -0.0083,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P003958",
-     "player": "Johannes Thiemann",
-     "market": "PR",
-     "line": 12,
-     "prob": 0.7301,
-     "prob_model": 0.7965,
-     "prob_market": 0.6859,
-     "odds": 1.35,
-     "odds_open": 1.35,
-     "value": -0.0143,
-     "result": null,
-     "actual": null
-    },
-    {
      "player_id": "P011982",
      "player": "Semi Ojeleye",
      "market": "PTS",
      "line": 9,
-     "prob": 0.6448,
-     "prob_model": 0.6983,
+     "prob": 0.6725,
+     "prob_model": 0.7675,
      "prob_market": 0.6092,
      "odds": 1.52,
      "odds_open": 1.52,
-     "value": -0.0199,
+     "value": 0.0222,
      "result": null,
      "actual": null
     },
@@ -10903,26 +11001,40 @@
      "player": "Ebuka Izundu",
      "market": "PTS",
      "line": 5,
-     "prob": 0.6054,
-     "prob_model": 0.6508,
+     "prob": 0.6298,
+     "prob_model": 0.7118,
      "prob_market": 0.5751,
      "odds": 1.61,
      "odds_open": 1.61,
-     "value": -0.0253,
+     "value": 0.0139,
      "result": null,
      "actual": null
     },
     {
-     "player_id": "P003958",
-     "player": "Johannes Thiemann",
-     "market": "AST",
-     "line": 2,
-     "prob": 0.504,
-     "prob_model": 0.5404,
-     "prob_market": 0.4798,
-     "odds": 1.93,
-     "odds_open": 1.93,
-     "value": -0.0273,
+     "player_id": "P012201",
+     "player": "Chima Moneke",
+     "market": "PTS",
+     "line": 12,
+     "prob": 0.651,
+     "prob_model": 0.7256,
+     "prob_market": 0.6013,
+     "odds": 1.54,
+     "odds_open": 1.54,
+     "value": 0.0026,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P012201",
+     "player": "Chima Moneke",
+     "market": "PR",
+     "line": 15,
+     "prob": 0.7359,
+     "prob_model": 0.7955,
+     "prob_market": 0.6962,
+     "odds": 1.33,
+     "odds_open": 1.33,
+     "value": -0.0213,
      "result": null,
      "actual": null
     },
@@ -10941,16 +11053,16 @@
      "actual": null
     },
     {
-     "player_id": "P012201",
-     "player": "Chima Moneke",
-     "market": "PTS",
+     "player_id": "P003958",
+     "player": "Johannes Thiemann",
+     "market": "PR",
      "line": 12,
-     "prob": 0.6264,
-     "prob_model": 0.6641,
-     "prob_market": 0.6013,
-     "odds": 1.54,
-     "odds_open": 1.54,
-     "value": -0.0354,
+     "prob": 0.7116,
+     "prob_model": 0.7502,
+     "prob_market": 0.6859,
+     "odds": 1.35,
+     "odds_open": 1.35,
+     "value": -0.0393,
      "result": null,
      "actual": null
     },
@@ -10969,30 +11081,44 @@
      "actual": null
     },
     {
-     "player_id": "P003958",
-     "player": "Johannes Thiemann",
-     "market": "PTS",
-     "line": 7,
-     "prob": 0.779,
-     "prob_model": 0.8182,
-     "prob_market": 0.7528,
-     "odds": 1.23,
-     "odds_open": 1.23,
+     "player_id": "P011982",
+     "player": "Semi Ojeleye",
+     "market": "PR",
+     "line": 14,
+     "prob": 0.67,
+     "prob_model": 0.7037,
+     "prob_market": 0.6475,
+     "odds": 1.43,
+     "odds_open": 1.43,
      "value": -0.0419,
      "result": null,
      "actual": null
     },
     {
-     "player_id": "P012201",
-     "player": "Chima Moneke",
-     "market": "PR",
-     "line": 15,
-     "prob": 0.7161,
-     "prob_model": 0.7459,
-     "prob_market": 0.6962,
-     "odds": 1.33,
-     "odds_open": 1.33,
-     "value": -0.0476,
+     "player_id": "P003958",
+     "player": "Johannes Thiemann",
+     "market": "AST",
+     "line": 2,
+     "prob": 0.4913,
+     "prob_model": 0.5085,
+     "prob_market": 0.4798,
+     "odds": 1.93,
+     "odds_open": 1.93,
+     "value": -0.0518,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P003958",
+     "player": "Johannes Thiemann",
+     "market": "PTS",
+     "line": 7,
+     "prob": 0.7595,
+     "prob_model": 0.7696,
+     "prob_market": 0.7528,
+     "odds": 1.23,
+     "odds_open": 1.23,
+     "value": -0.0658,
      "result": null,
      "actual": null
     },
@@ -11001,12 +11127,12 @@
      "player": "Vladimir Lucic",
      "market": "PTS",
      "line": 5,
-     "prob": 0.5873,
-     "prob_model": 0.6109,
+     "prob": 0.572,
+     "prob_model": 0.5727,
      "prob_market": 0.5716,
      "odds": 1.62,
      "odds_open": 1.62,
-     "value": -0.0486,
+     "value": -0.0733,
      "result": null,
      "actual": null
     },
@@ -11015,12 +11141,12 @@
      "player": "Duane Washington",
      "market": "AST",
      "line": 3,
-     "prob": 0.6207,
-     "prob_model": 0.638,
+     "prob": 0.6047,
+     "prob_model": 0.5981,
      "prob_market": 0.6092,
      "odds": 1.52,
      "odds_open": 1.52,
-     "value": -0.0565,
+     "value": -0.0808,
      "result": null,
      "actual": null
     },
@@ -11029,40 +11155,12 @@
      "player": "Andreas Obst",
      "market": "AST",
      "line": 3,
-     "prob": 0.5034,
-     "prob_model": 0.5119,
+     "prob": 0.4919,
+     "prob_model": 0.483,
      "prob_market": 0.4978,
      "odds": 1.86,
      "odds_open": 1.86,
-     "value": -0.0636,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P011982",
-     "player": "Semi Ojeleye",
-     "market": "PR",
-     "line": 14,
-     "prob": 0.6448,
-     "prob_model": 0.6407,
-     "prob_market": 0.6475,
-     "odds": 1.43,
-     "odds_open": 1.43,
-     "value": -0.078,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P004508",
-     "player": "Andreas Obst",
-     "market": "PRA",
-     "line": 15,
-     "prob": 0.5538,
-     "prob_model": 0.5376,
-     "prob_market": 0.5646,
-     "odds": 1.64,
-     "odds_open": 1.64,
-     "value": -0.0917,
+     "value": -0.0851,
      "result": null,
      "actual": null
     },
@@ -11081,20 +11179,6 @@
      "actual": null
     },
     {
-     "player_id": "P013370",
-     "player": "Duane Washington",
-     "market": "PTS",
-     "line": 16,
-     "prob": 0.5655,
-     "prob_model": 0.5457,
-     "prob_market": 0.5787,
-     "odds": 1.6,
-     "odds_open": 1.6,
-     "value": -0.0952,
-     "result": null,
-     "actual": null
-    },
-    {
      "player_id": "P013278",
      "player": "Austin Wiley",
      "market": "BLK",
@@ -11109,16 +11193,16 @@
      "actual": null
     },
     {
-     "player_id": "P013278",
-     "player": "Austin Wiley",
-     "market": "PR",
-     "line": 12,
-     "prob": 0.6134,
-     "prob_model": 0.5758,
-     "prob_market": 0.6386,
-     "odds": 1.45,
-     "odds_open": 1.45,
-     "value": -0.1105,
+     "player_id": "P011305",
+     "player": "Tyson Carter",
+     "market": "AST",
+     "line": 3,
+     "prob": 0.5271,
+     "prob_model": 0.4958,
+     "prob_market": 0.5479,
+     "odds": 1.69,
+     "odds_open": 1.69,
+     "value": -0.1093,
      "result": null,
      "actual": null
     },
@@ -11137,72 +11221,16 @@
      "actual": null
     },
     {
-     "player_id": "P011305",
-     "player": "Tyson Carter",
-     "market": "AST",
-     "line": 3,
-     "prob": 0.5106,
-     "prob_model": 0.4548,
-     "prob_market": 0.5479,
-     "odds": 1.69,
-     "odds_open": 1.69,
-     "value": -0.137,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P004508",
-     "player": "Andreas Obst",
-     "market": "PTS",
-     "line": 11,
-     "prob": 0.6424,
-     "prob_model": 0.5617,
-     "prob_market": 0.6962,
-     "odds": 1.33,
-     "odds_open": 1.33,
-     "value": -0.1456,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P007519",
-     "player": "Rokas Jokubaitis",
-     "market": "PTS",
-     "line": 9,
-     "prob": 0.5271,
-     "prob_model": 0.4551,
-     "prob_market": 0.5751,
-     "odds": 1.61,
-     "odds_open": 1.61,
-     "value": -0.1513,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P007519",
-     "player": "Rokas Jokubaitis",
-     "market": "AST",
-     "line": 4,
-     "prob": 0.4388,
-     "prob_model": 0.3697,
-     "prob_market": 0.4848,
-     "odds": 1.91,
-     "odds_open": 1.91,
-     "value": -0.162,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P010568",
-     "player": "Chris Jones",
-     "market": "AST",
-     "line": 7,
-     "prob": 0.5366,
-     "prob_model": 0.4395,
-     "prob_market": 0.6013,
-     "odds": 1.54,
-     "odds_open": 1.54,
-     "value": -0.1737,
+     "player_id": "P013370",
+     "player": "Duane Washington",
+     "market": "PA",
+     "line": 18,
+     "prob": 0.6005,
+     "prob_model": 0.5367,
+     "prob_market": 0.643,
+     "odds": 1.44,
+     "odds_open": 1.44,
+     "value": -0.1353,
      "result": null,
      "actual": null
     },
@@ -11211,12 +11239,110 @@
      "player": "Jordan Nwora",
      "market": "PR",
      "line": 20,
-     "prob": 0.5897,
-     "prob_model": 0.4678,
+     "prob": 0.6224,
+     "prob_model": 0.5496,
      "prob_market": 0.671,
      "odds": 1.38,
      "odds_open": 1.38,
-     "value": -0.1862,
+     "value": -0.1411,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P010568",
+     "player": "Chris Jones",
+     "market": "AST",
+     "line": 7,
+     "prob": 0.5574,
+     "prob_model": 0.4916,
+     "prob_market": 0.6013,
+     "odds": 1.54,
+     "odds_open": 1.54,
+     "value": -0.1416,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P013278",
+     "player": "Austin Wiley",
+     "market": "PR",
+     "line": 12,
+     "prob": 0.591,
+     "prob_model": 0.5195,
+     "prob_market": 0.6386,
+     "odds": 1.45,
+     "odds_open": 1.45,
+     "value": -0.1431,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P004508",
+     "player": "Andreas Obst",
+     "market": "PA",
+     "line": 13,
+     "prob": 0.6135,
+     "prob_model": 0.5346,
+     "prob_market": 0.6661,
+     "odds": 1.39,
+     "odds_open": 1.39,
+     "value": -0.1472,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P004508",
+     "player": "Andreas Obst",
+     "market": "PRA",
+     "line": 15,
+     "prob": 0.5197,
+     "prob_model": 0.4523,
+     "prob_market": 0.5646,
+     "odds": 1.64,
+     "odds_open": 1.64,
+     "value": -0.1477,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P013370",
+     "player": "Duane Washington",
+     "market": "PTS",
+     "line": 16,
+     "prob": 0.5271,
+     "prob_model": 0.4497,
+     "prob_market": 0.5787,
+     "odds": 1.6,
+     "odds_open": 1.6,
+     "value": -0.1566,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P013363",
+     "player": "Jordan Nwora",
+     "market": "PTS",
+     "line": 17,
+     "prob": 0.5041,
+     "prob_model": 0.4237,
+     "prob_market": 0.5578,
+     "odds": 1.66,
+     "odds_open": 1.66,
+     "value": -0.1631,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P014163",
+     "player": "Jared Butler",
+     "market": "PTS",
+     "line": 11,
+     "prob": 0.5205,
+     "prob_model": 0.4165,
+     "prob_market": 0.5898,
+     "odds": 1.57,
+     "odds_open": 1.57,
+     "value": -0.1829,
      "result": null,
      "actual": null
     },
@@ -11231,6 +11357,34 @@
      "odds": 2.07,
      "odds_open": 2.07,
      "value": -0.1888,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P004508",
+     "player": "Andreas Obst",
+     "market": "PTS",
+     "line": 11,
+     "prob": 0.6085,
+     "prob_model": 0.4769,
+     "prob_market": 0.6962,
+     "odds": 1.33,
+     "odds_open": 1.33,
+     "value": -0.1908,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P007519",
+     "player": "Rokas Jokubaitis",
+     "market": "AST",
+     "line": 4,
+     "prob": 0.4225,
+     "prob_model": 0.3291,
+     "prob_market": 0.4848,
+     "odds": 1.91,
+     "odds_open": 1.91,
+     "value": -0.193,
      "result": null,
      "actual": null
     },
@@ -11263,30 +11417,16 @@
      "actual": null
     },
     {
-     "player_id": "P014163",
-     "player": "Jared Butler",
+     "player_id": "P007519",
+     "player": "Rokas Jokubaitis",
      "market": "PTS",
-     "line": 11,
-     "prob": 0.4968,
-     "prob_model": 0.3573,
-     "prob_market": 0.5898,
-     "odds": 1.57,
-     "odds_open": 1.57,
-     "value": -0.2201,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P013363",
-     "player": "Jordan Nwora",
-     "market": "PTS",
-     "line": 17,
-     "prob": 0.465,
-     "prob_model": 0.3259,
-     "prob_market": 0.5578,
-     "odds": 1.66,
-     "odds_open": 1.66,
-     "value": -0.228,
+     "line": 9,
+     "prob": 0.4894,
+     "prob_model": 0.3609,
+     "prob_market": 0.5751,
+     "odds": 1.61,
+     "odds_open": 1.61,
+     "value": -0.2121,
      "result": null,
      "actual": null
     },
@@ -11295,12 +11435,12 @@
      "player": "Nick Weiler-babb",
      "market": "AST",
      "line": 5,
-     "prob": 0.4287,
-     "prob_model": 0.2826,
+     "prob": 0.4435,
+     "prob_model": 0.3195,
      "prob_market": 0.5261,
      "odds": 1.76,
      "odds_open": 1.76,
-     "value": -0.2455,
+     "value": -0.2195,
      "result": null,
      "actual": null
     },
@@ -11309,12 +11449,40 @@
      "player": "Chima Moneke",
      "market": "AST",
      "line": 2,
-     "prob": 0.3196,
-     "prob_model": 0.1976,
+     "prob": 0.3265,
+     "prob_model": 0.215,
      "prob_market": 0.4008,
      "odds": 2.31,
      "odds_open": 2.31,
-     "value": -0.2618,
+     "value": -0.2457,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P010568",
+     "player": "Chris Jones",
+     "market": "PA",
+     "line": 17,
+     "prob": 0.5082,
+     "prob_model": 0.3191,
+     "prob_market": 0.6342,
+     "odds": 1.46,
+     "odds_open": 1.46,
+     "value": -0.2581,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "P010568",
+     "player": "Chris Jones",
+     "market": "PRA",
+     "line": 20,
+     "prob": 0.4598,
+     "prob_model": 0.2813,
+     "prob_market": 0.5787,
+     "odds": 1.6,
+     "odds_open": 1.6,
+     "value": -0.2644,
      "result": null,
      "actual": null
     },
@@ -11347,30 +11515,30 @@
      "actual": null
     },
     {
-     "player_id": "P010568",
-     "player": "Chris Jones",
-     "market": "PRA",
-     "line": 20,
-     "prob": 0.4337,
-     "prob_model": 0.2163,
-     "prob_market": 0.5787,
-     "odds": 1.6,
-     "odds_open": 1.6,
-     "value": -0.306,
+     "player_id": "P011305",
+     "player": "Tyson Carter",
+     "market": "PTS",
+     "line": 9,
+     "prob": 0.4302,
+     "prob_model": 0.2183,
+     "prob_market": 0.5716,
+     "odds": 1.62,
+     "odds_open": 1.62,
+     "value": -0.303,
      "result": null,
      "actual": null
     },
     {
      "player_id": "P011305",
      "player": "Tyson Carter",
-     "market": "PTS",
-     "line": 9,
-     "prob": 0.4102,
-     "prob_model": 0.1682,
-     "prob_market": 0.5716,
-     "odds": 1.62,
-     "odds_open": 1.62,
-     "value": -0.3354,
+     "market": "PRA",
+     "line": 14,
+     "prob": 0.4116,
+     "prob_model": 0.2023,
+     "prob_market": 0.5511,
+     "odds": 1.68,
+     "odds_open": 1.68,
+     "value": -0.3085,
      "result": null,
      "actual": null
     },
@@ -11379,12 +11547,12 @@
      "player": "Chris Jones",
      "market": "PTS",
      "line": 11,
-     "prob": 0.4504,
-     "prob_model": 0.1748,
+     "prob": 0.4703,
+     "prob_model": 0.2245,
      "prob_market": 0.6342,
      "odds": 1.46,
      "odds_open": 1.46,
-     "value": -0.3423,
+     "value": -0.3134,
      "result": null,
      "actual": null
     },
@@ -11393,26 +11561,12 @@
      "player": "Chris Jones",
      "market": "PR",
      "line": 14,
-     "prob": 0.4175,
-     "prob_model": 0.159,
+     "prob": 0.4348,
+     "prob_model": 0.2024,
      "prob_market": 0.5898,
      "odds": 1.57,
      "odds_open": 1.57,
-     "value": -0.3446,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "P011305",
-     "player": "Tyson Carter",
-     "market": "PRA",
-     "line": 14,
-     "prob": 0.3899,
-     "prob_model": 0.148,
-     "prob_market": 0.5511,
-     "odds": 1.68,
-     "odds_open": 1.68,
-     "value": -0.345,
+     "value": -0.3173,
      "result": null,
      "actual": null
     },
@@ -11421,12 +11575,12 @@
      "player": "Nick Weiler-babb",
      "market": "PRA",
      "line": 15,
-     "prob": 0.3691,
-     "prob_model": 0.0601,
+     "prob": 0.376,
+     "prob_model": 0.0775,
      "prob_market": 0.5751,
      "odds": 1.61,
      "odds_open": 1.61,
-     "value": -0.4057,
+     "value": -0.3946,
      "result": null,
      "actual": null
     },
@@ -11435,12 +11589,12 @@
      "player": "Miles Norris",
      "market": "PTS",
      "line": 10,
-     "prob": 0.3418,
-     "prob_model": 0.0375,
+     "prob": 0.3358,
+     "prob_model": 0.0225,
      "prob_market": 0.5447,
      "odds": 1.7,
      "odds_open": 1.7,
-     "value": -0.4189,
+     "value": -0.4291,
      "result": null,
      "actual": null
     },
@@ -11449,12 +11603,12 @@
      "player": "Nick Weiler-babb",
      "market": "PTS",
      "line": 6,
-     "prob": 0.3385,
-     "prob_model": 0.0096,
+     "prob": 0.3413,
+     "prob_model": 0.0167,
      "prob_market": 0.5578,
      "odds": 1.66,
      "odds_open": 1.66,
-     "value": -0.438,
+     "value": -0.4334,
      "result": null,
      "actual": null
     }
@@ -11464,11 +11618,11 @@
    "iddaa_total": 168.5,
    "context": {
     "Bayern Münih": [
-     "iddaa beklentisi 80 sayı (ort. 81)",
+     "iddaa beklentisi 80 sayı (ort. 87)",
      "Euroleague sakatlık listesi yok: son 3 maçta oynayanlar alındı"
     ],
     "Kızıl Yıldız": [
-     "iddaa beklentisi 88 sayı (ort. 87)",
+     "iddaa beklentisi 88 sayı (ort. 81)",
      "Euroleague sakatlık listesi yok: son 3 maçta oynayanlar alındı"
     ]
    },
@@ -11476,15 +11630,15 @@
     {
      "player_id": "P011982",
      "player": "Semi Ojeleye",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "proj_min": 24.7,
      "markets": {
       "PTS": {
-       "mean": 10.66,
-       "var": 14.35,
-       "under": 15.5,
+       "mean": 11.65,
+       "var": 17.15,
+       "under": 16.5,
        "over": 6.5
       },
       "REB": {
@@ -11494,56 +11648,56 @@
        "over": 1.5
       },
       "AST": {
-       "mean": 1.51,
-       "var": 1.66,
+       "mean": 1.6,
+       "var": 1.76,
        "under": 3.5,
        "over": null
       },
       "3PM": {
-       "mean": 0.61,
-       "var": 0.67,
+       "mean": 0.66,
+       "var": 0.73,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 17.13,
-       "var": 25.89,
-       "under": 22.5,
-       "over": 11.5
+       "mean": 18.22,
+       "var": 29.27,
+       "under": 24.5,
+       "over": 12.5
       },
       "RA": {
-       "mean": 6.46,
-       "var": 7.86,
+       "mean": 6.56,
+       "var": 8.09,
        "under": 9.5,
        "over": 3.5
       },
       "PR": {
-       "mean": 15.58,
-       "var": 24.49,
-       "under": 21.5,
+       "mean": 16.57,
+       "var": 27.68,
+       "under": 22.5,
        "over": 10.5
       },
       "PA": {
-       "mean": 12.22,
-       "var": 15.76,
-       "under": 16.5,
-       "over": 7.5
+       "mean": 13.32,
+       "var": 18.72,
+       "under": 18.5,
+       "over": 8.5
       }
      }
     },
     {
      "player_id": "P004508",
      "player": "Andreas Obst",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 24.2,
      "markets": {
       "PTS": {
-       "mean": 11.64,
-       "var": 21.33,
-       "under": 16.5,
-       "over": 6.5
+       "mean": 10.65,
+       "var": 17.85,
+       "under": 15.5,
+       "over": 5.5
       },
       "REB": {
        "mean": 1.03,
@@ -11552,56 +11706,56 @@
        "over": null
       },
       "AST": {
-       "mean": 2.9,
-       "var": 4.36,
+       "mean": 2.73,
+       "var": 3.86,
        "under": 5.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 2.27,
-       "var": 2.49,
+       "mean": 2.07,
+       "var": 2.28,
        "under": 4.5,
        "over": 0.5
       },
       "PRA": {
-       "mean": 15.47,
-       "var": 29.43,
-       "under": 21.5,
-       "over": 9.5
+       "mean": 14.32,
+       "var": 25.19,
+       "under": 19.5,
+       "over": 8.5
       },
       "RA": {
-       "mean": 3.86,
-       "var": 6.01,
+       "mean": 3.69,
+       "var": 5.5,
        "under": 6.5,
        "over": 0.5
       },
       "PR": {
-       "mean": 12.57,
-       "var": 18.91,
-       "under": 17.5,
-       "over": 7.5
+       "mean": 11.59,
+       "var": 16.07,
+       "under": 16.5,
+       "over": 6.5
       },
       "PA": {
-       "mean": 14.6,
-       "var": 31.4,
-       "under": 20.5,
-       "over": 8.5
+       "mean": 13.43,
+       "var": 26.57,
+       "under": 19.5,
+       "over": 7.5
       }
      }
     },
     {
      "player_id": "P013363",
      "player": "Jordan Nwora",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "proj_min": 21.9,
      "markets": {
       "PTS": {
-       "mean": 14.55,
-       "var": 26.76,
-       "under": 20.5,
-       "over": 8.5
+       "mean": 15.91,
+       "var": 31.98,
+       "under": 22.5,
+       "over": 9.5
       },
       "REB": {
        "mean": 5.03,
@@ -11610,55 +11764,55 @@
        "over": 2.5
       },
       "AST": {
-       "mean": 0.7,
-       "var": 0.77,
+       "mean": 0.74,
+       "var": 0.82,
        "under": 2.5,
        "over": null
       },
       "3PM": {
-       "mean": 1.24,
-       "var": 2.14,
+       "mean": 1.36,
+       "var": 2.56,
        "under": 3.5,
        "over": null
       },
       "PRA": {
-       "mean": 20.26,
-       "var": 36.23,
-       "under": 26.5,
-       "over": 13.5
+       "mean": 21.66,
+       "var": 41.38,
+       "under": 28.5,
+       "over": 14.5
       },
       "RA": {
-       "mean": 5.73,
-       "var": 6.3,
+       "mean": 5.77,
+       "var": 6.35,
        "under": 8.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 19.49,
-       "var": 38.31,
-       "under": 26.5,
-       "over": 12.5
+       "mean": 20.84,
+       "var": 43.77,
+       "under": 28.5,
+       "over": 13.5
       },
       "PA": {
-       "mean": 15.34,
-       "var": 24.83,
-       "under": 20.5,
-       "over": 9.5
+       "mean": 16.75,
+       "var": 29.6,
+       "under": 22.5,
+       "over": 10.5
       }
      }
     },
     {
      "player_id": "P003958",
      "player": "Johannes Thiemann",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 21.7,
      "markets": {
       "PTS": {
-       "mean": 10.36,
-       "var": 17.88,
-       "under": 15.5,
+       "mean": 9.48,
+       "var": 14.96,
+       "under": 13.5,
        "over": 5.5
       },
       "REB": {
@@ -11668,55 +11822,55 @@
        "over": 2.5
       },
       "AST": {
-       "mean": 1.85,
-       "var": 2.03,
+       "mean": 1.74,
+       "var": 1.91,
        "under": 3.5,
        "over": null
       },
       "3PM": {
-       "mean": 0.38,
-       "var": 0.41,
+       "mean": 0.34,
+       "var": 0.38,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 17.61,
-       "var": 27.35,
-       "under": 23.5,
+       "mean": 16.62,
+       "var": 24.37,
+       "under": 22.5,
        "over": 11.5
       },
       "RA": {
-       "mean": 7.22,
-       "var": 7.94,
+       "mean": 7.11,
+       "var": 7.82,
        "under": 10.5,
        "over": 3.5
       },
       "PR": {
-       "mean": 15.72,
-       "var": 24.92,
-       "under": 21.5,
-       "over": 10.5
+       "mean": 14.84,
+       "var": 22.22,
+       "under": 20.5,
+       "over": 9.5
       },
       "PA": {
-       "mean": 12.27,
-       "var": 19.78,
-       "under": 17.5,
-       "over": 7.5
+       "mean": 11.27,
+       "var": 16.69,
+       "under": 15.5,
+       "over": 6.5
       }
      }
     },
     {
      "player_id": "P014732",
      "player": "Marjon Beauchamp",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 21.4,
      "markets": {
       "PTS": {
-       "mean": 8.53,
-       "var": 9.39,
-       "under": 12.5,
+       "mean": 7.81,
+       "var": 8.59,
+       "under": 11.5,
        "over": 4.5
       },
       "REB": {
@@ -11726,39 +11880,39 @@
        "over": 0.5
       },
       "AST": {
-       "mean": 2.26,
-       "var": 2.48,
+       "mean": 2.12,
+       "var": 2.33,
        "under": 4.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 0.94,
-       "var": 1.03,
+       "mean": 0.86,
+       "var": 0.94,
        "under": 2.5,
        "over": null
       },
       "PRA": {
-       "mean": 14.26,
-       "var": 22.15,
-       "under": 19.5,
+       "mean": 13.4,
+       "var": 19.57,
+       "under": 18.5,
        "over": 8.5
       },
       "RA": {
-       "mean": 5.71,
-       "var": 6.28,
+       "mean": 5.58,
+       "var": 6.14,
        "under": 8.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 11.99,
-       "var": 22.42,
-       "under": 17.5,
+       "mean": 11.27,
+       "var": 19.81,
+       "under": 16.5,
        "over": 6.5
       },
       "PA": {
-       "mean": 10.83,
-       "var": 12.38,
-       "under": 14.5,
+       "mean": 9.96,
+       "var": 10.96,
+       "under": 13.5,
        "over": 6.5
       }
      }
@@ -11766,16 +11920,16 @@
     {
      "player_id": "P012201",
      "player": "Chima Moneke",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "proj_min": 21.2,
      "markets": {
       "PTS": {
-       "mean": 14.81,
-       "var": 41.91,
-       "under": 21.5,
-       "over": 7.5
+       "mean": 16.19,
+       "var": 50.09,
+       "under": 23.5,
+       "over": 8.5
       },
       "REB": {
        "mean": 4.61,
@@ -11784,54 +11938,54 @@
        "over": 1.5
       },
       "AST": {
-       "mean": 0.81,
-       "var": 0.89,
+       "mean": 0.86,
+       "var": 0.95,
        "under": 2.5,
        "over": null
       },
       "3PM": {
-       "mean": 1.83,
-       "var": 2.02,
-       "under": 3.5,
-       "over": null
+       "mean": 2.0,
+       "var": 2.2,
+       "under": 4.5,
+       "over": 0.5
       },
       "PRA": {
-       "mean": 20.2,
-       "var": 42.98,
-       "under": 27.5,
+       "mean": 21.62,
+       "var": 49.25,
+       "under": 29.5,
        "over": 13.5
       },
       "RA": {
-       "mean": 5.41,
-       "var": 5.95,
+       "mean": 5.46,
+       "var": 6.01,
        "under": 8.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 19.32,
-       "var": 46.76,
-       "under": 26.5,
-       "over": 11.5
+       "mean": 20.68,
+       "var": 53.61,
+       "under": 28.5,
+       "over": 12.5
       },
       "PA": {
-       "mean": 15.71,
-       "var": 37.65,
-       "under": 22.5,
-       "over": 8.5
+       "mean": 17.15,
+       "var": 44.87,
+       "under": 24.5,
+       "over": 9.5
       }
      }
     },
     {
      "player_id": "P010391",
      "player": "Nick Weiler-babb",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "proj_min": 20.2,
      "markets": {
       "PTS": {
-       "mean": 1.62,
-       "var": 1.78,
+       "mean": 1.77,
+       "var": 2.07,
        "under": 3.5,
        "over": null
       },
@@ -11842,56 +11996,56 @@
        "over": 0.5
       },
       "AST": {
-       "mean": 3.46,
-       "var": 5.16,
+       "mean": 3.69,
+       "var": 5.85,
        "under": 6.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 0.22,
+       "mean": 0.24,
        "var": 0.3,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 8.38,
-       "var": 13.36,
-       "under": 12.5,
+       "mean": 8.75,
+       "var": 14.57,
+       "under": 13.5,
        "over": 4.5
       },
       "RA": {
-       "mean": 6.7,
-       "var": 12.23,
-       "under": 10.5,
+       "mean": 6.92,
+       "var": 13.04,
+       "under": 11.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 4.96,
-       "var": 5.46,
-       "under": 7.5,
+       "mean": 5.11,
+       "var": 5.62,
+       "under": 8.5,
        "over": 2.5
       },
       "PA": {
-       "mean": 5.07,
-       "var": 7.19,
+       "mean": 5.44,
+       "var": 8.29,
        "under": 8.5,
-       "over": 1.5
+       "over": 2.5
       }
      }
     },
     {
      "player_id": "P013370",
      "player": "Duane Washington",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 20.0,
      "markets": {
       "PTS": {
-       "mean": 16.73,
-       "var": 36.27,
-       "under": 23.5,
-       "over": 10.5
+       "mean": 15.3,
+       "var": 30.35,
+       "under": 21.5,
+       "over": 9.5
       },
       "REB": {
        "mean": 0.6,
@@ -11900,55 +12054,55 @@
        "over": null
       },
       "AST": {
-       "mean": 3.35,
-       "var": 3.68,
+       "mean": 3.15,
+       "var": 3.46,
        "under": 5.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 2.7,
-       "var": 2.97,
+       "mean": 2.47,
+       "var": 2.72,
        "under": 4.5,
        "over": 0.5
       },
       "PRA": {
-       "mean": 20.54,
-       "var": 37.22,
-       "under": 27.5,
-       "over": 13.5
+       "mean": 18.93,
+       "var": 31.6,
+       "under": 25.5,
+       "over": 12.5
       },
       "RA": {
-       "mean": 3.86,
-       "var": 4.24,
+       "mean": 3.66,
+       "var": 4.03,
        "under": 6.5,
        "over": 1.5
       },
       "PR": {
-       "mean": 17.18,
-       "var": 32.54,
-       "under": 23.5,
-       "over": 10.5
+       "mean": 15.77,
+       "var": 27.41,
+       "under": 21.5,
+       "over": 9.5
       },
       "PA": {
-       "mean": 20.16,
-       "var": 42.9,
-       "under": 27.5,
-       "over": 12.5
+       "mean": 18.53,
+       "var": 36.23,
+       "under": 25.5,
+       "over": 11.5
       }
      }
     },
     {
      "player_id": "P010568",
      "player": "Chris Jones",
-     "team": "Bayern Münih",
+     "team": "Kızıl Yıldız",
      "headshot": "",
      "injury": "",
      "proj_min": 19.2,
      "markets": {
       "PTS": {
-       "mean": 6.95,
-       "var": 16.12,
-       "under": 11.5,
+       "mean": 7.59,
+       "var": 19.26,
+       "under": 12.5,
        "over": 2.5
       },
       "REB": {
@@ -11958,55 +12112,55 @@
        "over": 0.5
       },
       "AST": {
-       "mean": 6.34,
-       "var": 8.54,
-       "under": 9.5,
-       "over": 2.5
+       "mean": 6.75,
+       "var": 9.69,
+       "under": 10.5,
+       "over": 3.5
       },
       "3PM": {
-       "mean": 0.29,
-       "var": 0.32,
+       "mean": 0.32,
+       "var": 0.35,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 15.49,
-       "var": 29.11,
-       "under": 21.5,
-       "over": 9.5
+       "mean": 16.54,
+       "var": 33.18,
+       "under": 22.5,
+       "over": 10.5
       },
       "RA": {
-       "mean": 8.49,
-       "var": 10.31,
+       "mean": 8.89,
+       "var": 11.31,
        "under": 12.5,
        "over": 4.5
       },
       "PR": {
-       "mean": 9.23,
-       "var": 19.11,
-       "under": 14.5,
+       "mean": 9.87,
+       "var": 21.85,
+       "under": 15.5,
        "over": 4.5
       },
       "PA": {
-       "mean": 13.29,
-       "var": 26.78,
-       "under": 19.5,
-       "over": 7.5
+       "mean": 14.35,
+       "var": 31.23,
+       "under": 20.5,
+       "over": 8.5
       }
      }
     },
     {
      "player_id": "P011244",
      "player": "Oscar Da Silva",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 17.6,
      "markets": {
       "PTS": {
-       "mean": 8.96,
-       "var": 22.51,
-       "under": 14.5,
+       "mean": 8.2,
+       "var": 18.84,
+       "under": 13.5,
        "over": 3.5
       },
       "REB": {
@@ -12016,8 +12170,240 @@
        "over": null
       },
       "AST": {
-       "mean": 0.61,
-       "var": 0.67,
+       "mean": 0.57,
+       "var": 0.63,
+       "under": 1.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.18,
+       "var": 0.3,
+       "under": 0.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 10.69,
+       "var": 25.08,
+       "under": 16.5,
+       "over": 5.5
+      },
+      "RA": {
+       "mean": 2.51,
+       "var": 2.76,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PR": {
+       "mean": 10.09,
+       "var": 27.19,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 8.82,
+       "var": 16.72,
+       "under": 13.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "P014029",
+     "player": "Ebuka Izundu",
+     "team": "Kızıl Yıldız",
+     "headshot": "",
+     "injury": "",
+     "proj_min": 17.3,
+     "markets": {
+      "PTS": {
+       "mean": 6.15,
+       "var": 7.26,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "REB": {
+       "mean": 4.9,
+       "var": 6.07,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 0.29,
+       "var": 0.32,
+       "under": 1.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.0,
+       "var": 0.3,
+       "under": 0.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 11.38,
+       "var": 12.52,
+       "under": 15.5,
+       "over": 7.5
+      },
+      "RA": {
+       "mean": 5.2,
+       "var": 5.74,
+       "under": 8.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 11.05,
+       "var": 12.31,
+       "under": 15.5,
+       "over": 6.5
+      },
+      "PA": {
+       "mean": 6.48,
+       "var": 7.13,
+       "under": 9.5,
+       "over": 3.5
+      }
+     }
+    },
+    {
+     "player_id": "P014163",
+     "player": "Jared Butler",
+     "team": "Kızıl Yıldız",
+     "headshot": "",
+     "injury": "",
+     "proj_min": 16.8,
+     "markets": {
+      "PTS": {
+       "mean": 10.23,
+       "var": 34.95,
+       "under": 16.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 1.45,
+       "var": 1.59,
+       "under": 3.5,
+       "over": null
+      },
+      "AST": {
+       "mean": 3.24,
+       "var": 3.57,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 1.84,
+       "var": 2.02,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 14.83,
+       "var": 40.92,
+       "under": 21.5,
+       "over": 7.5
+      },
+      "RA": {
+       "mean": 4.6,
+       "var": 5.06,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 11.59,
+       "var": 41.05,
+       "under": 18.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 13.52,
+       "var": 34.91,
+       "under": 20.5,
+       "over": 7.5
+      }
+     }
+    },
+    {
+     "player_id": "P011305",
+     "player": "Tyson Carter",
+     "team": "Kızıl Yıldız",
+     "headshot": "",
+     "injury": "",
+     "proj_min": 16.7,
+     "markets": {
+      "PTS": {
+       "mean": 6.08,
+       "var": 12.04,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "REB": {
+       "mean": 1.98,
+       "var": 2.18,
+       "under": 3.5,
+       "over": null
+      },
+      "AST": {
+       "mean": 2.69,
+       "var": 2.96,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 1.0,
+       "var": 1.1,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 10.7,
+       "var": 11.92,
+       "under": 14.5,
+       "over": 6.5
+      },
+      "RA": {
+       "mean": 4.6,
+       "var": 5.06,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 8.03,
+       "var": 11.4,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 8.79,
+       "var": 13.92,
+       "under": 13.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "P001288",
+     "player": "Vladimir Lucic",
+     "team": "Bayern Münih",
+     "headshot": "",
+     "injury": "",
+     "proj_min": 16.5,
+     "markets": {
+      "PTS": {
+       "mean": 6.22,
+       "var": 21.57,
+       "under": 11.5,
+       "over": 1.5
+      },
+      "REB": {
+       "mean": 2.79,
+       "var": 3.25,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 0.53,
+       "var": 0.58,
        "under": 1.5,
        "over": null
       },
@@ -12028,259 +12414,27 @@
        "over": null
       },
       "PRA": {
-       "mean": 11.49,
-       "var": 28.95,
-       "under": 17.5,
-       "over": 5.5
-      },
-      "RA": {
-       "mean": 2.55,
-       "var": 2.8,
-       "under": 4.5,
-       "over": 0.5
-      },
-      "PR": {
-       "mean": 10.84,
-       "var": 31.42,
-       "under": 17.5,
-       "over": 4.5
-      },
-      "PA": {
-       "mean": 9.63,
-       "var": 19.91,
-       "under": 14.5,
-       "over": 4.5
-      }
-     }
-    },
-    {
-     "player_id": "P014029",
-     "player": "Ebuka Izundu",
-     "team": "Bayern Münih",
-     "headshot": "",
-     "injury": "",
-     "proj_min": 17.3,
-     "markets": {
-      "PTS": {
-       "mean": 5.63,
-       "var": 6.19,
-       "under": 8.5,
-       "over": 2.5
-      },
-      "REB": {
-       "mean": 4.9,
-       "var": 6.07,
-       "under": 7.5,
-       "over": 1.5
-      },
-      "AST": {
-       "mean": 0.27,
-       "var": 0.31,
-       "under": 1.5,
-       "over": null
-      },
-      "3PM": {
-       "mean": 0.0,
-       "var": 0.3,
-       "under": 0.5,
-       "over": null
-      },
-      "PRA": {
-       "mean": 10.84,
-       "var": 11.93,
-       "under": 14.5,
-       "over": 6.5
-      },
-      "RA": {
-       "mean": 5.19,
-       "var": 5.7,
-       "under": 8.5,
-       "over": 2.5
-      },
-      "PR": {
-       "mean": 10.53,
-       "var": 11.58,
-       "under": 14.5,
-       "over": 6.5
-      },
-      "PA": {
-       "mean": 5.94,
-       "var": 6.53,
-       "under": 9.5,
-       "over": 2.5
-      }
-     }
-    },
-    {
-     "player_id": "P014163",
-     "player": "Jared Butler",
-     "team": "Bayern Münih",
-     "headshot": "",
-     "injury": "",
-     "proj_min": 16.8,
-     "markets": {
-      "PTS": {
-       "mean": 9.36,
-       "var": 29.25,
-       "under": 15.5,
-       "over": 3.5
-      },
-      "REB": {
-       "mean": 1.45,
-       "var": 1.59,
-       "under": 3.5,
-       "over": null
-      },
-      "AST": {
-       "mean": 3.05,
-       "var": 3.35,
-       "under": 5.5,
-       "over": 0.5
-      },
-      "3PM": {
-       "mean": 1.68,
-       "var": 1.85,
-       "under": 3.5,
-       "over": null
-      },
-      "PRA": {
-       "mean": 13.77,
-       "var": 35.27,
-       "under": 20.5,
-       "over": 7.5
-      },
-      "RA": {
-       "mean": 4.41,
-       "var": 4.85,
-       "under": 7.5,
-       "over": 1.5
-      },
-      "PR": {
-       "mean": 10.73,
-       "var": 35.16,
-       "under": 17.5,
-       "over": 4.5
-      },
-      "PA": {
-       "mean": 12.44,
-       "var": 29.58,
-       "under": 18.5,
-       "over": 6.5
-      }
-     }
-    },
-    {
-     "player_id": "P011305",
-     "player": "Tyson Carter",
-     "team": "Bayern Münih",
-     "headshot": "",
-     "injury": "",
-     "proj_min": 16.7,
-     "markets": {
-      "PTS": {
-       "mean": 5.57,
-       "var": 10.07,
-       "under": 9.5,
-       "over": 1.5
-      },
-      "REB": {
-       "mean": 1.98,
-       "var": 2.18,
-       "under": 3.5,
-       "over": null
-      },
-      "AST": {
-       "mean": 2.52,
-       "var": 2.78,
-       "under": 4.5,
-       "over": 0.5
-      },
-      "3PM": {
-       "mean": 0.92,
-       "var": 1.01,
-       "under": 2.5,
-       "over": null
-      },
-      "PRA": {
-       "mean": 10.03,
-       "var": 11.03,
-       "under": 13.5,
-       "over": 6.5
-      },
-      "RA": {
-       "mean": 4.44,
-       "var": 4.89,
-       "under": 7.5,
-       "over": 1.5
-      },
-      "PR": {
-       "mean": 7.52,
-       "var": 9.98,
-       "under": 11.5,
-       "over": 3.5
-      },
-      "PA": {
-       "mean": 8.11,
-       "var": 11.83,
-       "under": 12.5,
-       "over": 4.5
-      }
-     }
-    },
-    {
-     "player_id": "P001288",
-     "player": "Vladimir Lucic",
-     "team": "Kızıl Yıldız",
-     "headshot": "",
-     "injury": "",
-     "proj_min": 16.5,
-     "markets": {
-      "PTS": {
-       "mean": 6.8,
-       "var": 25.77,
-       "under": 12.5,
-       "over": 1.5
-      },
-      "REB": {
-       "mean": 2.79,
-       "var": 3.25,
-       "under": 5.5,
-       "over": 0.5
-      },
-      "AST": {
-       "mean": 0.56,
-       "var": 0.62,
-       "under": 1.5,
-       "over": null
-      },
-      "3PM": {
-       "mean": 0.22,
-       "var": 0.3,
-       "under": 1.5,
-       "over": null
-      },
-      "PRA": {
-       "mean": 10.14,
-       "var": 48.57,
-       "under": 17.5,
-       "over": 2.5
-      },
-      "RA": {
-       "mean": 3.35,
-       "var": 4.24,
-       "under": 5.5,
-       "over": 0.5
-      },
-      "PR": {
-       "mean": 9.55,
-       "var": 45.97,
+       "mean": 9.53,
+       "var": 42.91,
        "under": 16.5,
        "over": 2.5
       },
+      "RA": {
+       "mean": 3.32,
+       "var": 4.16,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PR": {
+       "mean": 8.98,
+       "var": 40.61,
+       "under": 15.5,
+       "over": 2.5
+      },
       "PA": {
-       "mean": 7.4,
-       "var": 27.68,
-       "under": 13.5,
+       "mean": 6.78,
+       "var": 23.26,
+       "under": 12.5,
        "over": 1.5
       }
      }
@@ -12288,15 +12442,15 @@
     {
      "player_id": "P014134",
      "player": "Miles Norris",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 15.9,
      "markets": {
       "PTS": {
-       "mean": 4.09,
-       "var": 6.91,
-       "under": 7.5,
+       "mean": 3.74,
+       "var": 5.79,
+       "under": 6.5,
        "over": 0.5
       },
       "REB": {
@@ -12306,39 +12460,39 @@
        "over": 0.5
       },
       "AST": {
-       "mean": 1.32,
-       "var": 1.46,
-       "under": 3.5,
+       "mean": 1.24,
+       "var": 1.37,
+       "under": 2.5,
        "over": null
       },
       "3PM": {
-       "mean": 0.4,
-       "var": 0.44,
+       "mean": 0.37,
+       "var": 0.4,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 8.25,
-       "var": 14.39,
+       "mean": 7.83,
+       "var": 12.95,
        "under": 12.5,
        "over": 3.5
       },
       "RA": {
-       "mean": 4.14,
-       "var": 4.55,
+       "mean": 4.06,
+       "var": 4.47,
        "under": 6.5,
        "over": 1.5
       },
       "PR": {
-       "mean": 6.92,
-       "var": 12.16,
+       "mean": 6.58,
+       "var": 10.98,
        "under": 10.5,
        "over": 2.5
       },
       "PA": {
-       "mean": 5.43,
-       "var": 9.39,
-       "under": 9.5,
+       "mean": 5.0,
+       "var": 7.97,
+       "under": 8.5,
        "over": 1.5
       }
      }
@@ -12346,14 +12500,14 @@
     {
      "player_id": "P007519",
      "player": "Rokas Jokubaitis",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 15.8,
      "markets": {
       "PTS": {
-       "mean": 8.36,
-       "var": 9.2,
+       "mean": 7.65,
+       "var": 8.41,
        "under": 11.5,
        "over": 4.5
       },
@@ -12364,55 +12518,55 @@
        "over": null
       },
       "AST": {
-       "mean": 3.08,
-       "var": 3.38,
+       "mean": 2.89,
+       "var": 3.18,
        "under": 5.5,
        "over": 0.5
       },
       "3PM": {
-       "mean": 1.07,
-       "var": 1.18,
+       "mean": 0.98,
+       "var": 1.08,
        "under": 2.5,
        "over": null
       },
       "PRA": {
-       "mean": 12.16,
-       "var": 13.37,
-       "under": 16.5,
+       "mean": 11.27,
+       "var": 12.39,
+       "under": 15.5,
        "over": 7.5
       },
       "RA": {
-       "mean": 3.8,
-       "var": 4.18,
+       "mean": 3.62,
+       "var": 3.98,
        "under": 6.5,
        "over": 1.5
       },
       "PR": {
-       "mean": 9.1,
-       "var": 10.01,
+       "mean": 8.39,
+       "var": 9.23,
        "under": 12.5,
-       "over": 5.5
+       "over": 4.5
       },
       "PA": {
-       "mean": 11.47,
-       "var": 13.89,
-       "under": 15.5,
-       "over": 7.5
+       "mean": 10.57,
+       "var": 11.79,
+       "under": 14.5,
+       "over": 6.5
       }
      }
     },
     {
      "player_id": "P013278",
      "player": "Austin Wiley",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 15.7,
      "markets": {
       "PTS": {
-       "mean": 6.86,
-       "var": 7.54,
-       "under": 10.5,
+       "mean": 6.27,
+       "var": 6.9,
+       "under": 9.5,
        "over": 3.5
       },
       "REB": {
@@ -12422,8 +12576,8 @@
        "over": 2.5
       },
       "AST": {
-       "mean": 0.82,
-       "var": 0.93,
+       "mean": 0.77,
+       "var": 0.85,
        "under": 2.5,
        "over": null
       },
@@ -12434,42 +12588,42 @@
        "over": null
       },
       "PRA": {
-       "mean": 13.36,
-       "var": 15.76,
+       "mean": 12.73,
+       "var": 14.31,
        "under": 17.5,
        "over": 8.5
       },
       "RA": {
-       "mean": 6.48,
-       "var": 7.12,
+       "mean": 6.43,
+       "var": 7.07,
        "under": 9.5,
        "over": 3.5
       },
       "PR": {
-       "mean": 12.5,
-       "var": 15.76,
-       "under": 17.5,
+       "mean": 11.92,
+       "var": 14.34,
+       "under": 16.5,
        "over": 7.5
       },
       "PA": {
-       "mean": 7.72,
-       "var": 8.49,
-       "under": 11.5,
-       "over": 4.5
+       "mean": 7.08,
+       "var": 7.79,
+       "under": 10.5,
+       "over": 3.5
       }
      }
     },
     {
      "player_id": "P007201",
      "player": "Johannes Voigtmann",
-     "team": "Kızıl Yıldız",
+     "team": "Bayern Münih",
      "headshot": "",
      "injury": "",
      "proj_min": 14.1,
      "markets": {
       "PTS": {
-       "mean": 3.46,
-       "var": 8.78,
+       "mean": 3.16,
+       "var": 7.34,
        "under": 6.5,
        "over": 0.5
       },
@@ -12480,44 +12634,800 @@
        "over": 0.5
       },
       "AST": {
-       "mean": 1.85,
-       "var": 2.04,
+       "mean": 1.74,
+       "var": 1.91,
        "under": 3.5,
        "over": null
       },
       "3PM": {
-       "mean": 0.57,
-       "var": 0.62,
+       "mean": 0.52,
+       "var": 0.57,
        "under": 1.5,
        "over": null
       },
       "PRA": {
-       "mean": 8.49,
-       "var": 16.04,
-       "under": 13.5,
+       "mean": 8.09,
+       "var": 14.56,
+       "under": 12.5,
        "over": 3.5
       },
       "RA": {
-       "mean": 5.0,
-       "var": 5.5,
+       "mean": 4.89,
+       "var": 5.38,
        "under": 7.5,
        "over": 2.5
       },
       "PR": {
-       "mean": 6.64,
-       "var": 14.15,
+       "mean": 6.35,
+       "var": 12.93,
        "under": 10.5,
        "over": 2.5
       },
       "PA": {
-       "mean": 5.32,
-       "var": 10.5,
-       "under": 9.5,
+       "mean": 4.91,
+       "var": 8.95,
+       "under": 8.5,
        "over": 1.5
       }
      }
     }
    ]
+  },
+  {
+   "id": "401873023",
+   "date_utc": "2026-10-30T00:15Z",
+   "home": {
+    "id": "9",
+    "abbr": "GB",
+    "name": "Green Bay Packers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+    "score": "0"
+   },
+   "away": {
+    "id": "29",
+    "abbr": "CAR",
+    "name": "Carolina Panthers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+    "score": "0"
+   },
+   "state": "pre",
+   "completed": false,
+   "season_type": 2,
+   "league": "NFL",
+   "picks": [],
+   "all": [],
+   "players": [
+    {
+     "player_id": "4685720",
+     "player": "Bryce Young",
+     "team": "CAR",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685720.png",
+     "injury": "",
+     "role": "QB",
+     "proj_min": 60,
+     "markets": {
+      "PYD": {
+       "mean": 247.5,
+       "var": 5948.1,
+       "dist": "normal",
+       "under": 327.5,
+       "over": 167.5
+      },
+      "PTD": {
+       "mean": 1.65,
+       "var": 1.65,
+       "dist": "count",
+       "under": 3.5,
+       "over": null
+      },
+      "RUYD": {
+       "mean": 8.6,
+       "var": 64.0,
+       "dist": "normal",
+       "under": 16.5,
+       "over": 0.5
+      }
+     }
+    },
+    {
+     "player_id": "4241416",
+     "player": "Chuba Hubbard",
+     "team": "CAR",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241416.png",
+     "injury": "",
+     "role": "RB",
+     "proj_min": 45,
+     "markets": {
+      "RUYD": {
+       "mean": 62.8,
+       "var": 1558.5,
+       "dist": "normal",
+       "under": 103.5,
+       "over": 21.5
+      },
+      "REC": {
+       "mean": 2.36,
+       "var": 2.48,
+       "dist": "count",
+       "under": 4.5,
+       "over": 0.5
+      },
+      "REYD": {
+       "mean": 14.9,
+       "var": 133.2,
+       "dist": "normal",
+       "under": 26.5,
+       "over": 2.5
+      },
+      "TD": {
+       "mean": 0.79,
+       "var": 0.79,
+       "dist": "count",
+       "under": 2.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4685472",
+     "player": "Tetairoa McMillan",
+     "team": "CAR",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685472.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 5.5,
+       "var": 12.12,
+       "dist": "count",
+       "under": 9.5,
+       "over": 1.5
+      },
+      "REYD": {
+       "mean": 76.7,
+       "var": 2638.2,
+       "dist": "normal",
+       "under": 129.5,
+       "over": 23.5
+      },
+      "TD": {
+       "mean": 0.31,
+       "var": 0.31,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4695883",
+     "player": "Jalen Coker",
+     "team": "CAR",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4695883.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 4.59,
+       "var": 7.88,
+       "dist": "count",
+       "under": 7.5,
+       "over": 1.5
+      },
+      "REYD": {
+       "mean": 58.7,
+       "var": 1989.2,
+       "dist": "normal",
+       "under": 104.5,
+       "over": 12.5
+      },
+      "TD": {
+       "mean": 0.38,
+       "var": 0.38,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4372780",
+     "player": "Tommy Tremble",
+     "team": "CAR",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372780.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 2.48,
+       "var": 2.6,
+       "dist": "count",
+       "under": 4.5,
+       "over": 0.5
+      },
+      "REYD": {
+       "mean": 21.3,
+       "var": 244.6,
+       "dist": "normal",
+       "under": 37.5,
+       "over": 5.5
+      },
+      "TD": {
+       "mean": 0.37,
+       "var": 0.37,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "2576925",
+     "player": "Darren Waller",
+     "team": "CAR",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576925.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 2.28,
+       "var": 3.5,
+       "dist": "count",
+       "under": 4.5,
+       "over": null
+      },
+      "REYD": {
+       "mean": 31.4,
+       "var": 413.9,
+       "dist": "normal",
+       "under": 52.5,
+       "over": 10.5
+      },
+      "TD": {
+       "mean": 0.48,
+       "var": 0.48,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4036378",
+     "player": "Jordan Love",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
+     "injury": "",
+     "role": "QB",
+     "proj_min": 60,
+     "markets": {
+      "PYD": {
+       "mean": 296.6,
+       "var": 8115.6,
+       "dist": "normal",
+       "under": 389.5,
+       "over": 203.5
+      },
+      "PTD": {
+       "mean": 1.98,
+       "var": 1.98,
+       "dist": "count",
+       "under": 3.5,
+       "over": 0.5
+      },
+      "RUYD": {
+       "mean": 5.2,
+       "var": 89.7,
+       "dist": "normal",
+       "under": 15.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4047365",
+     "player": "Josh Jacobs",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047365.png",
+     "injury": "",
+     "role": "RB",
+     "proj_min": 45,
+     "markets": {
+      "RUYD": {
+       "mean": 55.7,
+       "var": 777.8,
+       "dist": "normal",
+       "under": 84.5,
+       "over": 26.5
+      },
+      "REC": {
+       "mean": 2.84,
+       "var": 4.01,
+       "dist": "count",
+       "under": 5.5,
+       "over": 0.5
+      },
+      "REYD": {
+       "mean": 24.3,
+       "var": 580.4,
+       "dist": "normal",
+       "under": 49.5,
+       "over": null
+      },
+      "TD": {
+       "mean": 0.71,
+       "var": 0.71,
+       "dist": "count",
+       "under": 2.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4429023",
+     "player": "MarShawn Lloyd",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429023.png",
+     "injury": "",
+     "role": "RB",
+     "proj_min": 45,
+     "markets": {
+      "RUYD": {
+       "mean": 21.2,
+       "var": 112.4,
+       "dist": "normal",
+       "under": 32.5,
+       "over": 10.5
+      },
+      "REC": {
+       "mean": 1.79,
+       "var": 2.87,
+       "dist": "count",
+       "under": 3.5,
+       "over": null
+      },
+      "REYD": {
+       "mean": 11.6,
+       "var": 155.8,
+       "dist": "normal",
+       "under": 24.5,
+       "over": null
+      },
+      "TD": {
+       "mean": 0.46,
+       "var": 0.46,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4701936",
+     "player": "Matthew Golden",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4701936.png",
+     "injury": "Questionable",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 4.89,
+       "var": 5.13,
+       "dist": "count",
+       "under": 7.5,
+       "over": 2.5
+      },
+      "REYD": {
+       "mean": 74.7,
+       "var": 2008.3,
+       "dist": "normal",
+       "under": 121.5,
+       "over": 28.5
+      },
+      "TD": {
+       "mean": 0.47,
+       "var": 0.47,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4572680",
+     "player": "Tucker Kraft",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4572680.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 4.62,
+       "var": 4.85,
+       "dist": "count",
+       "under": 7.5,
+       "over": 1.5
+      },
+      "REYD": {
+       "mean": 54.2,
+       "var": 1056.4,
+       "dist": "normal",
+       "under": 87.5,
+       "over": 20.5
+      },
+      "TD": {
+       "mean": 0.53,
+       "var": 0.53,
+       "dist": "count",
+       "under": 1.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4248528",
+     "player": "Christian Watson",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248528.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 4.67,
+       "var": 4.91,
+       "dist": "count",
+       "under": 7.5,
+       "over": 1.5
+      },
+      "REYD": {
+       "mean": 83.5,
+       "var": 2510.4,
+       "dist": "normal",
+       "under": 135.5,
+       "over": 31.5
+      },
+      "TD": {
+       "mean": 0.76,
+       "var": 0.76,
+       "dist": "count",
+       "under": 2.5,
+       "over": null
+      }
+     }
+    },
+    {
+     "player_id": "4431487",
+     "player": "Savion Williams",
+     "team": "GB",
+     "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431487.png",
+     "injury": "",
+     "role": "WR",
+     "proj_min": 40,
+     "markets": {
+      "REC": {
+       "mean": 2.01,
+       "var": 2.8,
+       "dist": "count",
+       "under": 4.5,
+       "over": null
+      },
+      "REYD": {
+       "mean": 23.6,
+       "var": 439.9,
+       "dist": "normal",
+       "under": 45.5,
+       "over": 1.5
+      }
+     }
+    }
+   ],
+   "context": {
+    "CAR": [
+     "iddaa beklentisi 22 sayı (ort. 23)"
+    ],
+    "GB": [
+     "iddaa beklentisi 26 sayı (ort. 22)"
+    ]
+   },
+   "game_all": [
+    {
+     "kind": "total",
+     "label": "Toplam 47.5 ÜST",
+     "odds": 1.68,
+     "line": 47.5,
+     "prob": 0.4696,
+     "prob_model": 0.4196,
+     "prob_market": 0.4862,
+     "value": -0.2111,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 47.5 ALT",
+     "odds": 1.59,
+     "line": 47.5,
+     "prob": 0.5304,
+     "prob_model": 0.5804,
+     "prob_market": 0.5138,
+     "value": -0.1566,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 46.5 ÜST",
+     "odds": 1.58,
+     "line": 46.5,
+     "prob": 0.5009,
+     "prob_model": 0.4488,
+     "prob_market": 0.5183,
+     "value": -0.2086,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 46.5 ALT",
+     "odds": 1.7,
+     "line": 46.5,
+     "prob": 0.4991,
+     "prob_model": 0.5512,
+     "prob_market": 0.4817,
+     "value": -0.1516,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 45.5 ÜST",
+     "odds": 1.51,
+     "line": 45.5,
+     "prob": 0.5253,
+     "prob_model": 0.4782,
+     "prob_market": 0.541,
+     "value": -0.2068,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 45.5 ALT",
+     "odds": 1.78,
+     "line": 45.5,
+     "prob": 0.4747,
+     "prob_model": 0.5218,
+     "prob_market": 0.459,
+     "value": -0.1551,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 48.5 ÜST",
+     "odds": 1.77,
+     "line": 48.5,
+     "prob": 0.4442,
+     "prob_model": 0.3909,
+     "prob_market": 0.462,
+     "value": -0.2137,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 48.5 ALT",
+     "odds": 1.52,
+     "line": 48.5,
+     "prob": 0.5558,
+     "prob_model": 0.6091,
+     "prob_market": 0.538,
+     "value": -0.1552,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 49.5 ÜST",
+     "odds": 1.86,
+     "line": 49.5,
+     "prob": 0.4205,
+     "prob_model": 0.3628,
+     "prob_market": 0.4398,
+     "value": -0.2178,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "total",
+     "label": "Toplam 49.5 ALT",
+     "odds": 1.46,
+     "line": 49.5,
+     "prob": 0.5795,
+     "prob_model": 0.6372,
+     "prob_market": 0.5602,
+     "value": -0.154,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "GB -1.5",
+     "odds": 1.34,
+     "line": -1.5,
+     "prob": 0.5938,
+     "prob_model": 0.5471,
+     "prob_market": 0.6093,
+     "value": -0.2043,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "CAR +1.5",
+     "odds": 2.09,
+     "line": -1.5,
+     "prob": 0.4062,
+     "prob_model": 0.4529,
+     "prob_market": 0.3907,
+     "value": -0.151,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "GB -2.5",
+     "odds": 1.38,
+     "line": -2.5,
+     "prob": 0.5738,
+     "prob_model": 0.5165,
+     "prob_market": 0.5929,
+     "value": -0.2081,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "CAR +2.5",
+     "odds": 2.01,
+     "line": -2.5,
+     "prob": 0.4262,
+     "prob_model": 0.4835,
+     "prob_market": 0.4071,
+     "value": -0.1434,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "GB -4.5",
+     "odds": 1.69,
+     "line": -4.5,
+     "prob": 0.4774,
+     "prob_model": 0.4553,
+     "prob_market": 0.4848,
+     "value": -0.1932,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "CAR +4.5",
+     "odds": 1.59,
+     "line": -4.5,
+     "prob": 0.5226,
+     "prob_model": 0.5447,
+     "prob_market": 0.5152,
+     "value": -0.169,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "GB -3.5",
+     "odds": 1.6,
+     "line": -3.5,
+     "prob": 0.5045,
+     "prob_model": 0.4859,
+     "prob_market": 0.5107,
+     "value": -0.1928,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "CAR +3.5",
+     "odds": 1.67,
+     "line": -3.5,
+     "prob": 0.4955,
+     "prob_model": 0.5141,
+     "prob_market": 0.4893,
+     "value": -0.1725,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "GB -5.5",
+     "odds": 1.75,
+     "line": -5.5,
+     "prob": 0.4561,
+     "prob_model": 0.4249,
+     "prob_market": 0.4665,
+     "value": -0.2019,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "spread",
+     "label": "CAR +5.5",
+     "odds": 1.53,
+     "line": -5.5,
+     "prob": 0.5439,
+     "prob_model": 0.5751,
+     "prob_market": 0.5335,
+     "value": -0.1678,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "team_total",
+     "label": "GB takım 25.5 ÜST",
+     "odds": 1.63,
+     "line": 25.5,
+     "prob": 0.4878,
+     "prob_model": 0.4331,
+     "prob_market": 0.5061,
+     "value": -0.2048,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "team_total",
+     "label": "GB takım 25.5 ALT",
+     "odds": 1.67,
+     "line": 25.5,
+     "prob": 0.5122,
+     "prob_model": 0.5669,
+     "prob_market": 0.4939,
+     "value": -0.1447,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "team_total",
+     "label": "CAR takım 20.5 ÜST",
+     "odds": 1.63,
+     "line": 20.5,
+     "prob": 0.5038,
+     "prob_model": 0.5152,
+     "prob_market": 0.5,
+     "value": -0.1788,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    },
+    {
+     "kind": "team_total",
+     "label": "CAR takım 20.5 ALT",
+     "odds": 1.63,
+     "line": 20.5,
+     "prob": 0.4962,
+     "prob_model": 0.4848,
+     "prob_market": 0.5,
+     "value": -0.1912,
+     "model_total": 44.8,
+     "model_margin": 3.0
+    }
+   ],
+   "game_bets": [],
+   "iddaa_total": 47.5
   }
  ],
  "warnings": []
