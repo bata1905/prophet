@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "generated": "2026-10-29T13:10:58.463546Z",
+ "generated": "2026-10-29T13:21:50.403961Z",
  "games": [
   {
    "id": "401909893",
@@ -1133,7 +1133,937 @@
      "iddaa beklentisi 120 sayı (ort. 117)",
      "back-to-back (dün oynadı)"
     ]
-   }
+   },
+   "players": [
+    {
+     "player_id": "3992",
+     "player": "James Harden",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3992.png",
+     "injury": "",
+     "proj_min": 33.8,
+     "markets": {
+      "PTS": {
+       "mean": 15.84,
+       "var": 32.52,
+       "under": 22.5,
+       "over": 9.5
+      },
+      "REB": {
+       "mean": 4.5,
+       "var": 4.95,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 5.37,
+       "var": 6.37,
+       "under": 8.5,
+       "over": 2.5
+      },
+      "3PM": {
+       "mean": 1.86,
+       "var": 2.05,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 25.71,
+       "var": 59.49,
+       "under": 34.5,
+       "over": 17.5
+      },
+      "RA": {
+       "mean": 9.87,
+       "var": 14.07,
+       "under": 14.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 20.34,
+       "var": 42.37,
+       "under": 27.5,
+       "over": 13.5
+      },
+      "PA": {
+       "mean": 21.21,
+       "var": 48.98,
+       "under": 28.5,
+       "over": 13.5
+      }
+     }
+    },
+    {
+     "player_id": "4432158",
+     "player": "Evan Mobley",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4432158.png",
+     "injury": "",
+     "proj_min": 33.7,
+     "markets": {
+      "PTS": {
+       "mean": 17.26,
+       "var": 38.63,
+       "under": 24.5,
+       "over": 10.5
+      },
+      "REB": {
+       "mean": 8.53,
+       "var": 12.83,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "AST": {
+       "mean": 3.21,
+       "var": 3.53,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 2.07,
+       "var": 2.3,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 29.0,
+       "var": 75.71,
+       "under": 38.5,
+       "over": 19.5
+      },
+      "RA": {
+       "mean": 11.74,
+       "var": 19.9,
+       "under": 16.5,
+       "over": 6.5
+      },
+      "PR": {
+       "mean": 25.79,
+       "var": 68.12,
+       "under": 34.5,
+       "over": 16.5
+      },
+      "PA": {
+       "mean": 20.48,
+       "var": 45.66,
+       "under": 27.5,
+       "over": 13.5
+      }
+     }
+    },
+    {
+     "player_id": "3908809",
+     "player": "Donovan Mitchell",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3908809.png",
+     "injury": "",
+     "proj_min": 33.6,
+     "markets": {
+      "PTS": {
+       "mean": 23.6,
+       "var": 72.16,
+       "under": 32.5,
+       "over": 14.5
+      },
+      "REB": {
+       "mean": 4.93,
+       "var": 5.43,
+       "under": 7.5,
+       "over": 2.5
+      },
+      "AST": {
+       "mean": 3.76,
+       "var": 5.08,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 2.6,
+       "var": 2.86,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 32.29,
+       "var": 93.86,
+       "under": 42.5,
+       "over": 21.5
+      },
+      "RA": {
+       "mean": 8.7,
+       "var": 10.92,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 28.53,
+       "var": 83.36,
+       "under": 38.5,
+       "over": 18.5
+      },
+      "PA": {
+       "mean": 27.36,
+       "var": 81.51,
+       "under": 37.5,
+       "over": 17.5
+      }
+     }
+    },
+    {
+     "player_id": "4701230",
+     "player": "Jalen Johnson",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4701230.png",
+     "injury": "",
+     "proj_min": 32.9,
+     "markets": {
+      "PTS": {
+       "mean": 18.75,
+       "var": 45.57,
+       "under": 26.5,
+       "over": 11.5
+      },
+      "REB": {
+       "mean": 8.66,
+       "var": 13.24,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "AST": {
+       "mean": 6.96,
+       "var": 11.86,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "3PM": {
+       "mean": 1.35,
+       "var": 1.48,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 34.37,
+       "var": 106.33,
+       "under": 45.5,
+       "over": 23.5
+      },
+      "RA": {
+       "mean": 15.62,
+       "var": 35.24,
+       "under": 22.5,
+       "over": 9.5
+      },
+      "PR": {
+       "mean": 27.41,
+       "var": 76.96,
+       "under": 36.5,
+       "over": 17.5
+      },
+      "PA": {
+       "mean": 25.71,
+       "var": 71.97,
+       "under": 34.5,
+       "over": 16.5
+      }
+     }
+    },
+    {
+     "player_id": "4576087",
+     "player": "Peyton Watson",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4576087.png",
+     "injury": "",
+     "proj_min": 30.5,
+     "markets": {
+      "PTS": {
+       "mean": 15.68,
+       "var": 44.17,
+       "under": 22.5,
+       "over": 8.5
+      },
+      "REB": {
+       "mean": 4.75,
+       "var": 5.97,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 2.49,
+       "var": 2.74,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 1.34,
+       "var": 1.57,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 22.92,
+       "var": 73.94,
+       "under": 32.5,
+       "over": 13.5
+      },
+      "RA": {
+       "mean": 7.24,
+       "var": 10.15,
+       "under": 11.5,
+       "over": 3.5
+      },
+      "PR": {
+       "mean": 20.44,
+       "var": 67.19,
+       "under": 29.5,
+       "over": 11.5
+      },
+      "PA": {
+       "mean": 18.17,
+       "var": 49.25,
+       "under": 25.5,
+       "over": 10.5
+      }
+     }
+    },
+    {
+     "player_id": "4278039",
+     "player": "Nickeil Alexander-Walker",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4278039.png",
+     "injury": "",
+     "proj_min": 29.2,
+     "markets": {
+      "PTS": {
+       "mean": 17.0,
+       "var": 38.36,
+       "under": 23.5,
+       "over": 10.5
+      },
+      "REB": {
+       "mean": 2.74,
+       "var": 3.01,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 2.67,
+       "var": 2.93,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 3.16,
+       "var": 3.83,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 22.4,
+       "var": 47.29,
+       "under": 30.5,
+       "over": 14.5
+      },
+      "RA": {
+       "mean": 5.4,
+       "var": 5.94,
+       "under": 8.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 19.73,
+       "var": 45.14,
+       "under": 27.5,
+       "over": 12.5
+      },
+      "PA": {
+       "mean": 19.67,
+       "var": 42.11,
+       "under": 26.5,
+       "over": 12.5
+      }
+     }
+    },
+    {
+     "player_id": "4869342",
+     "player": "Dyson Daniels",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4869342.png",
+     "injury": "",
+     "proj_min": 27.6,
+     "markets": {
+      "PTS": {
+       "mean": 10.06,
+       "var": 25.67,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "REB": {
+       "mean": 5.64,
+       "var": 12.73,
+       "under": 9.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 4.62,
+       "var": 5.36,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "3PM": {
+       "mean": 0.47,
+       "var": 0.52,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 20.31,
+       "var": 57.98,
+       "under": 28.5,
+       "over": 12.5
+      },
+      "RA": {
+       "mean": 10.25,
+       "var": 23.01,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 15.7,
+       "var": 49.81,
+       "under": 23.5,
+       "over": 8.5
+      },
+      "PA": {
+       "mean": 14.68,
+       "var": 28.89,
+       "under": 20.5,
+       "over": 8.5
+      }
+     }
+    },
+    {
+     "player_id": "4066328",
+     "player": "Jarrett Allen",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066328.png",
+     "injury": "",
+     "proj_min": 27.3,
+     "markets": {
+      "PTS": {
+       "mean": 12.15,
+       "var": 30.09,
+       "under": 18.5,
+       "over": 6.5
+      },
+      "REB": {
+       "mean": 7.58,
+       "var": 10.15,
+       "under": 11.5,
+       "over": 3.5
+      },
+      "AST": {
+       "mean": 1.03,
+       "var": 1.13,
+       "under": 2.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.1,
+       "var": 0.3,
+       "under": 0.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 20.76,
+       "var": 39.43,
+       "under": 27.5,
+       "over": 13.5
+      },
+      "RA": {
+       "mean": 8.61,
+       "var": 10.71,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 19.73,
+       "var": 40.65,
+       "under": 26.5,
+       "over": 12.5
+      },
+      "PA": {
+       "mean": 13.18,
+       "var": 28.02,
+       "under": 19.5,
+       "over": 7.5
+      }
+     }
+    },
+    {
+     "player_id": "4431680",
+     "player": "Onyeka Okongwu",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431680.png",
+     "injury": "",
+     "proj_min": 26.8,
+     "markets": {
+      "PTS": {
+       "mean": 10.11,
+       "var": 14.57,
+       "under": 14.5,
+       "over": 5.5
+      },
+      "REB": {
+       "mean": 5.47,
+       "var": 6.02,
+       "under": 8.5,
+       "over": 2.5
+      },
+      "AST": {
+       "mean": 2.31,
+       "var": 2.9,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 1.1,
+       "var": 1.21,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 17.89,
+       "var": 28.82,
+       "under": 23.5,
+       "over": 11.5
+      },
+      "RA": {
+       "mean": 7.78,
+       "var": 8.74,
+       "under": 11.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 15.59,
+       "var": 24.88,
+       "under": 21.5,
+       "over": 9.5
+      },
+      "PA": {
+       "mean": 12.42,
+       "var": 16.8,
+       "under": 17.5,
+       "over": 7.5
+      }
+     }
+    },
+    {
+     "player_id": "4397183",
+     "player": "Aaron Wiggins",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397183.png",
+     "injury": "",
+     "proj_min": 25.8,
+     "markets": {
+      "PTS": {
+       "mean": 12.24,
+       "var": 43.69,
+       "under": 19.5,
+       "over": 5.5
+      },
+      "REB": {
+       "mean": 3.05,
+       "var": 3.35,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 1.93,
+       "var": 2.5,
+       "under": 4.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 2.21,
+       "var": 2.43,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 17.21,
+       "var": 55.45,
+       "under": 25.5,
+       "over": 9.5
+      },
+      "RA": {
+       "mean": 4.97,
+       "var": 8.05,
+       "under": 8.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 15.29,
+       "var": 51.28,
+       "under": 23.5,
+       "over": 7.5
+      },
+      "PA": {
+       "mean": 14.17,
+       "var": 45.22,
+       "under": 21.5,
+       "over": 6.5
+      }
+     }
+    },
+    {
+     "player_id": "2490149",
+     "player": "CJ McCollum",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2490149.png",
+     "injury": "",
+     "proj_min": 24.6,
+     "markets": {
+      "PTS": {
+       "mean": 15.36,
+       "var": 30.57,
+       "under": 21.5,
+       "over": 9.5
+      },
+      "REB": {
+       "mean": 1.96,
+       "var": 2.16,
+       "under": 3.5,
+       "over": null
+      },
+      "AST": {
+       "mean": 2.19,
+       "var": 2.5,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 1.97,
+       "var": 2.21,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 19.51,
+       "var": 46.07,
+       "under": 27.5,
+       "over": 12.5
+      },
+      "RA": {
+       "mean": 4.16,
+       "var": 4.57,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 17.32,
+       "var": 34.62,
+       "under": 23.5,
+       "over": 10.5
+      },
+      "PA": {
+       "mean": 17.55,
+       "var": 41.68,
+       "under": 24.5,
+       "over": 10.5
+      }
+     }
+    },
+    {
+     "player_id": "4066757",
+     "player": "Sam Merrill",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066757.png",
+     "injury": "",
+     "proj_min": 23.2,
+     "markets": {
+      "PTS": {
+       "mean": 8.17,
+       "var": 18.02,
+       "under": 12.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 1.96,
+       "var": 2.16,
+       "under": 3.5,
+       "over": null
+      },
+      "AST": {
+       "mean": 1.54,
+       "var": 1.7,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.66,
+       "var": 1.83,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 11.67,
+       "var": 19.4,
+       "under": 16.5,
+       "over": 6.5
+      },
+      "RA": {
+       "mean": 3.5,
+       "var": 3.85,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 10.13,
+       "var": 16.97,
+       "under": 14.5,
+       "over": 5.5
+      },
+      "PA": {
+       "mean": 9.71,
+       "var": 19.54,
+       "under": 14.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "4397020",
+     "player": "Luguentz Dort",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397020.png",
+     "injury": "",
+     "proj_min": 22.2,
+     "markets": {
+      "PTS": {
+       "mean": 6.88,
+       "var": 10.7,
+       "under": 10.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 2.86,
+       "var": 3.15,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 1.58,
+       "var": 1.74,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.19,
+       "var": 1.31,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 11.33,
+       "var": 19.16,
+       "under": 16.5,
+       "over": 6.5
+      },
+      "RA": {
+       "mean": 4.44,
+       "var": 4.98,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 9.75,
+       "var": 15.76,
+       "under": 14.5,
+       "over": 5.5
+      },
+      "PA": {
+       "mean": 8.46,
+       "var": 13.29,
+       "under": 12.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "4683747",
+     "player": "Jaylon Tyson",
+     "team": "CLE",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683747.png",
+     "injury": "",
+     "proj_min": 20.7,
+     "markets": {
+      "PTS": {
+       "mean": 7.75,
+       "var": 24.18,
+       "under": 13.5,
+       "over": 2.5
+      },
+      "REB": {
+       "mean": 3.6,
+       "var": 6.08,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 2.67,
+       "var": 2.95,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 0.87,
+       "var": 1.39,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 14.02,
+       "var": 39.63,
+       "under": 20.5,
+       "over": 7.5
+      },
+      "RA": {
+       "mean": 6.27,
+       "var": 9.38,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 11.35,
+       "var": 24.93,
+       "under": 16.5,
+       "over": 5.5
+      },
+      "PA": {
+       "mean": 10.42,
+       "var": 38.5,
+       "under": 17.5,
+       "over": 3.5
+      }
+     }
+    },
+    {
+     "player_id": "5149077",
+     "player": "Kingston Flemings",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5149077.png",
+     "injury": "",
+     "proj_min": 20.0,
+     "markets": {
+      "PTS": {
+       "mean": 8.1,
+       "var": 39.01,
+       "under": 14.5,
+       "over": 1.5
+      },
+      "REB": {
+       "mean": 3.24,
+       "var": 3.56,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 4.26,
+       "var": 4.69,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "3PM": {
+       "mean": 0.9,
+       "var": 0.99,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 15.61,
+       "var": 47.21,
+       "under": 23.5,
+       "over": 8.5
+      },
+      "RA": {
+       "mean": 7.5,
+       "var": 8.25,
+       "under": 10.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 11.35,
+       "var": 43.12,
+       "under": 18.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 12.37,
+       "var": 40.14,
+       "under": 19.5,
+       "over": 5.5
+      }
+     }
+    },
+    {
+     "player_id": "4431714",
+     "player": "Jalen Wilson",
+     "team": "ATL",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431714.png",
+     "injury": "",
+     "proj_min": 19.6,
+     "markets": {
+      "PTS": {
+       "mean": 8.62,
+       "var": 30.19,
+       "under": 14.5,
+       "over": 2.5
+      },
+      "REB": {
+       "mean": 3.45,
+       "var": 5.04,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 1.75,
+       "var": 2.26,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.93,
+       "var": 1.85,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 13.82,
+       "var": 54.02,
+       "under": 21.5,
+       "over": 6.5
+      },
+      "RA": {
+       "mean": 5.2,
+       "var": 10.28,
+       "under": 8.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 12.07,
+       "var": 45.58,
+       "under": 19.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 10.37,
+       "var": 35.63,
+       "under": 16.5,
+       "over": 4.5
+      }
+     }
+    }
+   ]
   },
   {
    "id": "401909894",
@@ -1157,31 +2087,6 @@
    "season_type": 2,
    "picks": [
     {
-     "player_id": "3155942",
-     "player": "Domantas Sabonis",
-     "team": "SAC",
-     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
-     "injury": "",
-     "market": "PTS",
-     "label": "Sayı",
-     "line": 18,
-     "prob": 0.6114,
-     "odds": 1.58,
-     "source": "IDDAA",
-     "value": -0.034,
-     "stake_tl": 0.0,
-     "expected": 20.98,
-     "proj_min": 36.3,
-     "notes": [],
-     "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
-     "prob_model": 0.6494,
-     "prob_market": 0.586,
-     "market_src": "iddaa"
-    },
-    {
      "player_id": "4431679",
      "player": "Precious Achiuwa",
      "team": "SAC",
@@ -1190,20 +2095,45 @@
      "market": "PTS",
      "label": "Sayı",
      "line": 11,
-     "prob": 0.6113,
+     "prob": 0.61,
      "odds": 1.57,
      "source": "IDDAA",
-     "value": -0.0403,
+     "value": -0.0423,
      "stake_tl": 0.0,
-     "expected": 12.83,
+     "expected": 12.78,
      "proj_min": 26.5,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.6435,
+     "prob_model": 0.6404,
      "prob_market": 0.5898,
+     "market_src": "iddaa"
+    },
+    {
+     "player_id": "3155942",
+     "player": "Domantas Sabonis",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
+     "injury": "",
+     "market": "PTS",
+     "label": "Sayı",
+     "line": 18,
+     "prob": 0.6098,
+     "odds": 1.58,
+     "source": "IDDAA",
+     "value": -0.0366,
+     "stake_tl": 0.0,
+     "expected": 20.89,
+     "proj_min": 36.3,
+     "notes": [],
+     "confidence": "Orta Güven",
+     "actual": null,
+     "actual_min": null,
+     "result": null,
+     "prob_model": 0.6454,
+     "prob_market": 0.586,
      "market_src": "iddaa"
     },
     {
@@ -1215,19 +2145,19 @@
      "market": "3PM",
      "label": "Üçlük",
      "line": 2,
-     "prob": 0.5964,
+     "prob": 0.5954,
      "odds": 1.58,
      "source": "IDDAA",
-     "value": -0.0576,
+     "value": -0.0593,
      "stake_tl": 0.0,
-     "expected": 2.12,
+     "expected": 2.11,
      "proj_min": 27.4,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.612,
+     "prob_model": 0.6095,
      "prob_market": 0.586,
      "market_src": "iddaa"
     },
@@ -1240,19 +2170,19 @@
      "market": "PTS",
      "label": "Sayı",
      "line": 23,
-     "prob": 0.5877,
+     "prob": 0.586,
      "odds": 1.59,
      "source": "IDDAA",
-     "value": -0.0656,
+     "value": -0.0683,
      "stake_tl": 0.0,
-     "expected": 25.57,
+     "expected": 25.46,
      "proj_min": 35.9,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.5957,
+     "prob_model": 0.5914,
      "prob_market": 0.5823,
      "market_src": "iddaa"
     },
@@ -1265,19 +2195,19 @@
      "market": "PTS",
      "label": "Sayı",
      "line": 12,
-     "prob": 0.5849,
+     "prob": 0.5835,
      "odds": 1.61,
      "source": "IDDAA",
-     "value": -0.0583,
+     "value": -0.0606,
      "stake_tl": 0.0,
-     "expected": 13.74,
+     "expected": 13.68,
      "proj_min": 22.4,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.5995,
+     "prob_model": 0.5961,
      "prob_market": 0.5751,
      "market_src": "iddaa"
     },
@@ -1290,19 +2220,19 @@
      "market": "PRA",
      "label": "Sayı+Rib+Asist",
      "line": 40,
-     "prob": 0.5762,
+     "prob": 0.5745,
      "odds": 1.6,
      "source": "IDDAA",
-     "value": -0.0781,
+     "value": -0.0809,
      "stake_tl": 0.0,
-     "expected": 42.9,
+     "expected": 42.75,
      "proj_min": 36.3,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.5725,
+     "prob_model": 0.5681,
      "prob_market": 0.5787,
      "market_src": "iddaa"
     },
@@ -1315,19 +2245,19 @@
      "market": "PRA",
      "label": "Sayı+Rib+Asist",
      "line": 30,
-     "prob": 0.5738,
+     "prob": 0.5717,
      "odds": 1.61,
      "source": "IDDAA",
-     "value": -0.0762,
+     "value": -0.0795,
      "stake_tl": 0.0,
-     "expected": 31.98,
+     "expected": 31.85,
      "proj_min": 35.9,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.5718,
+     "prob_model": 0.5667,
      "prob_market": 0.5751,
      "market_src": "iddaa"
     },
@@ -1340,19 +2270,19 @@
      "market": "REB",
      "label": "Ribaund",
      "line": 6,
-     "prob": 0.5342,
+     "prob": 0.533,
      "odds": 1.73,
      "source": "IDDAA",
-     "value": -0.0758,
+     "value": -0.078,
      "stake_tl": 0.0,
-     "expected": 5.91,
+     "expected": 5.89,
      "proj_min": 31.2,
      "notes": [],
      "confidence": "Orta Güven",
      "actual": null,
      "actual_min": null,
      "result": null,
-     "prob_model": 0.5327,
+     "prob_model": 0.5296,
      "prob_market": 0.5352,
      "market_src": "iddaa"
     }
@@ -1363,11 +2293,11 @@
      "player": "Domantas Sabonis",
      "market": "PTS",
      "line": 18,
-     "prob": 0.6114,
-     "prob_model": 0.6494,
+     "prob": 0.6098,
+     "prob_model": 0.6454,
      "prob_market": 0.586,
      "odds": 1.58,
-     "value": -0.034,
+     "value": -0.0366,
      "result": null,
      "actual": null
     },
@@ -1376,11 +2306,11 @@
      "player": "Precious Achiuwa",
      "market": "PTS",
      "line": 11,
-     "prob": 0.6113,
-     "prob_model": 0.6435,
+     "prob": 0.61,
+     "prob_model": 0.6404,
      "prob_market": 0.5898,
      "odds": 1.57,
-     "value": -0.0403,
+     "value": -0.0423,
      "result": null,
      "actual": null
     },
@@ -1389,11 +2319,11 @@
      "player": "De'Andre Hunter",
      "market": "3PM",
      "line": 2,
-     "prob": 0.5964,
-     "prob_model": 0.612,
+     "prob": 0.5954,
+     "prob_model": 0.6095,
      "prob_market": 0.586,
      "odds": 1.58,
-     "value": -0.0576,
+     "value": -0.0593,
      "result": null,
      "actual": null
     },
@@ -1402,11 +2332,11 @@
      "player": "Jeremiah Fears",
      "market": "PTS",
      "line": 12,
-     "prob": 0.5849,
-     "prob_model": 0.5995,
+     "prob": 0.5835,
+     "prob_model": 0.5961,
      "prob_market": 0.5751,
      "odds": 1.61,
-     "value": -0.0583,
+     "value": -0.0606,
      "result": null,
      "actual": null
     },
@@ -1415,11 +2345,11 @@
      "player": "Zach LaVine",
      "market": "PTS",
      "line": 23,
-     "prob": 0.5877,
-     "prob_model": 0.5957,
+     "prob": 0.586,
+     "prob_model": 0.5914,
      "prob_market": 0.5823,
      "odds": 1.59,
-     "value": -0.0656,
+     "value": -0.0683,
      "result": null,
      "actual": null
     },
@@ -1428,11 +2358,11 @@
      "player": "Dejounte Murray",
      "market": "REB",
      "line": 6,
-     "prob": 0.5342,
-     "prob_model": 0.5327,
+     "prob": 0.533,
+     "prob_model": 0.5296,
      "prob_market": 0.5352,
      "odds": 1.73,
-     "value": -0.0758,
+     "value": -0.078,
      "result": null,
      "actual": null
     },
@@ -1441,11 +2371,11 @@
      "player": "Zach LaVine",
      "market": "PRA",
      "line": 30,
-     "prob": 0.5738,
-     "prob_model": 0.5718,
+     "prob": 0.5717,
+     "prob_model": 0.5667,
      "prob_market": 0.5751,
      "odds": 1.61,
-     "value": -0.0762,
+     "value": -0.0795,
      "result": null,
      "actual": null
     },
@@ -1454,11 +2384,11 @@
      "player": "Domantas Sabonis",
      "market": "PRA",
      "line": 40,
-     "prob": 0.5762,
-     "prob_model": 0.5725,
+     "prob": 0.5745,
+     "prob_model": 0.5681,
      "prob_market": 0.5787,
      "odds": 1.6,
-     "value": -0.0781,
+     "value": -0.0809,
      "result": null,
      "actual": null
     },
@@ -1467,11 +2397,11 @@
      "player": "Darius Acuff Jr.",
      "market": "AST",
      "line": 5,
-     "prob": 0.5754,
-     "prob_model": 0.5539,
+     "prob": 0.5742,
+     "prob_model": 0.5509,
      "prob_market": 0.5898,
      "odds": 1.57,
-     "value": -0.0966,
+     "value": -0.0985,
      "result": null,
      "actual": null
     },
@@ -1480,11 +2410,11 @@
      "player": "Domantas Sabonis",
      "market": "REB",
      "line": 14,
-     "prob": 0.5977,
-     "prob_model": 0.5684,
+     "prob": 0.5968,
+     "prob_model": 0.5661,
      "prob_market": 0.6173,
      "odds": 1.5,
-     "value": -0.1034,
+     "value": -0.1048,
      "result": null,
      "actual": null
     },
@@ -1493,11 +2423,11 @@
      "player": "Dejounte Murray",
      "market": "AST",
      "line": 7,
-     "prob": 0.4994,
-     "prob_model": 0.4725,
+     "prob": 0.4984,
+     "prob_model": 0.4701,
      "prob_market": 0.5173,
      "odds": 1.79,
-     "value": -0.1061,
+     "value": -0.1079,
      "result": null,
      "actual": null
     },
@@ -1506,11 +2436,11 @@
      "player": "Jeremiah Fears",
      "market": "PRA",
      "line": 19,
-     "prob": 0.5364,
-     "prob_model": 0.5044,
+     "prob": 0.5351,
+     "prob_model": 0.501,
      "prob_market": 0.5578,
      "odds": 1.66,
-     "value": -0.1096,
+     "value": -0.1118,
      "result": null,
      "actual": null
     },
@@ -1519,11 +2449,11 @@
      "player": "Precious Achiuwa",
      "market": "PRA",
      "line": 20,
-     "prob": 0.5778,
-     "prob_model": 0.5426,
+     "prob": 0.5762,
+     "prob_model": 0.5387,
      "prob_market": 0.6013,
      "odds": 1.54,
-     "value": -0.1102,
+     "value": -0.1126,
      "result": null,
      "actual": null
     },
@@ -1532,11 +2462,11 @@
      "player": "Dejounte Murray",
      "market": "PRA",
      "line": 30,
-     "prob": 0.5541,
-     "prob_model": 0.5171,
+     "prob": 0.5522,
+     "prob_model": 0.5125,
      "prob_market": 0.5787,
      "odds": 1.6,
-     "value": -0.1135,
+     "value": -0.1165,
      "result": null,
      "actual": null
     },
@@ -1545,11 +2475,11 @@
      "player": "Jeremiah Fears",
      "market": "AST",
      "line": 3,
-     "prob": 0.561,
-     "prob_model": 0.5121,
+     "prob": 0.56,
+     "prob_model": 0.5098,
      "prob_market": 0.5935,
      "odds": 1.56,
-     "value": -0.1249,
+     "value": -0.1264,
      "result": null,
      "actual": null
     },
@@ -1558,11 +2488,11 @@
      "player": "Dejounte Murray",
      "market": "PTS",
      "line": 18,
-     "prob": 0.5497,
-     "prob_model": 0.5008,
+     "prob": 0.5478,
+     "prob_model": 0.496,
      "prob_market": 0.5823,
      "odds": 1.59,
-     "value": -0.1259,
+     "value": -0.129,
      "result": null,
      "actual": null
     },
@@ -1571,11 +2501,11 @@
      "player": "De'Andre Hunter",
      "market": "PTS",
      "line": 12,
-     "prob": 0.5844,
-     "prob_model": 0.5289,
+     "prob": 0.5831,
+     "prob_model": 0.5255,
      "prob_market": 0.6214,
      "odds": 1.49,
-     "value": -0.1292,
+     "value": -0.1312,
      "result": null,
      "actual": null
     },
@@ -1584,11 +2514,11 @@
      "player": "Domantas Sabonis",
      "market": "RA",
      "line": 22,
-     "prob": 0.5277,
-     "prob_model": 0.4774,
+     "prob": 0.5265,
+     "prob_model": 0.4746,
      "prob_market": 0.5612,
      "odds": 1.65,
-     "value": -0.1293,
+     "value": -0.1312,
      "result": null,
      "actual": null
     },
@@ -1597,11 +2527,11 @@
      "player": "Dejounte Murray",
      "market": "RA",
      "line": 13,
-     "prob": 0.5163,
-     "prob_model": 0.4641,
+     "prob": 0.5153,
+     "prob_model": 0.4616,
      "prob_market": 0.5511,
      "odds": 1.68,
-     "value": -0.1326,
+     "value": -0.1342,
      "result": null,
      "actual": null
     },
@@ -1610,11 +2540,11 @@
      "player": "Darius Acuff Jr.",
      "market": "RA",
      "line": 8,
-     "prob": 0.5742,
-     "prob_model": 0.5158,
+     "prob": 0.5732,
+     "prob_model": 0.5133,
      "prob_market": 0.6132,
      "odds": 1.51,
-     "value": -0.1329,
+     "value": -0.1344,
      "result": null,
      "actual": null
     },
@@ -1623,11 +2553,11 @@
      "player": "Trey Murphy III",
      "market": "3PM",
      "line": 3,
-     "prob": 0.5591,
-     "prob_model": 0.4958,
+     "prob": 0.5581,
+     "prob_model": 0.4934,
      "prob_market": 0.6013,
      "odds": 1.54,
-     "value": -0.139,
+     "value": -0.1405,
      "result": null,
      "actual": null
     },
@@ -1636,11 +2566,11 @@
      "player": "Trey Murphy III",
      "market": "AST",
      "line": 4,
-     "prob": 0.4529,
-     "prob_model": 0.3974,
+     "prob": 0.452,
+     "prob_model": 0.3952,
      "prob_market": 0.4899,
      "odds": 1.89,
-     "value": -0.144,
+     "value": -0.1456,
      "result": null,
      "actual": null
     },
@@ -1649,11 +2579,11 @@
      "player": "De'Andre Hunter",
      "market": "PRA",
      "line": 20,
-     "prob": 0.5296,
-     "prob_model": 0.4612,
+     "prob": 0.5282,
+     "prob_model": 0.4579,
      "prob_market": 0.5751,
      "odds": 1.61,
-     "value": -0.1474,
+     "value": -0.1496,
      "result": null,
      "actual": null
     },
@@ -1662,11 +2592,11 @@
      "player": "De'Andre Hunter",
      "market": "REB",
      "line": 6,
-     "prob": 0.4364,
-     "prob_model": 0.3787,
+     "prob": 0.4358,
+     "prob_model": 0.3773,
      "prob_market": 0.4748,
      "odds": 1.95,
-     "value": -0.149,
+     "value": -0.1501,
      "result": null,
      "actual": null
     },
@@ -1675,11 +2605,11 @@
      "player": "Zion Williamson",
      "market": "PTS",
      "line": 22,
-     "prob": 0.5243,
-     "prob_model": 0.4535,
+     "prob": 0.5225,
+     "prob_model": 0.4489,
      "prob_market": 0.5716,
      "odds": 1.62,
-     "value": -0.1506,
+     "value": -0.1536,
      "result": null,
      "actual": null
     },
@@ -1688,11 +2618,11 @@
      "player": "Darius Acuff Jr.",
      "market": "PTS",
      "line": 23,
-     "prob": 0.5335,
-     "prob_model": 0.4602,
+     "prob": 0.5318,
+     "prob_model": 0.4559,
      "prob_market": 0.5823,
      "odds": 1.59,
-     "value": -0.1517,
+     "value": -0.1545,
      "result": null,
      "actual": null
     },
@@ -1701,11 +2631,11 @@
      "player": "Domantas Sabonis",
      "market": "AST",
      "line": 7,
-     "prob": 0.5531,
-     "prob_model": 0.4749,
+     "prob": 0.5521,
+     "prob_model": 0.4724,
      "prob_market": 0.6052,
      "odds": 1.53,
-     "value": -0.1538,
+     "value": -0.1553,
      "result": null,
      "actual": null
     },
@@ -1714,11 +2644,11 @@
      "player": "Zach LaVine",
      "market": "REB",
      "line": 4,
-     "prob": 0.4744,
-     "prob_model": 0.4058,
+     "prob": 0.4745,
+     "prob_model": 0.4059,
      "prob_market": 0.5202,
      "odds": 1.78,
-     "value": -0.1555,
+     "value": -0.1554,
      "result": null,
      "actual": null
     },
@@ -1727,11 +2657,11 @@
      "player": "Zach LaVine",
      "market": "AST",
      "line": 4,
-     "prob": 0.4464,
-     "prob_model": 0.3812,
+     "prob": 0.4456,
+     "prob_model": 0.3793,
      "prob_market": 0.4899,
      "odds": 1.89,
-     "value": -0.1563,
+     "value": -0.1577,
      "result": null,
      "actual": null
     },
@@ -1740,11 +2670,11 @@
      "player": "Trey Murphy III",
      "market": "REB",
      "line": 5,
-     "prob": 0.5622,
-     "prob_model": 0.4796,
+     "prob": 0.5615,
+     "prob_model": 0.4778,
      "prob_market": 0.6173,
      "odds": 1.5,
-     "value": -0.1567,
+     "value": -0.1578,
      "result": null,
      "actual": null
     },
@@ -1753,11 +2683,11 @@
      "player": "Darius Acuff Jr.",
      "market": "PRA",
      "line": 31,
-     "prob": 0.5401,
-     "prob_model": 0.46,
+     "prob": 0.538,
+     "prob_model": 0.4547,
      "prob_market": 0.5935,
      "odds": 1.56,
-     "value": -0.1574,
+     "value": -0.1607,
      "result": null,
      "actual": null
     },
@@ -1766,11 +2696,11 @@
      "player": "Zach LaVine",
      "market": "RA",
      "line": 7,
-     "prob": 0.538,
-     "prob_model": 0.4546,
+     "prob": 0.5374,
+     "prob_model": 0.4531,
      "prob_market": 0.5935,
      "odds": 1.56,
-     "value": -0.1608,
+     "value": -0.1617,
      "result": null,
      "actual": null
     },
@@ -1779,11 +2709,11 @@
      "player": "Zach LaVine",
      "market": "3PM",
      "line": 4,
-     "prob": 0.4296,
-     "prob_model": 0.3545,
+     "prob": 0.428,
+     "prob_model": 0.3503,
      "prob_market": 0.4798,
      "odds": 1.93,
-     "value": -0.1708,
+     "value": -0.174,
      "result": null,
      "actual": null
     },
@@ -1792,11 +2722,11 @@
      "player": "Zion Williamson",
      "market": "PRA",
      "line": 30,
-     "prob": 0.5114,
-     "prob_model": 0.4212,
+     "prob": 0.5094,
+     "prob_model": 0.4161,
      "prob_market": 0.5716,
      "odds": 1.62,
-     "value": -0.1715,
+     "value": -0.1748,
      "result": null,
      "actual": null
     },
@@ -1805,11 +2735,11 @@
      "player": "Jeremiah Fears",
      "market": "3PM",
      "line": 2,
-     "prob": 0.4003,
-     "prob_model": 0.3166,
+     "prob": 0.3988,
+     "prob_model": 0.3128,
      "prob_market": 0.4561,
      "odds": 2.03,
-     "value": -0.1874,
+     "value": -0.1904,
      "result": null,
      "actual": null
     },
@@ -1818,11 +2748,11 @@
      "player": "De'Andre Hunter",
      "market": "RA",
      "line": 8,
-     "prob": 0.458,
-     "prob_model": 0.3603,
+     "prob": 0.457,
+     "prob_model": 0.3579,
      "prob_market": 0.5231,
      "odds": 1.77,
-     "value": -0.1893,
+     "value": -0.1911,
      "result": null,
      "actual": null
     },
@@ -1831,11 +2761,11 @@
      "player": "Trey Murphy III",
      "market": "RA",
      "line": 9,
-     "prob": 0.4851,
-     "prob_model": 0.381,
+     "prob": 0.484,
+     "prob_model": 0.3783,
      "prob_market": 0.5544,
      "odds": 1.67,
-     "value": -0.1899,
+     "value": -0.1917,
      "result": null,
      "actual": null
     },
@@ -1844,11 +2774,11 @@
      "player": "Precious Achiuwa",
      "market": "AST",
      "line": 2,
-     "prob": 0.4463,
-     "prob_model": 0.3483,
+     "prob": 0.4464,
+     "prob_model": 0.3486,
      "prob_market": 0.5116,
      "odds": 1.81,
-     "value": -0.1923,
+     "value": -0.192,
      "result": null,
      "actual": null
     },
@@ -1857,11 +2787,11 @@
      "player": "Jeremiah Fears",
      "market": "RA",
      "line": 7,
-     "prob": 0.4643,
-     "prob_model": 0.3579,
+     "prob": 0.4637,
+     "prob_model": 0.3565,
      "prob_market": 0.5352,
      "odds": 1.73,
-     "value": -0.1968,
+     "value": -0.1977,
      "result": null,
      "actual": null
     },
@@ -1870,11 +2800,11 @@
      "player": "Precious Achiuwa",
      "market": "REB",
      "line": 8,
-     "prob": 0.5237,
-     "prob_model": 0.4015,
+     "prob": 0.5227,
+     "prob_model": 0.399,
      "prob_market": 0.6052,
      "odds": 1.53,
-     "value": -0.1987,
+     "value": -0.2003,
      "result": null,
      "actual": null
     },
@@ -1883,11 +2813,11 @@
      "player": "Jeremiah Fears",
      "market": "REB",
      "line": 4,
-     "prob": 0.4572,
-     "prob_model": 0.3494,
+     "prob": 0.4564,
+     "prob_model": 0.3474,
      "prob_market": 0.5291,
      "odds": 1.75,
-     "value": -0.1999,
+     "value": -0.2012,
      "result": null,
      "actual": null
     },
@@ -1896,11 +2826,11 @@
      "player": "Darius Acuff Jr.",
      "market": "REB",
      "line": 4,
-     "prob": 0.412,
-     "prob_model": 0.3142,
+     "prob": 0.4112,
+     "prob_model": 0.3121,
      "prob_market": 0.4773,
      "odds": 1.94,
-     "value": -0.2006,
+     "value": -0.2023,
      "result": null,
      "actual": null
     },
@@ -1909,11 +2839,11 @@
      "player": "Trey Murphy III",
      "market": "PRA",
      "line": 26,
-     "prob": 0.5125,
-     "prob_model": 0.3794,
+     "prob": 0.5108,
+     "prob_model": 0.3752,
      "prob_market": 0.6013,
      "odds": 1.54,
-     "value": -0.2108,
+     "value": -0.2133,
      "result": null,
      "actual": null
     },
@@ -1922,11 +2852,11 @@
      "player": "Trey Murphy III",
      "market": "PTS",
      "line": 18,
-     "prob": 0.4974,
-     "prob_model": 0.3644,
+     "prob": 0.4957,
+     "prob_model": 0.3603,
      "prob_market": 0.586,
      "odds": 1.58,
-     "value": -0.2142,
+     "value": -0.2167,
      "result": null,
      "actual": null
     },
@@ -1935,11 +2865,11 @@
      "player": "Precious Achiuwa",
      "market": "RA",
      "line": 10,
-     "prob": 0.4631,
-     "prob_model": 0.331,
+     "prob": 0.4622,
+     "prob_model": 0.3287,
      "prob_market": 0.5511,
      "odds": 1.68,
-     "value": -0.222,
+     "value": -0.2236,
      "result": null,
      "actual": null
     },
@@ -1948,11 +2878,11 @@
      "player": "Dejounte Murray",
      "market": "3PM",
      "line": 2,
-     "prob": 0.4165,
-     "prob_model": 0.2946,
+     "prob": 0.4151,
+     "prob_model": 0.2911,
      "prob_market": 0.4978,
      "odds": 1.86,
-     "value": -0.2253,
+     "value": -0.2278,
      "result": null,
      "actual": null
     },
@@ -1961,24 +2891,11 @@
      "player": "Zion Williamson",
      "market": "REB",
      "line": 6,
-     "prob": 0.4393,
-     "prob_model": 0.3091,
+     "prob": 0.438,
+     "prob_model": 0.3059,
      "prob_market": 0.5261,
      "odds": 1.76,
-     "value": -0.2269,
-     "result": null,
-     "actual": null
-    },
-    {
-     "player_id": "4395628",
-     "player": "Zion Williamson",
-     "market": "AST",
-     "line": 4,
-     "prob": 0.391,
-     "prob_model": 0.2617,
-     "prob_market": 0.4773,
-     "odds": 1.94,
-     "value": -0.2414,
+     "value": -0.2291,
      "result": null,
      "actual": null
     },
@@ -1988,10 +2905,23 @@
      "market": "AST",
      "line": 3,
      "prob": 0.3682,
-     "prob_model": 0.2464,
+     "prob_model": 0.2462,
      "prob_market": 0.4495,
      "odds": 2.06,
-     "value": -0.2414,
+     "value": -0.2416,
+     "result": null,
+     "actual": null
+    },
+    {
+     "player_id": "4395628",
+     "player": "Zion Williamson",
+     "market": "AST",
+     "line": 4,
+     "prob": 0.3902,
+     "prob_model": 0.2596,
+     "prob_market": 0.4773,
+     "odds": 1.94,
+     "value": -0.243,
      "result": null,
      "actual": null
     },
@@ -2000,11 +2930,11 @@
      "player": "Darius Acuff Jr.",
      "market": "3PM",
      "line": 3,
-     "prob": 0.4745,
-     "prob_model": 0.3128,
+     "prob": 0.4735,
+     "prob_model": 0.3102,
      "prob_market": 0.5823,
      "odds": 1.59,
-     "value": -0.2455,
+     "value": -0.2472,
      "result": null,
      "actual": null
     },
@@ -2013,25 +2943,839 @@
      "player": "Zion Williamson",
      "market": "RA",
      "line": 10,
-     "prob": 0.3899,
-     "prob_model": 0.1901,
+     "prob": 0.3895,
+     "prob_model": 0.189,
      "prob_market": 0.5231,
      "odds": 1.77,
-     "value": -0.3098,
+     "value": -0.3106,
      "result": null,
      "actual": null
     }
    ],
-   "iddaa_total": 237.5,
+   "iddaa_total": 236.5,
    "context": {
     "SAC": [
      "iddaa beklentisi 116 sayı (ort. 111)"
     ],
     "NO": [
-     "iddaa beklentisi 122 sayı (ort. 115)",
+     "iddaa beklentisi 121 sayı (ort. 115)",
      "back-to-back (dün oynadı)"
     ]
-   }
+   },
+   "players": [
+    {
+     "player_id": "3155942",
+     "player": "Domantas Sabonis",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3155942.png",
+     "injury": "",
+     "proj_min": 36.3,
+     "markets": {
+      "PTS": {
+       "mean": 20.89,
+       "var": 56.55,
+       "under": 29.5,
+       "over": 12.5
+      },
+      "REB": {
+       "mean": 15.25,
+       "var": 41.02,
+       "under": 22.5,
+       "over": 8.5
+      },
+      "AST": {
+       "mean": 6.61,
+       "var": 9.66,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "3PM": {
+       "mean": 0.27,
+       "var": 0.3,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 42.75,
+       "var": 164.5,
+       "under": 56.5,
+       "over": 29.5
+      },
+      "RA": {
+       "mean": 21.86,
+       "var": 69.03,
+       "under": 30.5,
+       "over": 12.5
+      },
+      "PR": {
+       "mean": 36.14,
+       "var": 133.74,
+       "under": 48.5,
+       "over": 23.5
+      },
+      "PA": {
+       "mean": 27.5,
+       "var": 82.37,
+       "under": 37.5,
+       "over": 17.5
+      }
+     }
+    },
+    {
+     "player_id": "3064440",
+     "player": "Zach LaVine",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3064440.png",
+     "injury": "",
+     "proj_min": 35.9,
+     "markets": {
+      "PTS": {
+       "mean": 25.46,
+       "var": 84.01,
+       "under": 35.5,
+       "over": 15.5
+      },
+      "REB": {
+       "mean": 3.25,
+       "var": 3.57,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 3.14,
+       "var": 4.04,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 2.99,
+       "var": 3.45,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 31.85,
+       "var": 91.28,
+       "under": 42.5,
+       "over": 21.5
+      },
+      "RA": {
+       "mean": 6.39,
+       "var": 7.03,
+       "under": 9.5,
+       "over": 3.5
+      },
+      "PR": {
+       "mean": 28.71,
+       "var": 84.39,
+       "under": 38.5,
+       "over": 18.5
+      },
+      "PA": {
+       "mean": 28.6,
+       "var": 89.08,
+       "under": 38.5,
+       "over": 18.5
+      }
+     }
+    },
+    {
+     "player_id": "5142620",
+     "player": "Darius Acuff Jr.",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5142620.png",
+     "injury": "",
+     "proj_min": 35.1,
+     "markets": {
+      "PTS": {
+       "mean": 22.41,
+       "var": 65.06,
+       "under": 31.5,
+       "over": 13.5
+      },
+      "REB": {
+       "mean": 2.81,
+       "var": 3.09,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 5.0,
+       "var": 5.52,
+       "under": 7.5,
+       "over": 2.5
+      },
+      "3PM": {
+       "mean": 1.95,
+       "var": 2.14,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 30.21,
+       "var": 82.16,
+       "under": 40.5,
+       "over": 20.5
+      },
+      "RA": {
+       "mean": 7.81,
+       "var": 8.81,
+       "under": 11.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 25.21,
+       "var": 65.1,
+       "under": 34.5,
+       "over": 16.5
+      },
+      "PA": {
+       "mean": 27.41,
+       "var": 81.79,
+       "under": 37.5,
+       "over": 17.5
+      }
+     }
+    },
+    {
+     "player_id": "4397688",
+     "player": "Trey Murphy III",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397688.png",
+     "injury": "",
+     "proj_min": 31.5,
+     "markets": {
+      "PTS": {
+       "mean": 15.84,
+       "var": 43.9,
+       "under": 23.5,
+       "over": 8.5
+      },
+      "REB": {
+       "mean": 4.58,
+       "var": 5.04,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 3.2,
+       "var": 3.52,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 2.68,
+       "var": 2.95,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 23.62,
+       "var": 69.38,
+       "under": 32.5,
+       "over": 14.5
+      },
+      "RA": {
+       "mean": 7.78,
+       "var": 8.74,
+       "under": 11.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 20.42,
+       "var": 58.69,
+       "under": 28.5,
+       "over": 12.5
+      },
+      "PA": {
+       "mean": 19.04,
+       "var": 54.07,
+       "under": 27.5,
+       "over": 11.5
+      }
+     }
+    },
+    {
+     "player_id": "4395628",
+     "player": "Zion Williamson",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395628.png",
+     "injury": "",
+     "proj_min": 31.5,
+     "markets": {
+      "PTS": {
+       "mean": 21.27,
+       "var": 58.65,
+       "under": 29.5,
+       "over": 13.5
+      },
+      "REB": {
+       "mean": 4.53,
+       "var": 4.99,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 2.56,
+       "var": 2.82,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 0.33,
+       "var": 0.43,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 28.37,
+       "var": 72.43,
+       "under": 37.5,
+       "over": 19.5
+      },
+      "RA": {
+       "mean": 7.1,
+       "var": 7.81,
+       "under": 10.5,
+       "over": 3.5
+      },
+      "PR": {
+       "mean": 25.81,
+       "var": 68.2,
+       "under": 34.5,
+       "over": 16.5
+      },
+      "PA": {
+       "mean": 23.84,
+       "var": 61.87,
+       "under": 32.5,
+       "over": 15.5
+      }
+     }
+    },
+    {
+     "player_id": "3907497",
+     "player": "Dejounte Murray",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3907497.png",
+     "injury": "",
+     "proj_min": 31.2,
+     "markets": {
+      "PTS": {
+       "mean": 18.05,
+       "var": 42.35,
+       "under": 25.5,
+       "over": 10.5
+      },
+      "REB": {
+       "mean": 5.89,
+       "var": 6.48,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "AST": {
+       "mean": 6.59,
+       "var": 9.58,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "3PM": {
+       "mean": 1.08,
+       "var": 1.24,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 30.53,
+       "var": 83.89,
+       "under": 40.5,
+       "over": 20.5
+      },
+      "RA": {
+       "mean": 12.48,
+       "var": 22.48,
+       "under": 17.5,
+       "over": 7.5
+      },
+      "PR": {
+       "mean": 23.94,
+       "var": 58.71,
+       "under": 32.5,
+       "over": 15.5
+      },
+      "PA": {
+       "mean": 24.64,
+       "var": 66.12,
+       "under": 33.5,
+       "over": 15.5
+      }
+     }
+    },
+    {
+     "player_id": "4683742",
+     "player": "Julian Reese",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683742.png",
+     "injury": "",
+     "proj_min": 30.0,
+     "markets": {
+      "PTS": {
+       "mean": 12.26,
+       "var": 55.32,
+       "under": 20.5,
+       "over": 4.5
+      },
+      "REB": {
+       "mean": 10.03,
+       "var": 27.83,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "AST": {
+       "mean": 1.82,
+       "var": 2.38,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.0,
+       "var": 0.3,
+       "under": 0.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 24.11,
+       "var": 101.09,
+       "under": 34.5,
+       "over": 13.5
+      },
+      "RA": {
+       "mean": 11.85,
+       "var": 35.12,
+       "under": 18.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 22.29,
+       "var": 103.07,
+       "under": 33.5,
+       "over": 11.5
+      },
+      "PA": {
+       "mean": 14.08,
+       "var": 47.87,
+       "under": 21.5,
+       "over": 6.5
+      }
+     }
+    },
+    {
+     "player_id": "4065732",
+     "player": "De'Andre Hunter",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4065732.png",
+     "injury": "",
+     "proj_min": 27.4,
+     "markets": {
+      "PTS": {
+       "mean": 12.92,
+       "var": 45.89,
+       "under": 20.5,
+       "over": 5.5
+      },
+      "REB": {
+       "mean": 4.97,
+       "var": 7.44,
+       "under": 8.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 1.7,
+       "var": 1.87,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 2.11,
+       "var": 2.32,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 19.59,
+       "var": 64.94,
+       "under": 28.5,
+       "over": 10.5
+      },
+      "RA": {
+       "mean": 6.66,
+       "var": 9.99,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 17.89,
+       "var": 57.94,
+       "under": 26.5,
+       "over": 9.5
+      },
+      "PA": {
+       "mean": 14.62,
+       "var": 51.99,
+       "under": 22.5,
+       "over": 6.5
+      }
+     }
+    },
+    {
+     "player_id": "4431679",
+     "player": "Precious Achiuwa",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431679.png",
+     "injury": "",
+     "proj_min": 26.5,
+     "markets": {
+      "PTS": {
+       "mean": 12.78,
+       "var": 26.58,
+       "under": 18.5,
+       "over": 7.5
+      },
+      "REB": {
+       "mean": 6.99,
+       "var": 9.31,
+       "under": 10.5,
+       "over": 3.5
+      },
+      "AST": {
+       "mean": 1.27,
+       "var": 1.66,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.23,
+       "var": 0.3,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 21.03,
+       "var": 60.8,
+       "under": 29.5,
+       "over": 12.5
+      },
+      "RA": {
+       "mean": 8.26,
+       "var": 11.3,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 19.76,
+       "var": 55.37,
+       "under": 27.5,
+       "over": 11.5
+      },
+      "PA": {
+       "mean": 14.04,
+       "var": 31.7,
+       "under": 20.5,
+       "over": 7.5
+      }
+     }
+    },
+    {
+     "player_id": "4395650",
+     "player": "Leaky Black",
+     "team": "SAC",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4395650.png",
+     "injury": "",
+     "proj_min": 24.2,
+     "markets": {
+      "PTS": {
+       "mean": 6.02,
+       "var": 12.83,
+       "under": 10.5,
+       "over": 1.5
+      },
+      "REB": {
+       "mean": 4.12,
+       "var": 6.49,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 1.39,
+       "var": 1.53,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.03,
+       "var": 1.14,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 11.52,
+       "var": 31.29,
+       "under": 17.5,
+       "over": 5.5
+      },
+      "RA": {
+       "mean": 5.51,
+       "var": 8.89,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 10.13,
+       "var": 26.14,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 7.41,
+       "var": 17.09,
+       "under": 12.5,
+       "over": 2.5
+      }
+     }
+    },
+    {
+     "player_id": "4397136",
+     "player": "Saddiq Bey",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4397136.png",
+     "injury": "",
+     "proj_min": 23.7,
+     "markets": {
+      "PTS": {
+       "mean": 14.25,
+       "var": 26.32,
+       "under": 20.5,
+       "over": 8.5
+      },
+      "REB": {
+       "mean": 3.11,
+       "var": 3.43,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 1.77,
+       "var": 1.95,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.94,
+       "var": 2.14,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 19.14,
+       "var": 32.96,
+       "under": 25.5,
+       "over": 12.5
+      },
+      "RA": {
+       "mean": 4.89,
+       "var": 5.38,
+       "under": 7.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 17.36,
+       "var": 33.23,
+       "under": 23.5,
+       "over": 10.5
+      },
+      "PA": {
+       "mean": 16.02,
+       "var": 27.96,
+       "under": 21.5,
+       "over": 10.5
+      }
+     }
+    },
+    {
+     "player_id": "4869780",
+     "player": "Derik Queen",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4869780.png",
+     "injury": "",
+     "proj_min": 23.7,
+     "markets": {
+      "PTS": {
+       "mean": 12.31,
+       "var": 22.93,
+       "under": 17.5,
+       "over": 6.5
+      },
+      "REB": {
+       "mean": 8.08,
+       "var": 12.41,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "AST": {
+       "mean": 2.22,
+       "var": 2.44,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 0.29,
+       "var": 0.32,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 22.61,
+       "var": 54.29,
+       "under": 30.5,
+       "over": 14.5
+      },
+      "RA": {
+       "mean": 10.3,
+       "var": 15.32,
+       "under": 14.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 20.39,
+       "var": 50.06,
+       "under": 28.5,
+       "over": 12.5
+      },
+      "PA": {
+       "mean": 14.53,
+       "var": 27.96,
+       "under": 20.5,
+       "over": 8.5
+      }
+     }
+    },
+    {
+     "player_id": "5144091",
+     "player": "Jeremiah Fears",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5144091.png",
+     "injury": "",
+     "proj_min": 22.4,
+     "markets": {
+      "PTS": {
+       "mean": 13.68,
+       "var": 38.21,
+       "under": 20.5,
+       "over": 6.5
+      },
+      "REB": {
+       "mean": 2.98,
+       "var": 3.92,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 2.75,
+       "var": 3.03,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 1.14,
+       "var": 1.26,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 19.42,
+       "var": 62.49,
+       "under": 28.5,
+       "over": 10.5
+      },
+      "RA": {
+       "mean": 5.74,
+       "var": 7.73,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 16.66,
+       "var": 49.35,
+       "under": 24.5,
+       "over": 9.5
+      },
+      "PA": {
+       "mean": 16.43,
+       "var": 49.7,
+       "under": 24.5,
+       "over": 8.5
+      }
+     }
+    },
+    {
+     "player_id": "4576086",
+     "player": "Bryce McGowens",
+     "team": "NO",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4576086.png",
+     "injury": "",
+     "proj_min": 19.4,
+     "markets": {
+      "PTS": {
+       "mean": 7.02,
+       "var": 14.98,
+       "under": 11.5,
+       "over": 2.5
+      },
+      "REB": {
+       "mean": 1.72,
+       "var": 2.12,
+       "under": 3.5,
+       "over": null
+      },
+      "AST": {
+       "mean": 1.37,
+       "var": 1.5,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.77,
+       "var": 0.85,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 10.11,
+       "var": 27.3,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "RA": {
+       "mean": 3.08,
+       "var": 3.39,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PR": {
+       "mean": 8.74,
+       "var": 22.58,
+       "under": 14.5,
+       "over": 3.5
+      },
+      "PA": {
+       "mean": 8.39,
+       "var": 19.64,
+       "under": 13.5,
+       "over": 3.5
+      }
+     }
+    }
+   ]
   },
   {
    "id": "401909895",
@@ -2240,7 +3984,1111 @@
     "POR": [
      "iddaa beklentisi 120 sayı (ort. 120)"
     ]
-   }
+   },
+   "players": [
+    {
+     "player_id": "5041935",
+     "player": "Cameron Boozer",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5041935.png",
+     "injury": "",
+     "proj_min": 32.8,
+     "markets": {
+      "PTS": {
+       "mean": 14.52,
+       "var": 27.31,
+       "under": 20.5,
+       "over": 8.5
+      },
+      "REB": {
+       "mean": 10.48,
+       "var": 19.38,
+       "under": 15.5,
+       "over": 5.5
+      },
+      "AST": {
+       "mean": 4.61,
+       "var": 5.07,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "3PM": {
+       "mean": 1.72,
+       "var": 1.89,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 29.61,
+       "var": 78.89,
+       "under": 39.5,
+       "over": 20.5
+      },
+      "RA": {
+       "mean": 15.09,
+       "var": 32.89,
+       "under": 21.5,
+       "over": 8.5
+      },
+      "PR": {
+       "mean": 25.0,
+       "var": 63.98,
+       "under": 33.5,
+       "over": 16.5
+      },
+      "PA": {
+       "mean": 19.12,
+       "var": 39.83,
+       "under": 26.5,
+       "over": 12.5
+      }
+     }
+    },
+    {
+     "player_id": "4683021",
+     "player": "Deni Avdija",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683021.png",
+     "injury": "",
+     "proj_min": 31.7,
+     "markets": {
+      "PTS": {
+       "mean": 22.96,
+       "var": 68.33,
+       "under": 31.5,
+       "over": 14.5
+      },
+      "REB": {
+       "mean": 6.1,
+       "var": 8.66,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "AST": {
+       "mean": 6.12,
+       "var": 8.26,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "3PM": {
+       "mean": 1.79,
+       "var": 1.97,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 35.17,
+       "var": 111.35,
+       "under": 46.5,
+       "over": 23.5
+      },
+      "RA": {
+       "mean": 12.21,
+       "var": 21.54,
+       "under": 17.5,
+       "over": 6.5
+      },
+      "PR": {
+       "mean": 29.06,
+       "var": 86.47,
+       "under": 39.5,
+       "over": 19.5
+      },
+      "PA": {
+       "mean": 29.08,
+       "var": 92.08,
+       "under": 39.5,
+       "over": 18.5
+      }
+     }
+    },
+    {
+     "player_id": "4065733",
+     "player": "Ty Jerome",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4065733.png",
+     "injury": "",
+     "proj_min": 31.4,
+     "markets": {
+      "PTS": {
+       "mean": 27.01,
+       "var": 94.52,
+       "under": 37.5,
+       "over": 16.5
+      },
+      "REB": {
+       "mean": 3.6,
+       "var": 8.18,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 7.02,
+       "var": 10.89,
+       "under": 10.5,
+       "over": 3.5
+      },
+      "3PM": {
+       "mean": 3.0,
+       "var": 3.46,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 37.62,
+       "var": 127.39,
+       "under": 49.5,
+       "over": 25.5
+      },
+      "RA": {
+       "mean": 10.62,
+       "var": 17.03,
+       "under": 15.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 30.6,
+       "var": 101.51,
+       "under": 41.5,
+       "over": 19.5
+      },
+      "PA": {
+       "mean": 34.03,
+       "var": 126.08,
+       "under": 46.5,
+       "over": 22.5
+      }
+     }
+    },
+    {
+     "player_id": "4903027",
+     "player": "Cedric Coward",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4903027.png",
+     "injury": "",
+     "proj_min": 30.4,
+     "markets": {
+      "PTS": {
+       "mean": 15.75,
+       "var": 50.54,
+       "under": 23.5,
+       "over": 8.5
+      },
+      "REB": {
+       "mean": 7.79,
+       "var": 19.14,
+       "under": 12.5,
+       "over": 2.5
+      },
+      "AST": {
+       "mean": 2.55,
+       "var": 3.01,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 2.22,
+       "var": 2.45,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 26.09,
+       "var": 85.5,
+       "under": 36.5,
+       "over": 16.5
+      },
+      "RA": {
+       "mean": 10.34,
+       "var": 22.76,
+       "under": 15.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 23.54,
+       "var": 80.36,
+       "under": 33.5,
+       "over": 13.5
+      },
+      "PA": {
+       "mean": 18.3,
+       "var": 55.03,
+       "under": 26.5,
+       "over": 10.5
+      }
+     }
+    },
+    {
+     "player_id": "5112087",
+     "player": "Jaylen Wells",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5112087.png",
+     "injury": "",
+     "proj_min": 29.2,
+     "markets": {
+      "PTS": {
+       "mean": 14.89,
+       "var": 28.74,
+       "under": 20.5,
+       "over": 8.5
+      },
+      "REB": {
+       "mean": 3.78,
+       "var": 4.16,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 1.47,
+       "var": 1.8,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 2.33,
+       "var": 2.56,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 20.14,
+       "var": 39.05,
+       "under": 27.5,
+       "over": 13.5
+      },
+      "RA": {
+       "mean": 5.25,
+       "var": 7.3,
+       "under": 8.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 18.67,
+       "var": 35.7,
+       "under": 25.5,
+       "over": 12.5
+      },
+      "PA": {
+       "mean": 16.36,
+       "var": 29.64,
+       "under": 22.5,
+       "over": 10.5
+      }
+     }
+    },
+    {
+     "player_id": "4683934",
+     "player": "Jahmai Mashack",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683934.png",
+     "injury": "",
+     "proj_min": 28.8,
+     "markets": {
+      "PTS": {
+       "mean": 7.95,
+       "var": 16.44,
+       "under": 12.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 3.75,
+       "var": 6.34,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 3.67,
+       "var": 8.5,
+       "under": 7.5,
+       "over": 0.5
+      },
+      "3PM": {
+       "mean": 0.65,
+       "var": 0.75,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 15.37,
+       "var": 36.28,
+       "under": 22.5,
+       "over": 8.5
+      },
+      "RA": {
+       "mean": 7.42,
+       "var": 19.12,
+       "under": 12.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 11.7,
+       "var": 21.46,
+       "under": 16.5,
+       "over": 6.5
+      },
+      "PA": {
+       "mean": 11.62,
+       "var": 27.09,
+       "under": 17.5,
+       "over": 5.5
+      }
+     }
+    },
+    {
+     "player_id": "4279888",
+     "player": "Ja Morant",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4279888.png",
+     "injury": "",
+     "proj_min": 27.3,
+     "markets": {
+      "PTS": {
+       "mean": 18.09,
+       "var": 42.42,
+       "under": 25.5,
+       "over": 10.5
+      },
+      "REB": {
+       "mean": 2.84,
+       "var": 4.0,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 7.53,
+       "var": 12.51,
+       "under": 11.5,
+       "over": 3.5
+      },
+      "3PM": {
+       "mean": 1.15,
+       "var": 1.27,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 28.46,
+       "var": 72.91,
+       "under": 37.5,
+       "over": 19.5
+      },
+      "RA": {
+       "mean": 10.37,
+       "var": 21.36,
+       "under": 15.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 20.94,
+       "var": 44.88,
+       "under": 28.5,
+       "over": 13.5
+      },
+      "PA": {
+       "mean": 25.62,
+       "var": 71.47,
+       "under": 34.5,
+       "over": 16.5
+      }
+     }
+    },
+    {
+     "player_id": "3995",
+     "player": "Jrue Holiday",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/3995.png",
+     "injury": "",
+     "proj_min": 26.0,
+     "markets": {
+      "PTS": {
+       "mean": 13.45,
+       "var": 27.64,
+       "under": 19.5,
+       "over": 7.5
+      },
+      "REB": {
+       "mean": 3.66,
+       "var": 4.03,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 4.26,
+       "var": 6.13,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "3PM": {
+       "mean": 2.04,
+       "var": 2.25,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 21.38,
+       "var": 41.13,
+       "under": 28.5,
+       "over": 14.5
+      },
+      "RA": {
+       "mean": 7.92,
+       "var": 9.06,
+       "under": 11.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 17.12,
+       "var": 34.59,
+       "under": 23.5,
+       "over": 10.5
+      },
+      "PA": {
+       "mean": 17.72,
+       "var": 34.18,
+       "under": 24.5,
+       "over": 11.5
+      }
+     }
+    },
+    {
+     "player_id": "4781746",
+     "player": "Javon Small",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4781746.png",
+     "injury": "",
+     "proj_min": 25.1,
+     "markets": {
+      "PTS": {
+       "mean": 12.84,
+       "var": 21.97,
+       "under": 18.5,
+       "over": 7.5
+      },
+      "REB": {
+       "mean": 3.91,
+       "var": 4.3,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 3.88,
+       "var": 4.27,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "3PM": {
+       "mean": 1.96,
+       "var": 2.16,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 20.63,
+       "var": 38.32,
+       "under": 27.5,
+       "over": 13.5
+      },
+      "RA": {
+       "mean": 7.79,
+       "var": 8.77,
+       "under": 11.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 16.75,
+       "var": 28.73,
+       "under": 22.5,
+       "over": 10.5
+      },
+      "PA": {
+       "mean": 16.72,
+       "var": 30.45,
+       "under": 22.5,
+       "over": 10.5
+      }
+     }
+    },
+    {
+     "player_id": "4431736",
+     "player": "Toumani Camara",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4431736.png",
+     "injury": "",
+     "proj_min": 24.7,
+     "markets": {
+      "PTS": {
+       "mean": 11.59,
+       "var": 44.56,
+       "under": 18.5,
+       "over": 4.5
+      },
+      "REB": {
+       "mean": 2.94,
+       "var": 3.23,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 1.31,
+       "var": 1.44,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 2.81,
+       "var": 3.23,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PRA": {
+       "mean": 15.83,
+       "var": 50.73,
+       "under": 23.5,
+       "over": 8.5
+      },
+      "RA": {
+       "mean": 4.25,
+       "var": 4.67,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 14.53,
+       "var": 45.98,
+       "under": 21.5,
+       "over": 7.5
+      },
+      "PA": {
+       "mean": 12.89,
+       "var": 49.79,
+       "under": 20.5,
+       "over": 5.5
+      }
+     }
+    },
+    {
+     "player_id": "2991070",
+     "player": "Jerami Grant",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/2991070.png",
+     "injury": "",
+     "proj_min": 23.9,
+     "markets": {
+      "PTS": {
+       "mean": 11.53,
+       "var": 24.66,
+       "under": 17.5,
+       "over": 6.5
+      },
+      "REB": {
+       "mean": 2.57,
+       "var": 3.42,
+       "under": 4.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 1.31,
+       "var": 1.84,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.86,
+       "var": 2.05,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 15.41,
+       "var": 26.72,
+       "under": 21.5,
+       "over": 9.5
+      },
+      "RA": {
+       "mean": 3.88,
+       "var": 6.42,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "PR": {
+       "mean": 14.1,
+       "var": 28.23,
+       "under": 20.5,
+       "over": 8.5
+      },
+      "PA": {
+       "mean": 12.84,
+       "var": 22.12,
+       "under": 18.5,
+       "over": 7.5
+      }
+     }
+    },
+    {
+     "player_id": "4595400",
+     "player": "Olivier-Maxence Prosper",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4595400.png",
+     "injury": "",
+     "proj_min": 23.6,
+     "markets": {
+      "PTS": {
+       "mean": 15.04,
+       "var": 48.37,
+       "under": 22.5,
+       "over": 7.5
+      },
+      "REB": {
+       "mean": 4.5,
+       "var": 4.95,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 1.1,
+       "var": 1.21,
+       "under": 2.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.79,
+       "var": 1.97,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 20.64,
+       "var": 56.57,
+       "under": 28.5,
+       "over": 12.5
+      },
+      "RA": {
+       "mean": 5.59,
+       "var": 6.15,
+       "under": 8.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 19.54,
+       "var": 55.94,
+       "under": 27.5,
+       "over": 11.5
+      },
+      "PA": {
+       "mean": 16.14,
+       "var": 48.69,
+       "under": 23.5,
+       "over": 8.5
+      }
+     }
+    },
+    {
+     "player_id": "5081727",
+     "player": "Sidy Cissoko",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5081727.png",
+     "injury": "",
+     "proj_min": 23.5,
+     "markets": {
+      "PTS": {
+       "mean": 7.07,
+       "var": 27.01,
+       "under": 12.5,
+       "over": 1.5
+      },
+      "REB": {
+       "mean": 3.94,
+       "var": 6.18,
+       "under": 6.5,
+       "over": 0.5
+      },
+      "AST": {
+       "mean": 2.61,
+       "var": 4.87,
+       "under": 5.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.81,
+       "var": 0.89,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 13.63,
+       "var": 43.16,
+       "under": 20.5,
+       "over": 6.5
+      },
+      "RA": {
+       "mean": 6.55,
+       "var": 9.38,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 11.01,
+       "var": 44.73,
+       "under": 18.5,
+       "over": 3.5
+      },
+      "PA": {
+       "mean": 9.69,
+       "var": 27.1,
+       "under": 15.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "5105565",
+     "player": "Donovan Clingan",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5105565.png",
+     "injury": "",
+     "proj_min": 22.9,
+     "markets": {
+      "PTS": {
+       "mean": 8.66,
+       "var": 12.81,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "REB": {
+       "mean": 9.22,
+       "var": 15.0,
+       "under": 13.5,
+       "over": 4.5
+      },
+      "AST": {
+       "mean": 1.91,
+       "var": 2.1,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.19,
+       "var": 1.31,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 19.79,
+       "var": 35.24,
+       "under": 26.5,
+       "over": 13.5
+      },
+      "RA": {
+       "mean": 11.13,
+       "var": 17.89,
+       "under": 15.5,
+       "over": 6.5
+      },
+      "PR": {
+       "mean": 17.88,
+       "var": 32.73,
+       "under": 24.5,
+       "over": 11.5
+      },
+      "PA": {
+       "mean": 10.57,
+       "var": 15.05,
+       "under": 15.5,
+       "over": 6.5
+      }
+     }
+    },
+    {
+     "player_id": "4600663",
+     "player": "Zach Edey",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4600663.png",
+     "injury": "",
+     "proj_min": 21.3,
+     "markets": {
+      "PTS": {
+       "mean": 9.03,
+       "var": 25.57,
+       "under": 14.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 8.59,
+       "var": 13.47,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "AST": {
+       "mean": 1.24,
+       "var": 1.37,
+       "under": 2.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.04,
+       "var": 0.3,
+       "under": 0.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 18.86,
+       "var": 57.02,
+       "under": 27.5,
+       "over": 10.5
+      },
+      "RA": {
+       "mean": 9.83,
+       "var": 15.72,
+       "under": 14.5,
+       "over": 5.5
+      },
+      "PR": {
+       "mean": 17.62,
+       "var": 57.78,
+       "under": 25.5,
+       "over": 9.5
+      },
+      "PA": {
+       "mean": 10.27,
+       "var": 24.12,
+       "under": 15.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "4684806",
+     "player": "Taylor Hendricks",
+     "team": "MEM",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4684806.png",
+     "injury": "",
+     "proj_min": 21.1,
+     "markets": {
+      "PTS": {
+       "mean": 8.73,
+       "var": 32.57,
+       "under": 14.5,
+       "over": 2.5
+      },
+      "REB": {
+       "mean": 4.09,
+       "var": 4.87,
+       "under": 6.5,
+       "over": 1.5
+      },
+      "AST": {
+       "mean": 0.85,
+       "var": 0.93,
+       "under": 2.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.26,
+       "var": 1.95,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 13.66,
+       "var": 52.64,
+       "under": 21.5,
+       "over": 5.5
+      },
+      "RA": {
+       "mean": 4.94,
+       "var": 6.06,
+       "under": 7.5,
+       "over": 1.5
+      },
+      "PR": {
+       "mean": 12.81,
+       "var": 48.19,
+       "under": 20.5,
+       "over": 5.5
+      },
+      "PA": {
+       "mean": 9.57,
+       "var": 36.6,
+       "under": 16.5,
+       "over": 3.5
+      }
+     }
+    },
+    {
+     "player_id": "4683678",
+     "player": "Scoot Henderson",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4683678.png",
+     "injury": "",
+     "proj_min": 18.9,
+     "markets": {
+      "PTS": {
+       "mean": 9.02,
+       "var": 31.87,
+       "under": 15.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 1.51,
+       "var": 1.66,
+       "under": 3.5,
+       "over": null
+      },
+      "AST": {
+       "mean": 1.77,
+       "var": 1.94,
+       "under": 3.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.18,
+       "var": 1.3,
+       "under": 2.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 12.3,
+       "var": 39.56,
+       "under": 19.5,
+       "over": 5.5
+      },
+      "RA": {
+       "mean": 3.28,
+       "var": 3.61,
+       "under": 5.5,
+       "over": 0.5
+      },
+      "PR": {
+       "mean": 10.53,
+       "var": 36.44,
+       "under": 17.5,
+       "over": 4.5
+      },
+      "PA": {
+       "mean": 10.79,
+       "var": 33.99,
+       "under": 17.5,
+       "over": 4.5
+      }
+     }
+    },
+    {
+     "player_id": "4066399",
+     "player": "Micah Potter",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066399.png",
+     "injury": "",
+     "proj_min": 18.4,
+     "markets": {
+      "PTS": {
+       "mean": 9.99,
+       "var": 22.51,
+       "under": 15.5,
+       "over": 4.5
+      },
+      "REB": {
+       "mean": 5.62,
+       "var": 8.58,
+       "under": 9.5,
+       "over": 2.5
+      },
+      "AST": {
+       "mean": 1.16,
+       "var": 1.82,
+       "under": 2.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 1.36,
+       "var": 1.7,
+       "under": 3.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 16.78,
+       "var": 54.75,
+       "under": 24.5,
+       "over": 8.5
+      },
+      "RA": {
+       "mean": 6.79,
+       "var": 11.43,
+       "under": 10.5,
+       "over": 2.5
+      },
+      "PR": {
+       "mean": 15.62,
+       "var": 49.98,
+       "under": 23.5,
+       "over": 8.5
+      },
+      "PA": {
+       "mean": 11.16,
+       "var": 26.25,
+       "under": 16.5,
+       "over": 5.5
+      }
+     }
+    },
+    {
+     "player_id": "4066211",
+     "player": "Robert Williams III",
+     "team": "POR",
+     "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4066211.png",
+     "injury": "",
+     "proj_min": 18.2,
+     "markets": {
+      "PTS": {
+       "mean": 8.25,
+       "var": 19.93,
+       "under": 13.5,
+       "over": 3.5
+      },
+      "REB": {
+       "mean": 7.69,
+       "var": 10.43,
+       "under": 11.5,
+       "over": 3.5
+      },
+      "AST": {
+       "mean": 1.17,
+       "var": 1.29,
+       "under": 2.5,
+       "over": null
+      },
+      "3PM": {
+       "mean": 0.22,
+       "var": 0.3,
+       "under": 1.5,
+       "over": null
+      },
+      "PRA": {
+       "mean": 17.11,
+       "var": 26.34,
+       "under": 22.5,
+       "over": 11.5
+      },
+      "RA": {
+       "mean": 8.86,
+       "var": 11.34,
+       "under": 12.5,
+       "over": 4.5
+      },
+      "PR": {
+       "mean": 15.94,
+       "var": 26.01,
+       "under": 21.5,
+       "over": 10.5
+      },
+      "PA": {
+       "mean": 9.42,
+       "var": 20.11,
+       "under": 14.5,
+       "over": 4.5
+      }
+     }
+    }
+   ]
   }
  ]
 }
