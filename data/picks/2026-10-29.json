@@ -10,17 +10,17 @@
     "abbr": "ATL",
     "name": "Atlanta Hawks",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-    "score": "0"
+    "score": "114"
    },
    "away": {
     "id": "5",
     "abbr": "CLE",
     "name": "Cleveland Cavaliers",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-    "score": "0"
+    "score": "111"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -44,9 +44,9 @@
       "rakip pivotlara %12 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 14.0,
+     "actual_min": 30,
+     "result": "Tuttu",
      "prob_model": 0.5312,
      "prob_market": 0.5473,
      "market_src": "ABD",
@@ -75,9 +75,9 @@
       "rakip pivotlara %12 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 22.0,
+     "actual_min": 33,
+     "result": "Tutmadı",
      "prob_model": 0.5558,
      "prob_market": 0.4975,
      "market_src": "ABD",
@@ -104,9 +104,9 @@
      "proj_min": 27.6,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 5.0,
+     "actual_min": 32,
+     "result": "Tuttu",
      "prob_model": 0.4938,
      "prob_market": 0.484,
      "market_src": "ABD",
@@ -135,9 +135,9 @@
       "rakip forvetlara %7 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 7.0,
+     "actual_min": 34,
+     "result": "Tutmadı",
      "prob_model": 0.4803,
      "prob_market": 0.4796,
      "market_src": "ABD",
@@ -166,9 +166,9 @@
       "rakip pivotlara %12 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 0.0,
+     "actual_min": 33,
+     "result": "Tutmadı",
      "prob_model": 0.6357,
      "prob_market": 0.3656,
      "market_src": "ABD",
@@ -197,9 +197,9 @@
       "rakip guardlara %10 az sayı veriyor"
      ],
      "confidence": "Düşük Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 2.0,
+     "actual_min": 22,
+     "result": "Tuttu",
      "prob_model": 0.3819,
      "prob_market": 0.3666,
      "market_src": "ABD",
@@ -226,9 +226,9 @@
      "proj_min": 25.8,
      "notes": [],
      "confidence": "Düşük Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 4.0,
+     "actual_min": 24,
+     "result": "Tuttu",
      "prob_model": 0.3463,
      "prob_market": 0.3839,
      "market_src": "ABD",
@@ -255,9 +255,9 @@
      "proj_min": 27.6,
      "notes": [],
      "confidence": "Düşük Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 0.0,
+     "actual_min": 32,
+     "result": "Tutmadı",
      "prob_model": 0.3502,
      "prob_market": 0.3692,
      "market_src": "ABD",
@@ -279,8 +279,9 @@
      "odds": 1.93,
      "odds_open": 1.93,
      "value": -0.1119,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 33
     },
     {
      "player_id": "4432158",
@@ -293,8 +294,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.1765,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 22.0,
+     "actual_min": 33
     },
     {
      "player_id": "4869342",
@@ -307,8 +309,9 @@
      "odds": 2.25,
      "odds_open": 2.25,
      "value": -0.1842,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 32
     },
     {
      "player_id": "4066328",
@@ -321,8 +324,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.1875,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0,
+     "actual_min": 30
     },
     {
      "player_id": "4432158",
@@ -335,8 +339,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.1908,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0,
+     "actual_min": 33
     },
     {
      "player_id": "4397183",
@@ -349,8 +354,9 @@
      "odds": 2.17,
      "odds_open": 2.17,
      "value": -0.1955,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 24
     },
     {
      "player_id": "4432158",
@@ -363,8 +369,9 @@
      "odds": 1.77,
      "odds_open": 1.77,
      "value": -0.2,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0,
+     "actual_min": 33
     },
     {
      "player_id": "4701230",
@@ -377,8 +384,9 @@
      "odds": 1.66,
      "odds_open": 1.66,
      "value": -0.2035,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0,
+     "actual_min": 34
     },
     {
      "player_id": "4869342",
@@ -391,8 +399,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.2201,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0,
+     "actual_min": 32
     },
     {
      "player_id": "4432158",
@@ -405,8 +414,9 @@
      "odds": 1.52,
      "odds_open": 1.52,
      "value": -0.2263,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0,
+     "actual_min": 33
     },
     {
      "player_id": "4576087",
@@ -419,8 +429,9 @@
      "odds": 2.08,
      "odds_open": 2.08,
      "value": -0.2263,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0,
+     "actual_min": 22
     },
     {
      "player_id": "4066328",
@@ -433,8 +444,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.227,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 23.0,
+     "actual_min": 30
     },
     {
      "player_id": "4576087",
@@ -447,8 +459,9 @@
      "odds": 1.62,
      "odds_open": 1.62,
      "value": -0.2345,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0,
+     "actual_min": 22
     },
     {
      "player_id": "3992",
@@ -461,8 +474,9 @@
      "odds": 1.72,
      "odds_open": 1.72,
      "value": -0.2368,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0,
+     "actual_min": 36
     },
     {
      "player_id": "4066757",
@@ -475,8 +489,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.239,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 16.0,
+     "actual_min": 27
     },
     {
      "player_id": "4701230",
@@ -489,8 +504,9 @@
      "odds": 1.8,
      "odds_open": 1.8,
      "value": -0.2407,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0,
+     "actual_min": 34
     },
     {
      "player_id": "4576087",
@@ -503,8 +519,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.2444,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0,
+     "actual_min": 22
     },
     {
      "player_id": "4397183",
@@ -517,8 +534,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.2464,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 20.0,
+     "actual_min": 24
     },
     {
      "player_id": "4066328",
@@ -531,8 +549,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.2475,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0,
+     "actual_min": 30
     },
     {
      "player_id": "2490149",
@@ -545,8 +564,9 @@
      "odds": 1.51,
      "odds_open": 1.51,
      "value": -0.2481,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0,
+     "actual_min": 31
     },
     {
      "player_id": "4431680",
@@ -559,8 +579,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.2562,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 33
     },
     {
      "player_id": "4432158",
@@ -573,8 +594,9 @@
      "odds": 1.68,
      "odds_open": 1.68,
      "value": -0.2608,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0,
+     "actual_min": 33
     },
     {
      "player_id": "3908809",
@@ -587,8 +609,9 @@
      "odds": 1.65,
      "odds_open": 1.65,
      "value": -0.271,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 33
     },
     {
      "player_id": "4066328",
@@ -601,8 +624,9 @@
      "odds": 1.74,
      "odds_open": 1.74,
      "value": -0.2779,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0,
+     "actual_min": 30
     },
     {
      "player_id": "4576087",
@@ -615,8 +639,9 @@
      "odds": 1.83,
      "odds_open": 1.83,
      "value": -0.2798,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 22
     },
     {
      "player_id": "4701230",
@@ -629,8 +654,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.2903,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0,
+     "actual_min": 34
     },
     {
      "player_id": "2490149",
@@ -643,8 +669,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.2909,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0,
+     "actual_min": 31
     },
     {
      "player_id": "4576087",
@@ -657,8 +684,9 @@
      "odds": 1.85,
      "odds_open": 1.85,
      "value": -0.2927,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 22
     },
     {
      "player_id": "2490149",
@@ -671,8 +699,9 @@
      "odds": 1.91,
      "odds_open": 1.91,
      "value": -0.2959,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 31
     },
     {
      "player_id": "4278039",
@@ -685,8 +714,9 @@
      "odds": 1.93,
      "odds_open": 1.93,
      "value": -0.2974,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 31
     },
     {
      "player_id": "4432158",
@@ -699,8 +729,9 @@
      "odds": 1.7,
      "odds_open": 1.7,
      "value": -0.2984,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 33
     },
     {
      "player_id": "4431680",
@@ -713,8 +744,9 @@
      "odds": 1.93,
      "odds_open": 1.93,
      "value": -0.2987,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 33
     },
     {
      "player_id": "4701230",
@@ -727,8 +759,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.3004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0,
+     "actual_min": 34
     },
     {
      "player_id": "2490149",
@@ -741,8 +774,9 @@
      "odds": 1.69,
      "odds_open": 1.69,
      "value": -0.302,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 31
     },
     {
      "player_id": "4576087",
@@ -755,8 +789,9 @@
      "odds": 1.73,
      "odds_open": 1.73,
      "value": -0.3034,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0,
+     "actual_min": 22
     },
     {
      "player_id": "4278039",
@@ -769,8 +804,9 @@
      "odds": 1.62,
      "odds_open": 1.62,
      "value": -0.3062,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 25.0,
+     "actual_min": 31
     },
     {
      "player_id": "4869342",
@@ -783,8 +819,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.3066,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0,
+     "actual_min": 32
     },
     {
      "player_id": "4431680",
@@ -797,8 +834,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.3073,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 29.0,
+     "actual_min": 33
     },
     {
      "player_id": "4701230",
@@ -811,8 +849,9 @@
      "odds": 1.58,
      "odds_open": 1.58,
      "value": -0.3073,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 32.0,
+     "actual_min": 34
     },
     {
      "player_id": "4278039",
@@ -825,8 +864,9 @@
      "odds": 1.94,
      "odds_open": 1.94,
      "value": -0.3087,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 31
     },
     {
      "player_id": "4278039",
@@ -839,8 +879,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.3103,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 29.0,
+     "actual_min": 31
     },
     {
      "player_id": "4869342",
@@ -853,8 +894,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.3106,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0,
+     "actual_min": 32
     },
     {
      "player_id": "4066328",
@@ -867,8 +909,9 @@
      "odds": 1.53,
      "odds_open": 1.53,
      "value": -0.3112,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0,
+     "actual_min": 30
     },
     {
      "player_id": "4701230",
@@ -881,8 +924,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.3175,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 17.0,
+     "actual_min": 34
     },
     {
      "player_id": "4869342",
@@ -895,8 +939,9 @@
      "odds": 1.72,
      "odds_open": 1.72,
      "value": -0.3245,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0,
+     "actual_min": 32
     },
     {
      "player_id": "3908809",
@@ -909,8 +954,9 @@
      "odds": 1.64,
      "odds_open": 1.64,
      "value": -0.329,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 22.0,
+     "actual_min": 33
     },
     {
      "player_id": "3908809",
@@ -923,8 +969,9 @@
      "odds": 1.95,
      "odds_open": 1.95,
      "value": -0.3296,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 33
     },
     {
      "player_id": "4431680",
@@ -937,8 +984,9 @@
      "odds": 1.55,
      "odds_open": 1.55,
      "value": -0.3305,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0,
+     "actual_min": 33
     },
     {
      "player_id": "4278039",
@@ -951,8 +999,9 @@
      "odds": 1.76,
      "odds_open": 1.76,
      "value": -0.336,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 31
     },
     {
      "player_id": "3908809",
@@ -965,8 +1014,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.3361,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 28.0,
+     "actual_min": 33
     },
     {
      "player_id": "4431680",
@@ -979,8 +1029,9 @@
      "odds": 1.75,
      "odds_open": 1.75,
      "value": -0.3368,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0,
+     "actual_min": 33
     },
     {
      "player_id": "3992",
@@ -993,8 +1044,9 @@
      "odds": 1.81,
      "odds_open": 1.81,
      "value": -0.3402,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 36
     },
     {
      "player_id": "4869342",
@@ -1007,8 +1059,9 @@
      "odds": 1.7,
      "odds_open": 1.7,
      "value": -0.3435,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0,
+     "actual_min": 32
     },
     {
      "player_id": "4576087",
@@ -1021,8 +1074,9 @@
      "odds": 1.93,
      "odds_open": 1.93,
      "value": -0.3455,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0,
+     "actual_min": 22
     },
     {
      "player_id": "3992",
@@ -1035,8 +1089,9 @@
      "odds": 1.55,
      "odds_open": 1.55,
      "value": -0.3589,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 33.0,
+     "actual_min": 36
     },
     {
      "player_id": "3992",
@@ -1049,8 +1104,9 @@
      "odds": 1.64,
      "odds_open": 1.64,
      "value": -0.3639,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0,
+     "actual_min": 36
     },
     {
      "player_id": "3992",
@@ -1063,8 +1119,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.3646,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0,
+     "actual_min": 36
     },
     {
      "player_id": "4278039",
@@ -1077,8 +1134,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.3687,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0,
+     "actual_min": 31
     },
     {
      "player_id": "4701230",
@@ -1091,8 +1149,9 @@
      "odds": 1.58,
      "odds_open": 1.58,
      "value": -0.3718,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 34
     },
     {
      "player_id": "3908809",
@@ -1105,8 +1164,9 @@
      "odds": 1.8,
      "odds_open": 1.8,
      "value": -0.3754,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 33
     },
     {
      "player_id": "4431680",
@@ -1119,8 +1179,9 @@
      "odds": 1.64,
      "odds_open": 1.64,
      "value": -0.3809,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 43.0,
+     "actual_min": 33
     },
     {
      "player_id": "2490149",
@@ -1133,8 +1194,9 @@
      "odds": 1.53,
      "odds_open": 1.53,
      "value": -0.3841,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0,
+     "actual_min": 31
     },
     {
      "player_id": "2490149",
@@ -1147,8 +1209,9 @@
      "odds": 1.92,
      "odds_open": 1.92,
      "value": -0.399,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0,
+     "actual_min": 31
     },
     {
      "player_id": "3992",
@@ -1161,8 +1224,9 @@
      "odds": 1.88,
      "odds_open": 1.88,
      "value": -0.4014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0,
+     "actual_min": 36
     },
     {
      "player_id": "3908809",
@@ -1175,8 +1239,9 @@
      "odds": 1.72,
      "odds_open": 1.72,
      "value": -0.4049,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0,
+     "actual_min": 33
     },
     {
      "player_id": "4066757",
@@ -1189,8 +1254,9 @@
      "odds": 2.17,
      "odds_open": 2.17,
      "value": -0.4326,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 27
     },
     {
      "player_id": "4869342",
@@ -1203,8 +1269,9 @@
      "odds": 1.87,
      "odds_open": 1.87,
      "value": -0.441,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 32
     },
     {
      "player_id": "4431680",
@@ -1217,8 +1284,9 @@
      "odds": 3.11,
      "odds_open": 3.11,
      "value": -0.4627,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 33
     },
     {
      "player_id": "4066328",
@@ -1231,8 +1299,9 @@
      "odds": 2.45,
      "odds_open": 2.45,
      "value": -0.4792,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 30
     }
    ],
    "game_all": [
@@ -1248,7 +1317,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1262,7 +1332,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1276,7 +1347,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.83,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1290,7 +1362,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1304,7 +1377,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1318,7 +1392,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1332,7 +1407,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1346,7 +1422,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1360,7 +1437,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1374,7 +1452,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.71,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1388,7 +1467,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1402,7 +1482,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1416,7 +1497,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "total",
@@ -1430,7 +1512,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1444,7 +1527,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 2.16,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1458,7 +1542,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.29,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1472,7 +1557,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.43,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1486,7 +1572,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.85,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1500,7 +1587,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1514,7 +1602,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.73,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1528,7 +1617,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 2.03,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1542,7 +1632,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.34,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1556,7 +1647,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1570,7 +1662,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1584,7 +1677,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.78,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1598,7 +1692,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1612,7 +1707,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CLE 111 – 114 ATL"
     },
     {
      "kind": "spread",
@@ -1626,7 +1722,8 @@
      "model_total": 232.2,
      "model_margin": 2.8,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tuttu",
+     "final": "CLE 111 – 114 ATL"
     }
    ],
    "game_bets": [],
@@ -2580,17 +2677,17 @@
     "abbr": "NO",
     "name": "New Orleans Pelicans",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-    "score": "0"
+    "score": "132"
    },
    "away": {
     "id": "23",
     "abbr": "SAC",
     "name": "Sacramento Kings",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-    "score": "0"
+    "score": "120"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -2614,9 +2711,9 @@
       "rakip guardlara %10 az ribaund veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 14.0,
+     "actual_min": 41,
+     "result": "Tuttu",
      "prob_model": 0.6193,
      "prob_market": 0.5495,
      "market_src": "ABD",
@@ -2645,9 +2742,9 @@
       "rakip forvetlara %11 az asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 15.0,
+     "actual_min": 40,
+     "result": "Tuttu",
      "prob_model": 0.6009,
      "prob_market": 0.5414,
      "market_src": "ABD",
@@ -2676,9 +2773,9 @@
       "rakip forvetlara %11 az asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 9.0,
+     "actual_min": 40,
+     "result": "Tutmadı",
      "prob_model": 0.6472,
      "prob_market": 0.5101,
      "market_src": "ABD",
@@ -2707,9 +2804,9 @@
       "rakip forvetlara %11 az asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 24.0,
+     "actual_min": 41,
+     "result": "Tuttu",
      "prob_model": 0.6426,
      "prob_market": 0.499,
      "market_src": "ABD",
@@ -2738,9 +2835,9 @@
       "rakip forvetlara %11 az asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 4.0,
+     "actual_min": 37,
+     "result": "Tuttu",
      "prob_model": 0.6267,
      "prob_market": 0.5,
      "market_src": "ABD",
@@ -2769,9 +2866,9 @@
       "rakip guardlara %7 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 22.0,
+     "actual_min": 29,
+     "result": "Tuttu",
      "prob_model": 0.5981,
      "prob_market": 0.5027,
      "market_src": "ABD",
@@ -2800,9 +2897,9 @@
       "rakip guardlara %7 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade",
      "prob_model": 0.5154,
      "prob_market": 0.4739,
      "market_src": "ABD",
@@ -2831,9 +2928,9 @@
       "rakip guardlara %7 fazla asist veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade",
      "prob_model": 0.5588,
      "prob_market": 0.4203,
      "market_src": "ABD",
@@ -2855,8 +2952,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.0989,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0,
+     "actual_min": 41
     },
     {
      "player_id": "3155942",
@@ -2869,8 +2967,9 @@
      "odds": 1.58,
      "odds_open": 1.58,
      "value": -0.1182,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0,
+     "actual_min": 40
     },
     {
      "player_id": "5144091",
@@ -2883,8 +2982,9 @@
      "odds": 1.61,
      "odds_open": 1.61,
      "value": -0.1369,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0,
+     "actual_min": 29
     },
     {
      "player_id": "4431679",
@@ -2897,8 +2997,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.1377,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0,
+     "actual_min": 41
     },
     {
      "player_id": "4065732",
@@ -2911,8 +3012,9 @@
      "odds": 1.58,
      "odds_open": 1.58,
      "value": -0.1399,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 37
     },
     {
      "player_id": "3907497",
@@ -2925,8 +3027,9 @@
      "odds": 1.73,
      "odds_open": 1.73,
      "value": -0.155,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "3155942",
@@ -2939,8 +3042,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.1567,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0,
+     "actual_min": 40
     },
     {
      "player_id": "3907497",
@@ -2953,8 +3057,9 @@
      "odds": 1.79,
      "odds_open": 1.79,
      "value": -0.1609,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "3155942",
@@ -2967,8 +3072,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.1623,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 31.0,
+     "actual_min": 40
     },
     {
      "player_id": "4431679",
@@ -2981,8 +3087,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.1631,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 35.0,
+     "actual_min": 41
     },
     {
      "player_id": "3064440",
@@ -2995,8 +3102,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.1713,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 21.0,
+     "actual_min": 39
     },
     {
      "player_id": "5144091",
@@ -3009,8 +3117,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.1757,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0,
+     "actual_min": 29
     },
     {
      "player_id": "5142620",
@@ -3023,8 +3132,9 @@
      "odds": 1.51,
      "odds_open": 1.51,
      "value": -0.1912,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 20.0,
+     "actual_min": 41
     },
     {
      "player_id": "4397688",
@@ -3037,8 +3147,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.1924,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 32
     },
     {
      "player_id": "3907497",
@@ -3051,8 +3162,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.2003,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "4397688",
@@ -3065,8 +3177,9 @@
      "odds": 1.89,
      "odds_open": 1.89,
      "value": -0.2015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 32
     },
     {
      "player_id": "4395628",
@@ -3079,8 +3192,9 @@
      "odds": 1.62,
      "odds_open": 1.62,
      "value": -0.2056,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 30.0,
+     "actual_min": 31
     },
     {
      "player_id": "3064440",
@@ -3093,8 +3207,9 @@
      "odds": 1.89,
      "odds_open": 1.89,
      "value": -0.208,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0,
+     "actual_min": 39
     },
     {
      "player_id": "3155942",
@@ -3107,8 +3222,9 @@
      "odds": 1.65,
      "odds_open": 1.65,
      "value": -0.2157,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0,
+     "actual_min": 40
     },
     {
      "player_id": "3907497",
@@ -3121,8 +3237,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.217,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "5144091",
@@ -3135,8 +3252,9 @@
      "odds": 1.66,
      "odds_open": 1.66,
      "value": -0.2181,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 43.0,
+     "actual_min": 29
     },
     {
      "player_id": "4065732",
@@ -3149,8 +3267,9 @@
      "odds": 1.49,
      "odds_open": 1.49,
      "value": -0.2221,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0,
+     "actual_min": 37
     },
     {
      "player_id": "3064440",
@@ -3163,8 +3282,9 @@
      "odds": 1.61,
      "odds_open": 1.61,
      "value": -0.2226,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 29.0,
+     "actual_min": 39
     },
     {
      "player_id": "4397688",
@@ -3177,8 +3297,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.2253,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0,
+     "actual_min": 32
     },
     {
      "player_id": "4395628",
@@ -3191,8 +3312,9 @@
      "odds": 1.62,
      "odds_open": 1.62,
      "value": -0.2267,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0,
+     "actual_min": 31
     },
     {
      "player_id": "4431679",
@@ -3205,8 +3327,9 @@
      "odds": 1.53,
      "odds_open": 1.53,
      "value": -0.242,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0,
+     "actual_min": 41
     },
     {
      "player_id": "5142620",
@@ -3219,8 +3342,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.2462,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 34.0,
+     "actual_min": 41
     },
     {
      "player_id": "4065732",
@@ -3233,8 +3357,9 @@
      "odds": 1.95,
      "odds_open": 1.95,
      "value": -0.2466,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0,
+     "actual_min": 37
     },
     {
      "player_id": "4397688",
@@ -3247,8 +3372,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.2485,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 27.0,
+     "actual_min": 32
     },
     {
      "player_id": "4397688",
@@ -3261,8 +3387,9 @@
      "odds": 1.58,
      "odds_open": 1.58,
      "value": -0.2491,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 19.0,
+     "actual_min": 32
     },
     {
      "player_id": "5142620",
@@ -3275,8 +3402,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.2494,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 54.0,
+     "actual_min": 41
     },
     {
      "player_id": "4065732",
@@ -3289,8 +3417,9 @@
      "odds": 1.61,
      "odds_open": 1.61,
      "value": -0.261,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 30.0,
+     "actual_min": 37
     },
     {
      "player_id": "3907497",
@@ -3303,8 +3432,9 @@
      "odds": 1.68,
      "odds_open": 1.68,
      "value": -0.2623,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "4431679",
@@ -3317,8 +3447,9 @@
      "odds": 1.68,
      "odds_open": 1.68,
      "value": -0.2649,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0,
+     "actual_min": 41
     },
     {
      "player_id": "3064440",
@@ -3331,8 +3462,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.2741,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0,
+     "actual_min": 39
     },
     {
      "player_id": "3155942",
@@ -3345,8 +3477,9 @@
      "odds": 1.53,
      "odds_open": 1.53,
      "value": -0.2761,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0,
+     "actual_min": 40
     },
     {
      "player_id": "3064440",
@@ -3359,8 +3492,9 @@
      "odds": 1.78,
      "odds_open": 1.78,
      "value": -0.2861,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 39
     },
     {
      "player_id": "4065732",
@@ -3373,8 +3507,9 @@
      "odds": 1.77,
      "odds_open": 1.77,
      "value": -0.2934,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0,
+     "actual_min": 37
     },
     {
      "player_id": "4397688",
@@ -3387,8 +3522,9 @@
      "odds": 1.67,
      "odds_open": 1.67,
      "value": -0.301,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0,
+     "actual_min": 32
     },
     {
      "player_id": "3907497",
@@ -3401,8 +3537,9 @@
      "odds": 1.86,
      "odds_open": 1.86,
      "value": -0.3061,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "4431679",
@@ -3415,8 +3552,9 @@
      "odds": 1.81,
      "odds_open": 1.81,
      "value": -0.3094,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0,
+     "actual_min": 41
     },
     {
      "player_id": "4395628",
@@ -3429,8 +3567,9 @@
      "odds": 1.76,
      "odds_open": 1.76,
      "value": -0.3222,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0,
+     "actual_min": 31
     },
     {
      "player_id": "5142620",
@@ -3443,8 +3582,9 @@
      "odds": 1.59,
      "odds_open": 1.59,
      "value": -0.3409,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 41
     },
     {
      "player_id": "5144091",
@@ -3457,8 +3597,9 @@
      "odds": 1.73,
      "odds_open": 1.73,
      "value": -0.3431,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0,
+     "actual_min": 29
     },
     {
      "player_id": "3064440",
@@ -3471,8 +3612,9 @@
      "odds": 1.93,
      "odds_open": 1.93,
      "value": -0.3553,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 39
     },
     {
      "player_id": "5144091",
@@ -3485,8 +3627,9 @@
      "odds": 1.75,
      "odds_open": 1.75,
      "value": -0.3633,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0,
+     "actual_min": 29
     },
     {
      "player_id": "4395628",
@@ -3499,8 +3642,9 @@
      "odds": 1.94,
      "odds_open": 1.94,
      "value": -0.3695,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 31
     },
     {
      "player_id": "5142620",
@@ -3513,8 +3657,9 @@
      "odds": 1.94,
      "odds_open": 1.94,
      "value": -0.378,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0,
+     "actual_min": 41
     },
     {
      "player_id": "5144091",
@@ -3527,8 +3672,9 @@
      "odds": 2.03,
      "odds_open": 2.03,
      "value": -0.3928,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 29
     },
     {
      "player_id": "4065732",
@@ -3541,8 +3687,9 @@
      "odds": 2.06,
      "odds_open": 2.06,
      "value": -0.4151,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 37
     },
     {
      "player_id": "4395628",
@@ -3555,8 +3702,9 @@
      "odds": 1.77,
      "odds_open": 1.77,
      "value": -0.4803,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0,
+     "actual_min": 31
     }
    ],
    "game_all": [
@@ -3572,7 +3720,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3586,7 +3735,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3600,7 +3750,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.49,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3614,7 +3765,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.76,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3628,7 +3780,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3642,7 +3795,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3656,7 +3810,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3670,7 +3825,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3684,7 +3840,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.77,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3698,7 +3855,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3712,7 +3870,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.43,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3726,7 +3885,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.85,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3740,7 +3900,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "total",
@@ -3754,7 +3915,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.86,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3768,7 +3930,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3782,7 +3945,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3796,7 +3960,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3810,7 +3975,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.77,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3824,7 +3990,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.81,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3838,7 +4005,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.46,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3852,7 +4020,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3866,7 +4035,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3880,7 +4050,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3894,7 +4065,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.37,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3908,7 +4080,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3922,7 +4095,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.87,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3936,7 +4110,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 2.03,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "spread",
@@ -3950,7 +4125,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.34,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -3964,7 +4140,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -3978,7 +4155,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -3992,7 +4170,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4006,7 +4185,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.92,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4020,7 +4200,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4034,7 +4215,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.78,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4048,7 +4230,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.81,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4062,7 +4245,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.46,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4076,7 +4260,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4090,7 +4275,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4104,7 +4290,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4118,7 +4305,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4132,7 +4320,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4146,7 +4335,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.74,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4160,7 +4350,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.74,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4174,7 +4365,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4188,7 +4380,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "SAC 120 – 132 NO"
     },
     {
      "kind": "team_total",
@@ -4202,7 +4395,8 @@
      "model_total": 231.7,
      "model_margin": 4.7,
      "odds_open": 1.87,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SAC 120 – 132 NO"
     }
    ],
    "game_bets": [],
@@ -5039,17 +5233,17 @@
     "abbr": "POR",
     "name": "Portland Trail Blazers",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-    "score": "0"
+    "score": "103"
    },
    "away": {
     "id": "29",
     "abbr": "MEM",
     "name": "Memphis Grizzlies",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-    "score": "0"
+    "score": "124"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -5071,9 +5265,9 @@
      "proj_min": 29.2,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 11.0,
+     "actual_min": 25,
+     "result": "Tutmadı",
      "prob_model": 0.7789,
      "prob_market": 0.5,
      "market_src": "ABD",
@@ -5100,9 +5294,9 @@
      "proj_min": 29.2,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 10.0,
+     "actual_min": 25,
+     "result": "Tutmadı",
      "prob_model": 0.7408,
      "prob_market": 0.4897,
      "market_src": "ABD",
@@ -5129,9 +5323,9 @@
      "proj_min": 31.4,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 15.0,
+     "actual_min": 24,
+     "result": "Tutmadı",
      "prob_model": 0.6482,
      "prob_market": 0.5028,
      "market_src": "ABD",
@@ -5158,9 +5352,9 @@
      "proj_min": 30.4,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 28.0,
+     "actual_min": 27,
+     "result": "Tuttu",
      "prob_model": 0.6389,
      "prob_market": 0.4768,
      "market_src": "ABD",
@@ -5187,9 +5381,9 @@
      "proj_min": 31.4,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 10.0,
+     "actual_min": 24,
+     "result": "Tutmadı",
      "prob_model": 0.6207,
      "prob_market": 0.4738,
      "market_src": "ABD",
@@ -5216,9 +5410,9 @@
      "proj_min": 32.8,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 12.0,
+     "actual_min": 28,
+     "result": "Tuttu",
      "prob_model": 0.6493,
      "prob_market": 0.4475,
      "market_src": "ABD",
@@ -5247,9 +5441,9 @@
       "rakip guardlara %7 fazla sayı veriyor"
      ],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 3.0,
+     "actual_min": 23,
+     "result": "Tutmadı",
      "prob_model": 0.5993,
      "prob_market": 0.4459,
      "market_src": "ABD",
@@ -5276,9 +5470,9 @@
      "proj_min": 30.4,
      "notes": [],
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null,
+     "actual": 3.0,
+     "actual_min": 27,
+     "result": "Tuttu",
      "prob_model": 0.5708,
      "prob_market": 0.4377,
      "market_src": "ABD",
@@ -5300,8 +5494,9 @@
      "odds": 1.58,
      "odds_open": 1.58,
      "value": -0.0874,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 10.0,
+     "actual_min": 25
     },
     {
      "player_id": "5041935",
@@ -5314,8 +5509,9 @@
      "odds": 1.74,
      "odds_open": 1.74,
      "value": -0.0984,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0,
+     "actual_min": 28
     },
     {
      "player_id": "5112087",
@@ -5328,8 +5524,9 @@
      "odds": 1.49,
      "odds_open": 1.49,
      "value": -0.1096,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0,
+     "actual_min": 25
     },
     {
      "player_id": "4903027",
@@ -5342,8 +5539,9 @@
      "odds": 1.66,
      "odds_open": 1.66,
      "value": -0.1144,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 28.0,
+     "actual_min": 27
     },
     {
      "player_id": "4279888",
@@ -5356,8 +5554,9 @@
      "odds": 1.77,
      "odds_open": 1.77,
      "value": -0.1158,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 23
     },
     {
      "player_id": "4065733",
@@ -5370,8 +5569,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.1307,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0,
+     "actual_min": 24
     },
     {
      "player_id": "4903027",
@@ -5384,8 +5584,9 @@
      "odds": 1.78,
      "odds_open": 1.78,
      "value": -0.138,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 27
     },
     {
      "player_id": "4065733",
@@ -5398,8 +5599,9 @@
      "odds": 1.64,
      "odds_open": 1.64,
      "value": -0.1386,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 10.0,
+     "actual_min": 24
     },
     {
      "player_id": "3995",
@@ -5412,8 +5614,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.1393,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 24
     },
     {
      "player_id": "3995",
@@ -5426,8 +5629,9 @@
      "odds": 1.62,
      "odds_open": 1.62,
      "value": -0.1412,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0,
+     "actual_min": 24
     },
     {
      "player_id": "3995",
@@ -5440,8 +5644,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.1444,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0,
+     "actual_min": 24
     },
     {
      "player_id": "4903027",
@@ -5454,8 +5659,9 @@
      "odds": 1.49,
      "odds_open": 1.49,
      "value": -0.153,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 17.0,
+     "actual_min": 27
     },
     {
      "player_id": "4279888",
@@ -5468,8 +5674,9 @@
      "odds": 1.6,
      "odds_open": 1.6,
      "value": -0.1559,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 19.0,
+     "actual_min": 23
     },
     {
      "player_id": "5112087",
@@ -5482,8 +5689,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.1606,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0,
+     "actual_min": 25
     },
     {
      "player_id": "4065733",
@@ -5496,8 +5704,9 @@
      "odds": 1.84,
      "odds_open": 1.84,
      "value": -0.1672,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 24
     },
     {
      "player_id": "4279888",
@@ -5510,8 +5719,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.1701,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 14.0,
+     "actual_min": 23
     },
     {
      "player_id": "5041935",
@@ -5524,8 +5734,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.1777,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0,
+     "actual_min": 28
     },
     {
      "player_id": "4065733",
@@ -5538,8 +5749,9 @@
      "odds": 1.62,
      "odds_open": 1.62,
      "value": -0.1818,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 24
     },
     {
      "player_id": "4431736",
@@ -5552,8 +5764,9 @@
      "odds": 1.77,
      "odds_open": 1.77,
      "value": -0.1853,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 26
     },
     {
      "player_id": "2991070",
@@ -5566,8 +5779,9 @@
      "odds": 1.8,
      "odds_open": 1.8,
      "value": -0.1908,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 27
     },
     {
      "player_id": "4683021",
@@ -5580,8 +5794,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.1925,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0,
+     "actual_min": 32
     },
     {
      "player_id": "3995",
@@ -5594,8 +5809,9 @@
      "odds": 1.61,
      "odds_open": 1.61,
      "value": -0.1929,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0,
+     "actual_min": 24
     },
     {
      "player_id": "2991070",
@@ -5608,8 +5824,9 @@
      "odds": 1.71,
      "odds_open": 1.71,
      "value": -0.1983,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0,
+     "actual_min": 27
     },
     {
      "player_id": "4279888",
@@ -5622,8 +5839,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.2026,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0,
+     "actual_min": 23
     },
     {
      "player_id": "4066211",
@@ -5636,8 +5854,9 @@
      "odds": 1.55,
      "odds_open": 1.55,
      "value": -0.203,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "4903027",
@@ -5650,8 +5869,9 @@
      "odds": 1.64,
      "odds_open": 1.64,
      "value": -0.2041,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0,
+     "actual_min": 27
     },
     {
      "player_id": "5041935",
@@ -5664,8 +5884,9 @@
      "odds": 1.9,
      "odds_open": 1.9,
      "value": -0.2048,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0,
+     "actual_min": 28
     },
     {
      "player_id": "4066211",
@@ -5678,8 +5899,9 @@
      "odds": 1.89,
      "odds_open": 1.89,
      "value": -0.2056,
-     "result": null,
-     "actual": null
+     "result": "İade",
+     "actual": 0,
+     "actual_min": 0
     },
     {
      "player_id": "2991070",
@@ -5692,8 +5914,9 @@
      "odds": 1.77,
      "odds_open": 1.77,
      "value": -0.2058,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 27
     },
     {
      "player_id": "5112087",
@@ -5706,8 +5929,9 @@
      "odds": 1.91,
      "odds_open": 1.91,
      "value": -0.2059,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 25
     },
     {
      "player_id": "5041935",
@@ -5720,8 +5944,9 @@
      "odds": 1.55,
      "odds_open": 1.55,
      "value": -0.2067,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 42.0,
+     "actual_min": 28
     },
     {
      "player_id": "3995",
@@ -5734,8 +5959,9 @@
      "odds": 1.55,
      "odds_open": 1.55,
      "value": -0.2113,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0,
+     "actual_min": 24
     },
     {
      "player_id": "2991070",
@@ -5748,8 +5974,9 @@
      "odds": 1.66,
      "odds_open": 1.66,
      "value": -0.2164,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 27
     },
     {
      "player_id": "4903027",
@@ -5762,8 +5989,9 @@
      "odds": 1.69,
      "odds_open": 1.69,
      "value": -0.2179,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0,
+     "actual_min": 27
     },
     {
      "player_id": "5112087",
@@ -5776,8 +6004,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.2208,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 25
     },
     {
      "player_id": "5112087",
@@ -5790,8 +6019,9 @@
      "odds": 1.86,
      "odds_open": 1.86,
      "value": -0.2222,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 25
     },
     {
      "player_id": "4065733",
@@ -5804,8 +6034,9 @@
      "odds": 1.81,
      "odds_open": 1.81,
      "value": -0.2273,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 24
     },
     {
      "player_id": "4065733",
@@ -5818,8 +6049,9 @@
      "odds": 1.56,
      "odds_open": 1.56,
      "value": -0.2276,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0,
+     "actual_min": 24
     },
     {
      "player_id": "2991070",
@@ -5832,8 +6064,9 @@
      "odds": 1.53,
      "odds_open": 1.53,
      "value": -0.233,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 27
     },
     {
      "player_id": "2991070",
@@ -5846,8 +6079,9 @@
      "odds": 1.96,
      "odds_open": 1.96,
      "value": -0.2404,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0,
+     "actual_min": 27
     },
     {
      "player_id": "4903027",
@@ -5860,8 +6094,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.2426,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 27
     },
     {
      "player_id": "4600663",
@@ -5874,8 +6109,9 @@
      "odds": 1.68,
      "odds_open": 1.68,
      "value": -0.2506,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0,
+     "actual_min": 19
     },
     {
      "player_id": "4279888",
@@ -5888,8 +6124,9 @@
      "odds": 1.84,
      "odds_open": 1.84,
      "value": -0.2545,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 23
     },
     {
      "player_id": "4431736",
@@ -5902,8 +6139,9 @@
      "odds": 1.68,
      "odds_open": 1.68,
      "value": -0.2547,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0,
+     "actual_min": 26
     },
     {
      "player_id": "4683021",
@@ -5916,8 +6154,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.2561,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 16.0,
+     "actual_min": 32
     },
     {
      "player_id": "4431736",
@@ -5930,8 +6169,9 @@
      "odds": 1.74,
      "odds_open": 1.74,
      "value": -0.2654,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 26
     },
     {
      "player_id": "4683021",
@@ -5944,8 +6184,9 @@
      "odds": 1.65,
      "odds_open": 1.65,
      "value": -0.2671,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 40.0,
+     "actual_min": 32
     },
     {
      "player_id": "4683021",
@@ -5958,8 +6199,9 @@
      "odds": 1.79,
      "odds_open": 1.79,
      "value": -0.2702,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 24.0,
+     "actual_min": 32
     },
     {
      "player_id": "4683021",
@@ -5972,8 +6214,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.274,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0,
+     "actual_min": 32
     },
     {
      "player_id": "4279888",
@@ -5986,8 +6229,9 @@
      "odds": 1.98,
      "odds_open": 1.98,
      "value": -0.2765,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0,
+     "actual_min": 23
     },
     {
      "player_id": "5105565",
@@ -6000,8 +6244,9 @@
      "odds": 1.66,
      "odds_open": 1.66,
      "value": -0.3275,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0,
+     "actual_min": 29
     },
     {
      "player_id": "4431736",
@@ -6014,8 +6259,9 @@
      "odds": 1.64,
      "odds_open": 1.64,
      "value": -0.332,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0,
+     "actual_min": 26
     },
     {
      "player_id": "5105565",
@@ -6028,8 +6274,9 @@
      "odds": 1.5,
      "odds_open": 1.5,
      "value": -0.3381,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0,
+     "actual_min": 29
     },
     {
      "player_id": "4600663",
@@ -6042,8 +6289,9 @@
      "odds": 1.72,
      "odds_open": 1.72,
      "value": -0.3412,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0,
+     "actual_min": 19
     },
     {
      "player_id": "5105565",
@@ -6056,8 +6304,9 @@
      "odds": 1.57,
      "odds_open": 1.57,
      "value": -0.345,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 20.0,
+     "actual_min": 29
     },
     {
      "player_id": "4431736",
@@ -6070,8 +6319,9 @@
      "odds": 1.53,
      "odds_open": 1.53,
      "value": -0.3608,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0,
+     "actual_min": 26
     },
     {
      "player_id": "5105565",
@@ -6084,8 +6334,9 @@
      "odds": 1.54,
      "odds_open": 1.54,
      "value": -0.3685,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0,
+     "actual_min": 29
     },
     {
      "player_id": "4683021",
@@ -6098,8 +6349,9 @@
      "odds": 2.45,
      "odds_open": 2.45,
      "value": -0.3713,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0,
+     "actual_min": 32
     },
     {
      "player_id": "5041935",
@@ -6112,8 +6364,9 @@
      "odds": 1.78,
      "odds_open": 1.78,
      "value": -0.3816,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0,
+     "actual_min": 28
     },
     {
      "player_id": "5105565",
@@ -6126,8 +6379,9 @@
      "odds": 2.25,
      "odds_open": 2.25,
      "value": -0.4019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 29
     },
     {
      "player_id": "3995",
@@ -6140,8 +6394,9 @@
      "odds": 1.85,
      "odds_open": 1.85,
      "value": -0.4041,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 24
     },
     {
      "player_id": "5105565",
@@ -6154,8 +6409,9 @@
      "odds": 2.02,
      "odds_open": 2.02,
      "value": -0.4333,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0,
+     "actual_min": 29
     },
     {
      "player_id": "4431736",
@@ -6168,8 +6424,9 @@
      "odds": 1.73,
      "odds_open": 1.73,
      "value": -0.4552,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0,
+     "actual_min": 26
     },
     {
      "player_id": "5041935",
@@ -6182,8 +6439,9 @@
      "odds": 2.07,
      "odds_open": 2.07,
      "value": -0.4827,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0,
+     "actual_min": 28
     }
    ],
    "game_all": [
@@ -6199,7 +6457,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6213,7 +6472,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.77,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6227,7 +6487,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6241,7 +6502,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6255,7 +6517,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6269,7 +6532,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6283,7 +6547,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6297,7 +6562,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.86,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6311,7 +6577,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6325,7 +6592,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6339,7 +6607,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.77,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6353,7 +6622,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6367,7 +6637,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "total",
@@ -6381,7 +6652,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6395,7 +6667,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6409,7 +6682,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6423,7 +6697,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.36,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6437,7 +6712,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 2.0,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6451,7 +6727,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6465,7 +6742,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6479,7 +6757,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6493,7 +6772,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6507,7 +6787,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6521,7 +6802,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6535,7 +6817,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6549,7 +6832,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6563,7 +6847,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 2.04,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "spread",
@@ -6577,7 +6862,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.34,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6591,7 +6877,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6605,7 +6892,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6619,7 +6907,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6633,7 +6922,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6647,7 +6937,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6661,7 +6952,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6675,7 +6967,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.92,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6689,7 +6982,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6703,7 +6997,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6717,7 +7012,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.49,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6731,7 +7027,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6745,7 +7042,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6759,7 +7057,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6773,7 +7072,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6787,7 +7087,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6801,7 +7102,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.83,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6815,7 +7117,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.77,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6829,7 +7132,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6843,7 +7147,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "MEM 124 – 103 POR"
     },
     {
      "kind": "team_total",
@@ -6857,7 +7162,8 @@
      "model_total": 229.6,
      "model_margin": 3.3,
      "odds_open": 1.92,
-     "result": null
+     "result": "Tutmadı",
+     "final": "MEM 124 – 103 POR"
     }
    ],
    "game_bets": [],
@@ -14033,17 +14339,17 @@
     "abbr": "GB",
     "name": "Green Bay Packers",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-    "score": "0"
+    "score": "27"
    },
    "away": {
     "id": "29",
     "abbr": "CAR",
     "name": "Carolina Panthers",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-    "score": "0"
+    "score": "19"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NFL",
    "picks": [],
@@ -14623,8 +14929,9 @@
      "value": -0.2103,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.69
+     "result": "Tutmadı",
+     "odds_open": 1.69,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14637,8 +14944,9 @@
      "value": -0.1583,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.58
+     "result": "Tuttu",
+     "odds_open": 1.58,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14651,8 +14959,9 @@
      "value": -0.2103,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.58
+     "result": "Tutmadı",
+     "odds_open": 1.58,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14665,8 +14974,9 @@
      "value": -0.1547,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.69
+     "result": "Tuttu",
+     "odds_open": 1.69,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14679,8 +14989,9 @@
      "value": -0.205,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.52
+     "result": "Tuttu",
+     "odds_open": 1.52,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14693,8 +15004,9 @@
      "value": -0.1558,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.77
+     "result": "Tutmadı",
+     "odds_open": 1.77,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14707,8 +15019,9 @@
      "value": -0.2048,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.45
+     "result": "Tuttu",
+     "odds_open": 1.45,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14721,8 +15034,9 @@
      "value": -0.16,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.86
+     "result": "Tutmadı",
+     "odds_open": 1.86,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14735,8 +15049,9 @@
      "value": -0.2111,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.78
+     "result": "Tutmadı",
+     "odds_open": 1.78,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "total",
@@ -14749,8 +15064,9 @@
      "value": -0.1536,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.52
+     "result": "Tuttu",
+     "odds_open": 1.52,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14763,8 +15079,9 @@
      "value": -0.2037,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.35
+     "result": "Tuttu",
+     "odds_open": 1.35,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14777,8 +15094,9 @@
      "value": -0.1551,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 2.06
+     "result": "Tutmadı",
+     "odds_open": 2.06,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14791,8 +15109,9 @@
      "value": -0.2067,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.4
+     "result": "Tuttu",
+     "odds_open": 1.4,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14805,8 +15124,9 @@
      "value": -0.1506,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.96
+     "result": "Tutmadı",
+     "odds_open": 1.96,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14819,8 +15139,9 @@
      "value": -0.1907,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.72
+     "result": "Tuttu",
+     "odds_open": 1.72,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14833,8 +15154,9 @@
      "value": -0.174,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.56
+     "result": "Tutmadı",
+     "odds_open": 1.56,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14847,8 +15169,9 @@
      "value": -0.1902,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.62
+     "result": "Tuttu",
+     "odds_open": 1.62,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14861,8 +15184,9 @@
      "value": -0.1748,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.65
+     "result": "Tutmadı",
+     "odds_open": 1.65,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14875,8 +15199,9 @@
      "value": -0.1982,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.78
+     "result": "Tuttu",
+     "odds_open": 1.78,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "spread",
@@ -14889,8 +15214,9 @@
      "value": -0.1702,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.51
+     "result": "Tutmadı",
+     "odds_open": 1.51,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "team_total",
@@ -14903,8 +15229,9 @@
      "value": -0.2122,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.63
+     "result": "Tuttu",
+     "odds_open": 1.63,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "team_total",
@@ -14917,8 +15244,9 @@
      "value": -0.1578,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.63
+     "result": "Tutmadı",
+     "odds_open": 1.63,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "team_total",
@@ -14931,8 +15259,9 @@
      "value": -0.1714,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.63
+     "result": "Tutmadı",
+     "odds_open": 1.63,
+     "final": "CAR 19 – 27 GB"
     },
     {
      "kind": "team_total",
@@ -14945,8 +15274,9 @@
      "value": -0.1789,
      "model_total": 44.8,
      "model_margin": 3.0,
-     "result": null,
-     "odds_open": 1.67
+     "result": "Tuttu",
+     "odds_open": 1.67,
+     "final": "CAR 19 – 27 GB"
     }
    ],
    "game_bets": [],
