@@ -204,7 +204,8 @@ const hhmm=d=>String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).pa
 const nightOf=day=>new Date(day.date+"T12:00");   // maç günü (ABD takvimi); Türkiye'de gece yarısından sonraya sarkar
 const done=p=>p.result==="Tuttu"||p.result==="Tutmadı";
 
-let PLAYED={},ONLY=false,LGF="ALL",MODE="stake";
+let PLAYED={},ONLY=false,LGF="ALL",MODE="stake",VM="stake";
+const hasUS=g=>(g.us_all||[]).length>0||(g.us_picks||[]).length>0;
 try{PLAYED=JSON.parse(localStorage.getItem("prophet_played")||"{}");ONLY=localStorage.getItem("prophet_only")==="1";
  LGF=localStorage.getItem("prophet_lg")||"ALL";MODE=localStorage.getItem("prophet_mode")||"stake"}catch(e){}
 const save=()=>{try{localStorage.setItem("prophet_played",JSON.stringify(PLAYED));localStorage.setItem("prophet_only",ONLY?"1":"0");
@@ -270,7 +271,7 @@ function usRow(day,p){
   <div class="why"><span>Model ${pct(p.prob_model)}, ABD piyasası ${pct(p.prob_market)}</span><span>Stake'te oran ${p.min_odds.toFixed(2)} ya da üstüyse oyna</span></div>
  </div>`}
 function gameSheet(day,g){
- if(MODE==="stake")return usSheet(day,g);
+ if(VM==="stake"&&hasUS(g))return usSheet(day,g);
  const picks=ONLY?g.picks.filter(p=>p.stake_tl>0):g.picks;
  if(ONLY&&!picks.length&&!(g.game_bets||[]).some(b=>b.stake_tl>0))return"";
  const d=tr(g.date_utc), dn=g.picks.filter(done), hit=dn.filter(p=>p.result==="Tuttu").length, exp=g.picks.reduce((a,p)=>a+p.prob,0);
@@ -308,7 +309,8 @@ function gameBets(g){
 
 function dayView(day0){
  const day=Object.assign({},day0,{games:day0.games.filter(inLg)});
- const n=nightOf(day0), all=day.games.flatMap(g=>MODE==="stake"?(g.us_picks||[]):g.picks), bets=all.filter(p=>p.stake_tl>0), dn=all.filter(done);
+ const anyUS=day.games.some(hasUS); VM=MODE==="stake"&&anyUS?"stake":"iddaa";
+ const n=nightOf(day0), all=day.games.flatMap(g=>VM==="stake"&&hasUS(g)?(g.us_picks||[]):g.picks), bets=all.filter(p=>p.stake_tl>0), dn=all.filter(done);
  const stake=bets.reduce((a,p)=>a+p.stake_tl,0), hit=dn.filter(p=>p.result==="Tuttu").length;
  const m=money([day],(d,p)=>p.stake_tl), me=money(DAYS,(d,p)=>PLAYED[key(d.date,p)]);
  const pending=day.games.some(g=>(g.state||"pre")==="pre");
@@ -325,8 +327,9 @@ function dayView(day0){
   <div class="tools"><div class="seg" role="group" aria-label="Görünüm"><button data-mode="stake" aria-pressed="${MODE==="stake"}">Stake (ABD baremleri)</button><button data-mode="iddaa" aria-pressed="${MODE==="iddaa"}">iddaa</button></div>
    <label class="switch"><input type="checkbox" id="only" ${ONLY?"checked":""}> Sadece stake önerilenler</label>
    <span>Güncellendi ${hhmm(tr(day.generated))}</span></div>
-  ${MODE==="stake"?`<p class="bnote">ABD sitelerinin (DraftKings, FanDuel, Pinnacle…) baremleri. Model ile piyasanın ayrıştığı yönde üst ya da alt. Stake'teki oran "en az" sütunundaki değere eşit ya da yüksekse değerli.</p>`:""}
-  ${leagueSections(day)||`<div class="empty">${MODE==="stake"?"Bu gün için ABD baremi yok (Euroleague'de ABD sitesi yok, iddaa görünümüne geç).":"Bu gece maç yok."}</div>`}`}
+  ${MODE==="stake"&&!anyUS&&day.games.length?`<p class="bnote">Bu gün için ABD baremi kaydedilmemiş (bu özellik 1 Kasım'da eklendi ya da ligde ABD sitesi yok); iddaa tahminleri gösteriliyor.</p>`:""}
+  ${VM==="stake"?`<p class="bnote">ABD sitelerinin (DraftKings, FanDuel, Pinnacle…) baremleri. Model ile piyasanın ayrıştığı yönde üst ya da alt. Stake'teki oran "en az" sütunundaki değere eşit ya da yüksekse değerli.</p>`:""}
+  ${leagueSections(day)||`<div class="empty">${LGF!=="ALL"?`Bu gün ${LGNAME[LGF]} maçı yok.${(()=>{const a=DAYS.slice().reverse().find(x=>x.games.some(inLg));return a?` <a href="#d-${a.date}">${nightOf(a).getDate()} ${AY[nightOf(a).getMonth()]} gününe git</a>`:""})()}`:"Bu gece maç yok."}</div>`}`}
 const LG=[["NBA","NBA"],["EL","Euroleague"],["EC","Eurocup"],["NCAAB","Kolej basketbolu"],["NFL","NFL"]];
 function leagueSections(day){
  const multi=LGF==="ALL"&&new Set(day.games.map(g=>g.league||"NBA")).size>1;
@@ -437,7 +440,10 @@ document.addEventListener("change",e=>{const t=e.target;
  if(t.dataset.s&&PLAYED[t.dataset.s]!==undefined){PLAYED[t.dataset.s]=Math.max(1,+t.value||1);save();render()}});
 function calcSet(gid,patch,focus){CALC[gid]=Object.assign({pi:0,mk:"PTS",line:""},CALC[gid]||{},patch);render();
  if(focus){const el=document.querySelector(`[data-cl="${gid}"]`);if(el){el.focus();el.setSelectionRange(el.value.length,el.value.length)}}}
-document.addEventListener("click",e=>{const t=e.target.closest("[data-lg],[data-mode]");if(t){if(t.dataset.lg)LGF=t.dataset.lg;if(t.dataset.mode)MODE=t.dataset.mode;save();render();}});
+document.addEventListener("click",e=>{const t=e.target.closest("[data-lg],[data-mode]");if(t){if(t.dataset.lg){LGF=t.dataset.lg;const h=location.hash,pre=h.startsWith("#b-")?"b":"d",cd=(h.startsWith("#d-")||h.startsWith("#b-"))?h.slice(3):"";
+  const cur=DAYS.find(x=>x.date===cd)||DAYS[DAYS.length-1];
+  if(cur&&LGF!=="ALL"&&!cur.games.some(inLg)){const alt=DAYS.slice().reverse().find(x=>x.games.some(inLg));if(alt){save();location.hash=`#${pre}-${alt.date}`;return}}}
+ if(t.dataset.mode)MODE=t.dataset.mode;save();render();}});
 document.addEventListener("click",e=>{const b=e.target.closest("button.cell");if(!b)return;
  const g=DAYS.flatMap(d=>d.games).find(x=>x.id===b.dataset.g),m=g.players[+b.dataset.i].markets[b.dataset.m];
  calcSet(b.dataset.g,{pi:+b.dataset.i,mk:b.dataset.m,line:String(m.under??"")},true);
