@@ -10,17 +10,17 @@
     "abbr": "DUQ",
     "name": "Duquesne Dukes",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
-    "score": "0"
+    "score": "78"
    },
    "away": {
     "id": "2870",
     "abbr": "PFW",
     "name": "Purdue Fort Wayne Mastodons",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2870.png",
-    "score": "0"
+    "score": "71"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -58,9 +58,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 31,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5239529",
@@ -96,9 +96,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5176937",
@@ -134,9 +134,9 @@
      "vs": null,
      "opp": "DUQ",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 30,
+     "result": "Tuttu"
     },
     {
      "player_id": "5179291",
@@ -172,9 +172,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 21,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5243000",
@@ -212,9 +212,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5240006",
@@ -250,9 +250,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 31,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5179291",
@@ -288,9 +288,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 21,
+     "result": "Tuttu"
     },
     {
      "player_id": "5239529",
@@ -326,9 +326,9 @@
      "vs": null,
      "opp": "PFW",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     }
    ],
    "all": [],
@@ -345,7 +345,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PFW 71 – 78 DUQ"
     },
     {
      "kind": "total",
@@ -359,7 +360,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "PFW 71 – 78 DUQ"
     },
     {
      "kind": "spread",
@@ -373,7 +375,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PFW 71 – 78 DUQ"
     },
     {
      "kind": "spread",
@@ -387,7 +390,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "PFW 71 – 78 DUQ"
     }
    ],
    "game_bets": [],
@@ -861,17 +865,17 @@
     "abbr": "SC",
     "name": "South Carolina Gamecocks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
-    "score": "0"
+    "score": "81"
    },
    "away": {
     "id": "56",
     "abbr": "STET",
     "name": "Stetson Hatters",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/56.png",
-    "score": "0"
+    "score": "55"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -909,9 +913,9 @@
      "vs": null,
      "opp": "STET",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 25,
+     "result": "Tuttu"
     },
     {
      "player_id": "5312048",
@@ -947,9 +951,9 @@
      "vs": null,
      "opp": "STET",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 28,
+     "result": "Tuttu"
     },
     {
      "player_id": "5174582",
@@ -985,9 +989,9 @@
      "vs": null,
      "opp": "STET",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 28,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5105855",
@@ -1023,9 +1027,9 @@
      "vs": null,
      "opp": "STET",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 13.0,
+     "actual_min": 25,
+     "result": "Tuttu"
     },
     {
      "player_id": "5105778",
@@ -1063,9 +1067,9 @@
      "vs": null,
      "opp": "STET",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 21,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5175671",
@@ -1103,9 +1107,9 @@
      "vs": null,
      "opp": "STET",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "5177678",
@@ -1144,9 +1148,9 @@
      ],
      "opp": "SC",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 10,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5177678",
@@ -1185,9 +1189,9 @@
      ],
      "opp": "SC",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 10,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -1204,7 +1208,8 @@
      "model_total": 152.4,
      "model_margin": 3.1,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "STET 55 – 81 SC"
     },
     {
      "kind": "total",
@@ -1218,7 +1223,8 @@
      "model_total": 152.4,
      "model_margin": 3.1,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "STET 55 – 81 SC"
     },
     {
      "kind": "spread",
@@ -1232,7 +1238,8 @@
      "model_total": 152.4,
      "model_margin": 3.1,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "STET 55 – 81 SC"
     },
     {
      "kind": "spread",
@@ -1246,7 +1253,8 @@
      "model_total": 152.4,
      "model_margin": 3.1,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "STET 55 – 81 SC"
     }
    ],
    "game_bets": [],
@@ -1879,17 +1887,17 @@
     "abbr": "GT",
     "name": "Georgia Tech Yellow Jackets",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
-    "score": "0"
+    "score": "75"
    },
    "away": {
     "id": "2261",
     "abbr": "HAMP",
     "name": "Hampton Pirates",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png",
-    "score": "0"
+    "score": "55"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -1929,9 +1937,9 @@
      "vs": null,
      "opp": "HAMP",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 9,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5174962",
@@ -1970,9 +1978,9 @@
      ],
      "opp": "GT",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 20,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176756",
@@ -2008,9 +2016,9 @@
      "vs": null,
      "opp": "GT",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 10.0,
+     "actual_min": 22,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176756",
@@ -2046,9 +2054,9 @@
      "vs": null,
      "opp": "GT",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 16.0,
+     "actual_min": 22,
+     "result": "Tuttu"
     },
     {
      "player_id": "5108000",
@@ -2085,9 +2093,9 @@
      "vs": null,
      "opp": "GT",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 9.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5176076",
@@ -2125,9 +2133,9 @@
      "vs": null,
      "opp": "HAMP",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 20,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5176076",
@@ -2165,9 +2173,9 @@
      "vs": null,
      "opp": "HAMP",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 20,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5176736",
@@ -2205,9 +2213,9 @@
      "vs": null,
      "opp": "HAMP",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 9,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -2224,7 +2232,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "HAMP 55 – 75 GT"
     },
     {
      "kind": "total",
@@ -2238,7 +2247,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "HAMP 55 – 75 GT"
     },
     {
      "kind": "spread",
@@ -2252,7 +2262,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tuttu",
+     "final": "HAMP 55 – 75 GT"
     },
     {
      "kind": "spread",
@@ -2266,7 +2277,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "HAMP 55 – 75 GT"
     }
    ],
    "game_bets": [],
@@ -2942,17 +2954,17 @@
     "abbr": "BC",
     "name": "Boston College Eagles",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
-    "score": "0"
+    "score": "76"
    },
    "away": {
     "id": "2681",
     "abbr": "WAG",
     "name": "Wagner Seahawks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png",
-    "score": "0"
+    "score": "50"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -2992,9 +3004,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 21,
+     "result": "Tuttu"
     },
     {
      "player_id": "5174947",
@@ -3032,9 +3044,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 15,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5314297",
@@ -3072,9 +3084,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5175017",
@@ -3110,9 +3122,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 7,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5105833",
@@ -3148,9 +3160,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 19,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5242999",
@@ -3188,9 +3200,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 0,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5314297",
@@ -3228,9 +3240,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5174947",
@@ -3268,9 +3280,9 @@
      "vs": null,
      "opp": "WAG",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 15,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -3287,7 +3299,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "WAG 50 – 76 BC"
     },
     {
      "kind": "total",
@@ -3301,7 +3314,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "WAG 50 – 76 BC"
     },
     {
      "kind": "spread",
@@ -3315,7 +3329,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "WAG 50 – 76 BC"
     },
     {
      "kind": "spread",
@@ -3329,7 +3344,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "WAG 50 – 76 BC"
     }
    ],
    "game_bets": [],
@@ -3937,17 +3953,17 @@
     "abbr": "KSU",
     "name": "Kansas State Wildcats",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
-    "score": "0"
+    "score": "66"
    },
    "away": {
     "id": "2571",
     "abbr": "SDST",
     "name": "South Dakota State Jackrabbits",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
-    "score": "0"
+    "score": "68"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -3985,9 +4001,9 @@
      "vs": null,
      "opp": "SDST",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5177048",
@@ -4025,9 +4041,9 @@
      "vs": null,
      "opp": "KSU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 36,
+     "result": "Tuttu"
     },
     {
      "player_id": "5239600",
@@ -4066,9 +4082,9 @@
      ],
      "opp": "SDST",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 21,
+     "result": "Tuttu"
     },
     {
      "player_id": "5107255",
@@ -4106,9 +4122,9 @@
      "vs": null,
      "opp": "KSU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 38,
+     "result": "Tuttu"
     },
     {
      "player_id": "5093403",
@@ -4144,9 +4160,9 @@
      "vs": null,
      "opp": "SDST",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 32,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5103590",
@@ -4182,9 +4198,9 @@
      "vs": null,
      "opp": "SDST",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "5093403",
@@ -4220,9 +4236,9 @@
      "vs": null,
      "opp": "SDST",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 18.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "5101794",
@@ -4258,9 +4274,9 @@
      "vs": null,
      "opp": "SDST",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 17,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -4277,7 +4293,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SDST 68 – 66 KSU"
     },
     {
      "kind": "total",
@@ -4291,7 +4308,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "SDST 68 – 66 KSU"
     },
     {
      "kind": "spread",
@@ -4305,7 +4323,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SDST 68 – 66 KSU"
     },
     {
      "kind": "spread",
@@ -4319,7 +4338,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "SDST 68 – 66 KSU"
     }
    ],
    "game_bets": [],
@@ -4952,17 +4972,17 @@
     "abbr": "UNLV",
     "name": "UNLV Rebels",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
-    "score": "0"
+    "score": "89"
    },
    "away": {
     "id": "2464",
     "abbr": "NAU",
     "name": "Northern Arizona Lumberjacks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-    "score": "0"
+    "score": "77"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -5002,9 +5022,9 @@
      "vs": null,
      "opp": "NAU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313939",
@@ -5040,9 +5060,9 @@
      "vs": null,
      "opp": "NAU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5313239",
@@ -5080,9 +5100,9 @@
      "vs": null,
      "opp": "UNLV",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313240",
@@ -5118,9 +5138,9 @@
      "vs": null,
      "opp": "UNLV",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5107851",
@@ -5158,9 +5178,9 @@
      "vs": null,
      "opp": "UNLV",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5107851",
@@ -5198,9 +5218,9 @@
      "vs": null,
      "opp": "UNLV",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 12.0,
+     "actual_min": 22,
+     "result": "Tuttu"
     },
     {
      "player_id": "5105603",
@@ -5238,9 +5258,9 @@
      "vs": null,
      "opp": "NAU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5241311",
@@ -5278,9 +5298,9 @@
      "vs": null,
      "opp": "NAU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 24,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -5297,7 +5317,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "NAU 77 – 89 UNLV"
     },
     {
      "kind": "total",
@@ -5311,7 +5332,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "NAU 77 – 89 UNLV"
     },
     {
      "kind": "spread",
@@ -5325,7 +5347,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "NAU 77 – 89 UNLV"
     },
     {
      "kind": "spread",
@@ -5339,7 +5362,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "NAU 77 – 89 UNLV"
     }
    ],
    "game_bets": [],
@@ -5885,17 +5909,17 @@
     "abbr": "CBU",
     "name": "California Baptist Lancers",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2856.png",
-    "score": "0"
+    "score": "63"
    },
    "away": {
     "id": "2454",
     "abbr": "UNF",
     "name": "North Florida Ospreys",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2454.png",
-    "score": "0"
+    "score": "71"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -5933,9 +5957,9 @@
      "vs": null,
      "opp": "CBU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 18,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5243208",
@@ -5973,9 +5997,9 @@
      "vs": null,
      "opp": "CBU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 28,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176342",
@@ -6011,9 +6035,9 @@
      "vs": null,
      "opp": "CBU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 18,
+     "result": "Tuttu"
     },
     {
      "player_id": "4897775",
@@ -6052,9 +6076,9 @@
      ],
      "opp": "UNF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 26,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176208",
@@ -6092,9 +6116,9 @@
      "vs": null,
      "opp": "CBU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "5314453",
@@ -6132,9 +6156,9 @@
      "vs": null,
      "opp": "CBU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 14,
+     "result": "Tuttu"
     },
     {
      "player_id": "4897775",
@@ -6173,9 +6197,9 @@
      ],
      "opp": "UNF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 9.0,
+     "actual_min": 26,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5176208",
@@ -6213,9 +6237,9 @@
      "vs": null,
      "opp": "CBU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 17.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -6232,7 +6256,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "UNF 71 – 63 CBU"
     },
     {
      "kind": "total",
@@ -6246,7 +6271,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "UNF 71 – 63 CBU"
     },
     {
      "kind": "spread",
@@ -6260,7 +6286,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "UNF 71 – 63 CBU"
     },
     {
      "kind": "spread",
@@ -6274,7 +6301,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "UNF 71 – 63 CBU"
     }
    ],
    "game_bets": [],
@@ -6723,17 +6751,17 @@
     "abbr": "SDSU",
     "name": "San Diego State Aztecs",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "score": "0"
+    "score": "102"
    },
    "away": {
     "id": "2239",
     "abbr": "CSUF",
     "name": "Cal State Fullerton Titans",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2239.png",
-    "score": "0"
+    "score": "78"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -6773,9 +6801,9 @@
      "vs": null,
      "opp": "CSUF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5313924",
@@ -6811,9 +6839,9 @@
      "vs": null,
      "opp": "CSUF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "5175404",
@@ -6849,9 +6877,9 @@
      "vs": null,
      "opp": "SDSU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 27,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5241260",
@@ -6885,9 +6913,9 @@
      "vs": null,
      "opp": "CSUF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313924",
@@ -6923,9 +6951,9 @@
      "vs": null,
      "opp": "CSUF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 15.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "5175404",
@@ -6961,9 +6989,9 @@
      "vs": null,
      "opp": "SDSU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 11.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5241260",
@@ -6997,9 +7025,9 @@
      "vs": null,
      "opp": "CSUF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 15.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "5314460",
@@ -7037,9 +7065,9 @@
      "vs": null,
      "opp": "CSUF",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 31,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -7056,7 +7084,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "CSUF 78 – 102 SDSU"
     },
     {
      "kind": "total",
@@ -7070,7 +7099,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CSUF 78 – 102 SDSU"
     },
     {
      "kind": "spread",
@@ -7084,7 +7114,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "CSUF 78 – 102 SDSU"
     },
     {
      "kind": "spread",
@@ -7098,7 +7129,8 @@
      "model_total": 151.9,
      "model_margin": 2.0,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tutmadı",
+     "final": "CSUF 78 – 102 SDSU"
     }
    ],
    "game_bets": [],
