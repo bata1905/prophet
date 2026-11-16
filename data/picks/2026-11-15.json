@@ -75699,8 +75699,8 @@
      "stake_tl": 18.0,
      "expected": 3.2,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 4.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -75751,8 +75751,8 @@
      "stake_tl": 17.0,
      "expected": 206.6,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 143.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -75803,8 +75803,8 @@
      "stake_tl": 14.0,
      "expected": 36.0,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -75853,8 +75853,8 @@
      "stake_tl": 12.0,
      "expected": 0.4,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -75905,8 +75905,8 @@
      "stake_tl": 9.0,
      "expected": 41.4,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 54.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -75957,8 +75957,8 @@
      "stake_tl": 9.0,
      "expected": 1.2,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -76000,8 +76000,8 @@
      "prob_market": 0.5,
      "prob_model": 0.7211,
      "edge": 0.1464,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 143.0,
      "season": 2026
     },
     {
@@ -76014,8 +76014,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.6559,
      "edge": 0.0946,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -76028,8 +76028,8 @@
      "prob_market": 0.4185,
      "prob_model": 0.4886,
      "edge": 0.0555,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 5.0,
      "season": 2026
     },
     {
@@ -76042,8 +76042,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5759,
      "edge": 0.0502,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 26.0,
      "season": 2026
     },
     {
@@ -76056,8 +76056,8 @@
      "prob_market": 0.5399,
      "prob_model": 0.6062,
      "edge": 0.0406,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76070,8 +76070,8 @@
      "prob_market": 0.5049,
      "prob_model": 0.6464,
      "edge": 0.0928,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 26.0,
      "season": 2026
     },
     {
@@ -76084,8 +76084,8 @@
      "prob_market": 0.5697,
      "prob_model": 0.6042,
      "edge": 0.0201,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -76098,8 +76098,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5088,
      "edge": 0.0058,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 8.0,
      "season": 2026
     },
     {
@@ -76112,8 +76112,8 @@
      "prob_market": 0.6734,
      "prob_model": 0.7383,
      "edge": 0.0319,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76126,8 +76126,8 @@
      "prob_market": 0.4639,
      "prob_model": 0.5831,
      "edge": 0.085,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76140,8 +76140,8 @@
      "prob_market": 0.5035,
      "prob_model": 0.6957,
      "edge": 0.1264,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76154,8 +76154,8 @@
      "prob_market": 0.7428,
      "prob_model": 0.8108,
      "edge": 0.0303,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76168,8 +76168,8 @@
      "prob_market": 0.5585,
      "prob_model": 0.6869,
      "edge": 0.076,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -76182,8 +76182,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6477,
      "edge": 0.0978,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 54.0,
      "season": 2026
     },
     {
@@ -76196,8 +76196,8 @@
      "prob_market": 0.6633,
      "prob_model": 0.749,
      "edge": 0.0428,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -76210,8 +76210,8 @@
      "prob_market": 0.4554,
      "prob_model": 0.5259,
      "edge": 0.0512,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -76224,8 +76224,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5203,
      "edge": 0.0134,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 35.0,
      "season": 2026
     },
     {
@@ -76238,8 +76238,8 @@
      "prob_market": 0.2382,
      "prob_model": 0.2493,
      "edge": 0.0154,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -76252,8 +76252,8 @@
      "prob_market": 0.4951,
      "prob_model": 0.585,
      "edge": 0.0601,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -76266,8 +76266,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5315,
      "edge": 0.0209,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 5.0,
      "season": 2026
     },
     {
@@ -76280,8 +76280,8 @@
      "prob_market": 0.7129,
      "prob_model": 0.8202,
      "edge": 0.0498,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76294,8 +76294,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6245,
      "edge": 0.0824,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 409.0,
      "season": 2026
     },
     {
@@ -76308,8 +76308,8 @@
      "prob_market": 0.3678,
      "prob_model": 0.6239,
      "edge": 0.2305,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 4.0,
      "season": 2026
     },
     {
@@ -76322,8 +76322,8 @@
      "prob_market": 0.5123,
      "prob_model": 0.5669,
      "edge": 0.0353,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 8.0,
      "season": 2026
     },
     {
@@ -76336,8 +76336,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5102,
      "edge": 0.0068,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 44.0,
      "season": 2026
     },
     {
@@ -76350,8 +76350,8 @@
      "prob_market": 0.4542,
      "prob_model": 0.5045,
      "edge": 0.0366,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 8.0,
      "season": 2026
     },
     {
@@ -76364,8 +76364,8 @@
      "prob_market": 0.493,
      "prob_model": 0.5948,
      "edge": 0.0683,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 39.0,
      "season": 2026
     },
     {
@@ -76378,8 +76378,8 @@
      "prob_market": 0.5246,
      "prob_model": 0.7006,
      "edge": 0.111,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -76392,8 +76392,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5786,
      "edge": 0.052,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 14.0,
      "season": 2026
     },
     {
@@ -76406,8 +76406,8 @@
      "prob_market": 0.6659,
      "prob_model": 0.7387,
      "edge": 0.0362,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 4.0,
      "season": 2026
     },
     {
@@ -76420,8 +76420,8 @@
      "prob_market": 0.7599,
      "prob_model": 0.7901,
      "edge": 0.0131,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -76434,8 +76434,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5092,
      "edge": 0.013,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 11.0,
      "season": 2026
     },
     {
@@ -76448,8 +76448,8 @@
      "prob_market": 0.4989,
      "prob_model": 0.562,
      "edge": 0.0418,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 231.0,
      "season": 2026
     },
     {
@@ -76462,8 +76462,8 @@
      "prob_market": 0.4856,
      "prob_model": 0.561,
      "edge": 0.0514,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76476,8 +76476,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5778,
      "edge": 0.0594,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 5.0,
      "season": 2026
     },
     {
@@ -76490,8 +76490,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6342,
      "edge": 0.0889,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 66.0,
      "season": 2026
     },
     {
@@ -76504,8 +76504,8 @@
      "prob_market": 0.4356,
      "prob_model": 0.436,
      "edge": 0.0003,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76518,8 +76518,8 @@
      "prob_market": 0.5345,
      "prob_model": 0.5858,
      "edge": 0.0318,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -76532,8 +76532,8 @@
      "prob_market": 0.5098,
      "prob_model": 0.5947,
      "edge": 0.0551,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 9.0,
      "season": 2026
     },
     {
@@ -76546,8 +76546,8 @@
      "prob_market": 0.7253,
      "prob_model": 0.7906,
      "edge": 0.0298,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -76560,8 +76560,8 @@
      "prob_market": 0.5648,
      "prob_model": 0.6083,
      "edge": 0.0255,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 2.0,
      "season": 2026
     }
    ],
