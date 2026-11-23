@@ -10,17 +10,17 @@
     "abbr": "WSH",
     "name": "Washington Wizards",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-    "score": "0"
+    "score": "116"
    },
    "away": {
     "id": "19",
     "abbr": "ORL",
     "name": "Orlando Magic",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-    "score": "0"
+    "score": "96"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -63,9 +63,9 @@
      ],
      "opp": "ORL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 28,
+     "result": "Tuttu"
     },
     {
      "player_id": "5160992",
@@ -106,9 +106,9 @@
      ],
      "opp": "ORL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 26,
+     "result": "Tuttu"
     },
     {
      "player_id": "6583",
@@ -149,9 +149,9 @@
      ],
      "opp": "ORL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 33,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5238230",
@@ -192,9 +192,9 @@
      ],
      "opp": "ORL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 15,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4712849",
@@ -235,9 +235,9 @@
      ],
      "opp": "WSH",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5174563",
@@ -278,9 +278,9 @@
      ],
      "opp": "ORL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 36,
+     "result": "Tuttu"
     },
     {
      "player_id": "5239561",
@@ -321,9 +321,9 @@
      ],
      "opp": "WSH",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 6,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4277847",
@@ -364,9 +364,9 @@
      ],
      "opp": "WSH",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 26,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -383,7 +383,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -397,7 +398,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -411,7 +413,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -425,7 +428,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -439,7 +443,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -453,7 +458,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -467,7 +473,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -481,7 +488,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -495,7 +503,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -509,7 +518,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -523,7 +533,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.76,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -537,7 +548,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -551,7 +563,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -565,7 +578,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -579,7 +593,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.43,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -593,7 +608,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -607,7 +623,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "total",
@@ -621,7 +638,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -635,7 +653,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -649,7 +668,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -663,7 +683,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -677,7 +698,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -691,7 +713,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.37,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -705,7 +728,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.99,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -719,7 +743,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -733,7 +758,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -747,7 +773,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -761,7 +788,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -775,7 +803,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.38,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -789,7 +818,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -803,7 +833,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -817,7 +848,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -831,7 +863,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 2.06,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "spread",
@@ -845,7 +878,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.33,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -859,7 +893,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -873,7 +908,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -887,7 +923,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -901,7 +938,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -915,7 +953,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.94,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -929,7 +968,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -943,7 +983,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -957,7 +998,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -971,7 +1013,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -985,7 +1028,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -999,7 +1043,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1013,7 +1058,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.94,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1027,7 +1073,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.74,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1041,7 +1088,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1055,7 +1103,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1069,7 +1118,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1083,7 +1133,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.95,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1097,7 +1148,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1111,7 +1163,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1125,7 +1178,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1139,7 +1193,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1153,7 +1208,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.74,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1167,7 +1223,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ORL 96 – 116 WSH"
     },
     {
      "kind": "team_total",
@@ -1181,7 +1238,8 @@
      "model_total": 225.2,
      "model_margin": -1.5,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tuttu",
+     "final": "ORL 96 – 116 WSH"
     }
    ],
    "game_bets": [],
@@ -1206,8 +1264,8 @@
      "prob_market": 0.4878,
      "prob_model": 0.5139,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 17.0
     },
     {
      "player_id": "4066320",
@@ -1219,8 +1277,8 @@
      "prob_market": 0.4529,
      "prob_model": 0.4958,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0
     },
     {
      "player_id": "4066320",
@@ -1232,8 +1290,8 @@
      "prob_market": 0.5929,
      "prob_model": 0.6495,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "4066320",
@@ -1245,8 +1303,8 @@
      "prob_market": 0.4619,
      "prob_model": 0.5597,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4066320",
@@ -1258,8 +1316,8 @@
      "prob_market": 0.4808,
      "prob_model": 0.4929,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 23.0
     },
     {
      "player_id": "4066320",
@@ -1271,8 +1329,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5405,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 18.0
     },
     {
      "player_id": "4066320",
@@ -1284,8 +1342,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5202,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 22.0
     },
     {
      "player_id": "4066320",
@@ -1297,8 +1355,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.5142,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "4712849",
@@ -1310,8 +1368,8 @@
      "prob_market": 0.5022,
      "prob_model": 0.525,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "4712849",
@@ -1323,8 +1381,8 @@
      "prob_market": 0.5119,
      "prob_model": 0.587,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "4712849",
@@ -1336,8 +1394,8 @@
      "prob_market": 0.4248,
      "prob_model": 0.4963,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4712849",
@@ -1349,8 +1407,8 @@
      "prob_market": 0.4988,
      "prob_model": 0.5055,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "4712849",
@@ -1362,8 +1420,8 @@
      "prob_market": 0.4812,
      "prob_model": 0.4867,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0
     },
     {
      "player_id": "4712849",
@@ -1375,8 +1433,8 @@
      "prob_market": 0.5082,
      "prob_model": 0.5147,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 19.0
     },
     {
      "player_id": "4712849",
@@ -1388,8 +1446,8 @@
      "prob_market": 0.483,
      "prob_model": 0.4876,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 16.0
     },
     {
      "player_id": "4712849",
@@ -1401,8 +1459,8 @@
      "prob_market": 0.5273,
      "prob_model": 0.6043,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4277847",
@@ -1414,8 +1472,8 @@
      "prob_market": 0.4862,
      "prob_model": 0.5762,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4277847",
@@ -1427,8 +1485,8 @@
      "prob_market": 0.5298,
      "prob_model": 0.632,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "4277847",
@@ -1440,8 +1498,8 @@
      "prob_market": 0.4856,
      "prob_model": 0.519,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4277847",
@@ -1453,8 +1511,8 @@
      "prob_market": 0.5224,
      "prob_model": 0.652,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "4277847",
@@ -1466,8 +1524,8 @@
      "prob_market": 0.5169,
      "prob_model": 0.6397,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "4277847",
@@ -1479,8 +1537,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5912,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0
     },
     {
      "player_id": "4277847",
@@ -1492,8 +1550,8 @@
      "prob_market": 0.5446,
      "prob_model": 0.6583,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4702382",
@@ -1505,8 +1563,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.6315,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "4702382",
@@ -1518,8 +1576,8 @@
      "prob_market": 0.5174,
      "prob_model": 0.5384,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4702382",
@@ -1531,8 +1589,8 @@
      "prob_market": 0.519,
      "prob_model": 0.5469,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4702382",
@@ -1544,8 +1602,8 @@
      "prob_market": 0.407,
      "prob_model": 0.5493,
      "edge": 0.0024,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "4702382",
@@ -1557,8 +1615,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5679,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0
     },
     {
      "player_id": "4702382",
@@ -1570,8 +1628,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5976,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0
     },
     {
      "player_id": "4702382",
@@ -1583,8 +1641,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.5958,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "4702382",
@@ -1596,8 +1654,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5332,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "4432165",
@@ -1609,8 +1667,8 @@
      "prob_market": 0.4893,
      "prob_model": 0.6213,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4432165",
@@ -1622,8 +1680,8 @@
      "prob_market": 0.4378,
      "prob_model": 0.5794,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4432165",
@@ -1635,8 +1693,8 @@
      "prob_market": 0.4665,
      "prob_model": 0.4949,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4432165",
@@ -1648,8 +1706,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.544,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "4432165",
@@ -1661,8 +1719,8 @@
      "prob_market": 0.5203,
      "prob_model": 0.5937,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0
     },
     {
      "player_id": "4432165",
@@ -1674,8 +1732,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5513,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4432165",
@@ -1687,8 +1745,8 @@
      "prob_market": 0.4724,
      "prob_model": 0.6114,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "4566434",
@@ -1700,8 +1758,8 @@
      "prob_market": 0.4948,
      "prob_model": 0.5211,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0
     },
     {
      "player_id": "4566434",
@@ -1713,8 +1771,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.5464,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "4566434",
@@ -1726,8 +1784,8 @@
      "prob_market": 0.4554,
      "prob_model": 0.5593,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "4566434",
@@ -1739,8 +1797,8 @@
      "prob_market": 0.5481,
      "prob_model": 0.5856,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4566434",
@@ -1752,8 +1810,8 @@
      "prob_market": 0.4907,
      "prob_model": 0.5578,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 30.0
     },
     {
      "player_id": "4566434",
@@ -1765,8 +1823,8 @@
      "prob_market": 0.5088,
      "prob_model": 0.5529,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 24.0
     },
     {
      "player_id": "4566434",
@@ -1778,8 +1836,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5713,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 22.0
     },
     {
      "player_id": "4566434",
@@ -1791,8 +1849,8 @@
      "prob_market": 0.529,
      "prob_model": 0.5923,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "5104155",
@@ -1804,8 +1862,8 @@
      "prob_market": 0.502,
      "prob_model": 0.5628,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 12.0
     },
     {
      "player_id": "5104155",
@@ -1817,8 +1875,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.6031,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "5104155",
@@ -1830,8 +1888,8 @@
      "prob_market": 0.5,
      "prob_model": 0.683,
      "edge": 0.0026,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "5104155",
@@ -1843,8 +1901,8 @@
      "prob_market": 0.4822,
      "prob_model": 0.498,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "5104155",
@@ -1856,8 +1914,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.5686,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 13.0
     },
     {
      "player_id": "5104155",
@@ -1869,8 +1927,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5646,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "6583",
@@ -1882,8 +1940,8 @@
      "prob_market": 0.4933,
      "prob_model": 0.5922,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 22.0
     },
     {
      "player_id": "6583",
@@ -1895,8 +1953,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.6264,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0
     },
     {
      "player_id": "6583",
@@ -1908,8 +1966,8 @@
      "prob_market": 0.481,
      "prob_model": 0.6461,
      "edge": 0.0024,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "6583",
@@ -1921,8 +1979,8 @@
      "prob_market": 0.4812,
      "prob_model": 0.5392,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 30.0
     },
     {
      "player_id": "6583",
@@ -1934,8 +1992,8 @@
      "prob_market": 0.507,
      "prob_model": 0.5519,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 29.0
     },
     {
      "player_id": "6583",
@@ -1947,8 +2005,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6224,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 23.0
     },
     {
      "player_id": "6583",
@@ -1960,8 +2018,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.577,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "5142718",
@@ -1973,8 +2031,8 @@
      "prob_market": 0.5019,
      "prob_model": 0.5152,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0
     },
     {
      "player_id": "5142718",
@@ -1986,8 +2044,8 @@
      "prob_market": 0.4672,
      "prob_model": 0.5133,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "5142718",
@@ -1999,8 +2057,8 @@
      "prob_market": 0.4538,
      "prob_model": 0.5918,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "5142718",
@@ -2012,8 +2070,8 @@
      "prob_market": 0.5024,
      "prob_model": 0.5522,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 30.0
     },
     {
      "player_id": "5142718",
@@ -2025,8 +2083,8 @@
      "prob_market": 0.4825,
      "prob_model": 0.4947,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 24.0
     },
     {
      "player_id": "5142718",
@@ -2038,8 +2096,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5278,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0
     },
     {
      "player_id": "5142718",
@@ -2051,8 +2109,8 @@
      "prob_market": 0.5273,
      "prob_model": 0.6169,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "5174563",
@@ -2064,8 +2122,8 @@
      "prob_market": 0.5167,
      "prob_model": 0.674,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0
     },
     {
      "player_id": "5174563",
@@ -2077,8 +2135,8 @@
      "prob_market": 0.5517,
      "prob_model": 0.6277,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "5174563",
@@ -2090,8 +2148,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6184,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 31.0
     },
     {
      "player_id": "5174563",
@@ -2103,8 +2161,8 @@
      "prob_market": 0.4951,
      "prob_model": 0.5985,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 27.0
     },
     {
      "player_id": "5174563",
@@ -2116,8 +2174,8 @@
      "prob_market": 0.4768,
      "prob_model": 0.6358,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 28.0
     },
     {
      "player_id": "5174563",
@@ -2129,8 +2187,8 @@
      "prob_market": 0.5098,
      "prob_model": 0.5311,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0
     },
     {
      "player_id": "5160992",
@@ -2142,8 +2200,8 @@
      "prob_market": 0.519,
      "prob_model": 0.5383,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "5160992",
@@ -2155,8 +2213,8 @@
      "prob_market": 0.5446,
      "prob_model": 0.603,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0
     },
     {
      "player_id": "5160992",
@@ -2168,8 +2226,8 @@
      "prob_market": 0.3589,
      "prob_model": 0.4342,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "5160992",
@@ -2181,8 +2239,8 @@
      "prob_market": 0.4862,
      "prob_model": 0.5265,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 19.0
     },
     {
      "player_id": "4277905",
@@ -2194,8 +2252,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5739,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4277905",
@@ -2207,8 +2265,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5475,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4277905",
@@ -2220,8 +2278,8 @@
      "prob_market": 0.4356,
      "prob_model": 0.5469,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0
     },
     {
      "player_id": "4277905",
@@ -2233,8 +2291,8 @@
      "prob_market": 0.6275,
      "prob_model": 0.6459,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4277905",
@@ -2246,8 +2304,8 @@
      "prob_market": 0.4889,
      "prob_model": 0.608,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 26.0
     },
     {
      "player_id": "4277905",
@@ -2259,8 +2317,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5983,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "4277905",
@@ -2272,8 +2330,8 @@
      "prob_market": 0.512,
      "prob_model": 0.6243,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0
     },
     {
      "player_id": "4277905",
@@ -2285,8 +2343,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.6096,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     }
    ],
    "players": [
@@ -4791,17 +4849,17 @@
     "abbr": "CHI",
     "name": "Chicago Bulls",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-    "score": "0"
+    "score": "145"
    },
    "away": {
     "id": "7",
     "abbr": "DEN",
     "name": "Denver Nuggets",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-    "score": "0"
+    "score": "151"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -4845,9 +4903,9 @@
      ],
      "opp": "DEN",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 16,
+     "result": "Tutmadı"
     },
     {
      "player_id": "3064290",
@@ -4889,9 +4947,9 @@
      ],
      "opp": "CHI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "4395626",
@@ -4930,9 +4988,9 @@
      "vs": null,
      "opp": "DEN",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 12,
+     "result": "Tuttu"
     },
     {
      "player_id": "4431767",
@@ -4973,9 +5031,9 @@
      ],
      "opp": "CHI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 38,
+     "result": "Tuttu"
     },
     {
      "player_id": "3138196",
@@ -5016,9 +5074,9 @@
      ],
      "opp": "CHI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 36,
+     "result": "Tutmadı"
     },
     {
      "player_id": "3978",
@@ -5057,9 +5115,9 @@
      ],
      "opp": "CHI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 18,
+     "result": "Tutmadı"
     },
     {
      "player_id": "3064290",
@@ -5101,9 +5159,9 @@
      ],
      "opp": "CHI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "2990984",
@@ -5145,9 +5203,9 @@
      ],
      "opp": "DEN",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 33.0,
+     "actual_min": 40,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -5164,7 +5222,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5178,7 +5237,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5192,7 +5252,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5206,7 +5267,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5220,7 +5282,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5234,7 +5297,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5248,7 +5312,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5262,7 +5327,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5276,7 +5342,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5290,7 +5357,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.8,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5304,7 +5372,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5318,7 +5387,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.72,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5332,7 +5402,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5346,7 +5417,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5360,7 +5432,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5374,7 +5447,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5388,7 +5462,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5402,7 +5477,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.86,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5416,7 +5492,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "total",
@@ -5430,7 +5507,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5444,7 +5522,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 2.13,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5458,7 +5537,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.3,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5472,7 +5552,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5486,7 +5567,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.83,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5500,7 +5582,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.37,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5514,7 +5597,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.98,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5528,7 +5612,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5542,7 +5627,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5556,7 +5642,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.95,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5570,7 +5657,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5584,7 +5672,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5598,7 +5687,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5612,7 +5702,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5626,7 +5717,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5640,7 +5732,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5654,7 +5747,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.93,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5668,7 +5762,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.33,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "spread",
@@ -5682,7 +5777,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 2.08,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5696,7 +5792,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.73,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5710,7 +5807,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5724,7 +5822,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.87,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5738,7 +5837,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.43,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5752,7 +5852,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.94,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5766,7 +5867,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5780,7 +5882,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5794,7 +5897,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.74,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5808,7 +5912,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5822,7 +5927,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5836,7 +5942,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5850,7 +5957,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5864,7 +5972,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5878,7 +5987,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5892,7 +6002,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5906,7 +6017,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.95,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5920,7 +6032,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5934,7 +6047,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5948,7 +6062,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5962,7 +6077,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5976,7 +6092,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -5990,7 +6107,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.71,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -6004,7 +6122,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -6018,7 +6137,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -6032,7 +6152,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.76,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -6046,7 +6167,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -6060,7 +6182,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEN 151 – 145 CHI"
     },
     {
      "kind": "team_total",
@@ -6074,7 +6197,8 @@
      "model_total": 216.7,
      "model_margin": -12.1,
      "odds_open": 1.94,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEN 151 – 145 CHI"
     }
    ],
    "game_bets": [],
@@ -6101,8 +6225,8 @@
      "prob_market": 0.5174,
      "prob_model": 0.5264,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 21.0
     },
     {
      "player_id": "4431767",
@@ -6114,8 +6238,8 @@
      "prob_market": 0.5107,
      "prob_model": 0.5403,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0
     },
     {
      "player_id": "4431767",
@@ -6127,8 +6251,8 @@
      "prob_market": 0.4407,
      "prob_model": 0.491,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "4431767",
@@ -6140,8 +6264,8 @@
      "prob_market": 0.5423,
      "prob_model": 0.5558,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4431767",
@@ -6153,8 +6277,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5109,
      "edge": 0.0,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 32.0
     },
     {
      "player_id": "4431767",
@@ -6166,8 +6290,8 @@
      "prob_market": 0.4833,
      "prob_model": 0.4985,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 29.0
     },
     {
      "player_id": "4431767",
@@ -6179,8 +6303,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5222,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0
     },
     {
      "player_id": "4431767",
@@ -6192,8 +6316,8 @@
      "prob_market": 0.539,
      "prob_model": 0.556,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "3978",
@@ -6205,8 +6329,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5586,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "3978",
@@ -6218,8 +6342,8 @@
      "prob_market": 0.6113,
      "prob_model": 0.7513,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "3978",
@@ -6231,8 +6355,8 @@
      "prob_market": 0.5049,
      "prob_model": 0.5763,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "3978",
@@ -6244,8 +6368,8 @@
      "prob_market": 0.481,
      "prob_model": 0.4878,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "3978",
@@ -6257,8 +6381,8 @@
      "prob_market": 0.4926,
      "prob_model": 0.5874,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "3978",
@@ -6270,8 +6394,8 @@
      "prob_market": 0.5193,
      "prob_model": 0.5973,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0
     },
     {
      "player_id": "3064290",
@@ -6283,8 +6407,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5878,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 18.0
     },
     {
      "player_id": "3064290",
@@ -6296,8 +6420,8 @@
      "prob_market": 0.567,
      "prob_model": 0.7045,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0
     },
     {
      "player_id": "3064290",
@@ -6309,8 +6433,8 @@
      "prob_market": 0.484,
      "prob_model": 0.5766,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 31.0
     },
     {
      "player_id": "3064290",
@@ -6322,8 +6446,8 @@
      "prob_market": 0.4943,
      "prob_model": 0.6156,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 26.0
     },
     {
      "player_id": "3064290",
@@ -6335,8 +6459,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5397,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 23.0
     },
     {
      "player_id": "3064290",
@@ -6348,8 +6472,8 @@
      "prob_market": 0.5435,
      "prob_model": 0.6131,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 13.0
     },
     {
      "player_id": "3138196",
@@ -6361,8 +6485,8 @@
      "prob_market": 0.4803,
      "prob_model": 0.4986,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 16.0
     },
     {
      "player_id": "3138196",
@@ -6374,8 +6498,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5793,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "3138196",
@@ -6387,8 +6511,8 @@
      "prob_market": 0.4354,
      "prob_model": 0.4944,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "3138196",
@@ -6400,8 +6524,8 @@
      "prob_market": 0.519,
      "prob_model": 0.5448,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 23.0
     },
     {
      "player_id": "3138196",
@@ -6413,8 +6537,8 @@
      "prob_market": 0.519,
      "prob_model": 0.5545,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 18.0
     },
     {
      "player_id": "3138196",
@@ -6426,8 +6550,8 @@
      "prob_market": 0.503,
      "prob_model": 0.5391,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0
     },
     {
      "player_id": "3112335",
@@ -6439,8 +6563,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5068,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 37.0
     },
     {
      "player_id": "3112335",
@@ -6452,8 +6576,8 @@
      "prob_market": 0.5098,
      "prob_model": 0.5175,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "3112335",
@@ -6465,8 +6589,8 @@
      "prob_market": 0.4629,
      "prob_model": 0.5394,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0
     },
     {
      "player_id": "3112335",
@@ -6478,8 +6602,8 @@
      "prob_market": 0.5194,
      "prob_model": 0.6018,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "3112335",
@@ -6491,8 +6615,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5212,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 66.0
     },
     {
      "player_id": "3112335",
@@ -6504,8 +6628,8 @@
      "prob_market": 0.4902,
      "prob_model": 0.507,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 55.0
     },
     {
      "player_id": "3112335",
@@ -6517,8 +6641,8 @@
      "prob_market": 0.497,
      "prob_model": 0.5215,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 48.0
     },
     {
      "player_id": "3112335",
@@ -6530,8 +6654,8 @@
      "prob_market": 0.4922,
      "prob_model": 0.5369,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 29.0
     },
     {
      "player_id": "3936299",
@@ -6543,8 +6667,8 @@
      "prob_market": 0.4906,
      "prob_model": 0.5805,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 45.0
     },
     {
      "player_id": "3936299",
@@ -6556,8 +6680,8 @@
      "prob_market": 0.4566,
      "prob_model": 0.5428,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "3936299",
@@ -6569,8 +6693,8 @@
      "prob_market": 0.5595,
      "prob_model": 0.5752,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "3936299",
@@ -6582,8 +6706,8 @@
      "prob_market": 0.4665,
      "prob_model": 0.5982,
      "edge": 0.002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "3936299",
@@ -6595,8 +6719,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.5672,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 57.0
     },
     {
      "player_id": "3936299",
@@ -6608,8 +6732,8 @@
      "prob_market": 0.5046,
      "prob_model": 0.6093,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 50.0
     },
     {
      "player_id": "3936299",
@@ -6621,8 +6745,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5829,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 52.0
     },
     {
      "player_id": "3936299",
@@ -6634,8 +6758,8 @@
      "prob_market": 0.498,
      "prob_model": 0.5146,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0
     },
     {
      "player_id": "4711294",
@@ -6647,8 +6771,8 @@
      "prob_market": 0.4979,
      "prob_model": 0.6625,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0
     },
     {
      "player_id": "4711294",
@@ -6660,8 +6784,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.6594,
      "edge": 0.0024,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "4711294",
@@ -6673,8 +6797,8 @@
      "prob_market": 0.4277,
      "prob_model": 0.5347,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "4711294",
@@ -6686,8 +6810,8 @@
      "prob_market": 0.4785,
      "prob_model": 0.7008,
      "edge": 0.0033,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 29.0
     },
     {
      "player_id": "4711294",
@@ -6699,8 +6823,8 @@
      "prob_market": 0.4854,
      "prob_model": 0.6689,
      "edge": 0.0026,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 26.0
     },
     {
      "player_id": "4711294",
@@ -6712,8 +6836,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.703,
      "edge": 0.003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0
     },
     {
      "player_id": "4871145",
@@ -6725,8 +6849,8 @@
      "prob_market": 0.5047,
      "prob_model": 0.6359,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 23.0
     },
     {
      "player_id": "4871145",
@@ -6738,8 +6862,8 @@
      "prob_market": 0.4462,
      "prob_model": 0.5513,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "4871145",
@@ -6751,8 +6875,8 @@
      "prob_market": 0.4464,
      "prob_model": 0.5614,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0
     },
     {
      "player_id": "4871145",
@@ -6764,8 +6888,8 @@
      "prob_market": 0.6011,
      "prob_model": 0.6697,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4871145",
@@ -6777,8 +6901,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5002,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 59.0
     },
     {
      "player_id": "4871145",
@@ -6790,8 +6914,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.539,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 37.0
     },
     {
      "player_id": "4871145",
@@ -6803,8 +6927,8 @@
      "prob_market": 0.4902,
      "prob_model": 0.5065,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 45.0
     },
     {
      "player_id": "4871145",
@@ -6816,8 +6940,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.6109,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 36.0
     },
     {
      "player_id": "2990984",
@@ -6829,8 +6953,8 @@
      "prob_market": 0.5358,
      "prob_model": 0.5812,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 33.0
     },
     {
      "player_id": "2990984",
@@ -6842,8 +6966,8 @@
      "prob_market": 0.4401,
      "prob_model": 0.4577,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "2990984",
@@ -6855,8 +6979,8 @@
      "prob_market": 0.4167,
      "prob_model": 0.4177,
      "edge": 0.0,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0
     },
     {
      "player_id": "2990984",
@@ -6868,8 +6992,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.5756,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 46.0
     },
     {
      "player_id": "2990984",
@@ -6881,8 +7005,8 @@
      "prob_market": 0.5244,
      "prob_model": 0.5757,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 40.0
     },
     {
      "player_id": "2990984",
@@ -6894,8 +7018,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5772,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 39.0
     },
     {
      "player_id": "2990984",
@@ -6907,8 +7031,8 @@
      "prob_market": 0.526,
      "prob_model": 0.6545,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 13.0
     },
     {
      "player_id": "4395626",
@@ -6920,8 +7044,8 @@
      "prob_market": 0.5103,
      "prob_model": 0.5904,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0
     },
     {
      "player_id": "4395626",
@@ -6933,8 +7057,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6076,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "4395626",
@@ -6946,8 +7070,8 @@
      "prob_market": 0.4953,
      "prob_model": 0.5028,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4395626",
@@ -6959,8 +7083,8 @@
      "prob_market": 0.5697,
      "prob_model": 0.68,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4395626",
@@ -6972,8 +7096,8 @@
      "prob_market": 0.4812,
      "prob_model": 0.4969,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     },
     {
      "player_id": "4395626",
@@ -6985,8 +7109,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5158,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0
     },
     {
      "player_id": "4395626",
@@ -6998,8 +7122,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5542,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 13.0
     },
     {
      "player_id": "4395626",
@@ -7011,8 +7135,8 @@
      "prob_market": 0.5414,
      "prob_model": 0.6187,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "4432822",
@@ -7024,8 +7148,8 @@
      "prob_market": 0.4236,
      "prob_model": 0.5744,
      "edge": 0.0025,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0
     },
     {
      "player_id": "4432822",
@@ -7037,8 +7161,8 @@
      "prob_market": 0.4043,
      "prob_model": 0.4879,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4432822",
@@ -7050,8 +7174,8 @@
      "prob_market": 0.5936,
      "prob_model": 0.6071,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4432822",
@@ -7063,8 +7187,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6785,
      "edge": 0.0025,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 14.0
     },
     {
      "player_id": "4432822",
@@ -7076,8 +7200,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.6354,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 12.0
     },
     {
      "player_id": "4432822",
@@ -7089,8 +7213,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.6341,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0
     },
     {
      "player_id": "4397189",
@@ -7102,8 +7226,8 @@
      "prob_market": 0.4889,
      "prob_model": 0.7069,
      "edge": 0.0031,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 30.0
     },
     {
      "player_id": "4431687",
@@ -7115,8 +7239,8 @@
      "prob_market": 0.4747,
      "prob_model": 0.4885,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4431687",
@@ -7128,8 +7252,8 @@
      "prob_market": 0.4706,
      "prob_model": 0.5076,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4431687",
@@ -7141,8 +7265,8 @@
      "prob_market": 0.5989,
      "prob_model": 0.6765,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4431687",
@@ -7154,8 +7278,8 @@
      "prob_market": 0.5078,
      "prob_model": 0.5446,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4431687",
@@ -7167,8 +7291,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5269,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4431687",
@@ -7180,8 +7304,8 @@
      "prob_market": 0.4694,
      "prob_model": 0.5179,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     }
    ],
    "players": [
@@ -9669,17 +9793,17 @@
     "abbr": "UTAH",
     "name": "Utah Jazz",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-    "score": "0"
+    "score": "114"
    },
    "away": {
     "id": "6",
     "abbr": "DAL",
     "name": "Dallas Mavericks",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-    "score": "0"
+    "score": "116"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -9722,9 +9846,9 @@
      ],
      "opp": "DAL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 12,
+     "result": "Tuttu"
     },
     {
      "player_id": "3133602",
@@ -9765,9 +9889,9 @@
      ],
      "opp": "DAL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "4065663",
@@ -9808,9 +9932,9 @@
      ],
      "opp": "DAL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 14,
+     "result": "Tutmadı"
     },
     {
      "player_id": "6442",
@@ -9851,9 +9975,9 @@
      ],
      "opp": "UTAH",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "4278594",
@@ -9895,9 +10019,9 @@
      ],
      "opp": "UTAH",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 25,
+     "result": "Tutmadı"
     },
     {
      "player_id": "6442",
@@ -9938,9 +10062,9 @@
      ],
      "opp": "UTAH",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 27,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4873138",
@@ -9981,9 +10105,9 @@
      ],
      "opp": "DAL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "4432811",
@@ -10024,9 +10148,9 @@
      ],
      "opp": "DAL",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 23,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -10043,7 +10167,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10057,7 +10182,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10071,7 +10197,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10085,7 +10212,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10099,7 +10227,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10113,7 +10242,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10127,7 +10257,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10141,7 +10272,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10155,7 +10287,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.71,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10169,7 +10302,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10183,7 +10317,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10197,7 +10332,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10211,7 +10347,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10225,7 +10362,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10239,7 +10377,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10253,7 +10392,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10267,7 +10407,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.83,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "total",
@@ -10281,7 +10422,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10295,7 +10437,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.28,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10309,7 +10452,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 2.18,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10323,7 +10467,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10337,7 +10482,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10351,7 +10497,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.73,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10365,7 +10512,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.52,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10379,7 +10527,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10393,7 +10542,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10407,7 +10557,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.33,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10421,7 +10572,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 2.06,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10435,7 +10587,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.4,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10449,7 +10602,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.92,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10463,7 +10617,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DAL 116 – 114 UTAH"
     },
     {
      "kind": "spread",
@@ -10477,7 +10632,8 @@
      "model_total": 218.4,
      "model_margin": 6.1,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "DAL 116 – 114 UTAH"
     }
    ],
    "game_bets": [],
@@ -10503,8 +10659,8 @@
      "prob_market": 0.4954,
      "prob_model": 0.5831,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 28.0
     },
     {
      "player_id": "5041939",
@@ -10516,8 +10672,8 @@
      "prob_market": 0.5387,
      "prob_model": 0.6498,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "5041939",
@@ -10529,8 +10685,8 @@
      "prob_market": 0.5239,
      "prob_model": 0.6225,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "5041939",
@@ -10542,8 +10698,8 @@
      "prob_market": 0.4724,
      "prob_model": 0.508,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "5041939",
@@ -10555,8 +10711,8 @@
      "prob_market": 0.494,
      "prob_model": 0.6147,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 35.0
     },
     {
      "player_id": "5041939",
@@ -10568,8 +10724,8 @@
      "prob_market": 0.499,
      "prob_model": 0.6017,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 31.0
     },
     {
      "player_id": "5041939",
@@ -10581,8 +10737,8 @@
      "prob_market": 0.4881,
      "prob_model": 0.6032,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 32.0
     },
     {
      "player_id": "5041939",
@@ -10594,8 +10750,8 @@
      "prob_market": 0.5138,
      "prob_model": 0.6182,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4278049",
@@ -10607,8 +10763,8 @@
      "prob_market": 0.46,
      "prob_model": 0.4654,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4278049",
@@ -10620,8 +10776,8 @@
      "prob_market": 0.5152,
      "prob_model": 0.6184,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "4278049",
@@ -10633,8 +10789,8 @@
      "prob_market": 0.4779,
      "prob_model": 0.5541,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 14.0
     },
     {
      "player_id": "4278049",
@@ -10646,8 +10802,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.6048,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "4278049",
@@ -10659,8 +10815,8 @@
      "prob_market": 0.5137,
      "prob_model": 0.5869,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "6442",
@@ -10672,8 +10828,8 @@
      "prob_market": 0.498,
      "prob_model": 0.5227,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0
     },
     {
      "player_id": "6442",
@@ -10685,8 +10841,8 @@
      "prob_market": 0.4824,
      "prob_model": 0.4885,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "6442",
@@ -10698,8 +10854,8 @@
      "prob_market": 0.5875,
      "prob_model": 0.6001,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "6442",
@@ -10711,8 +10867,8 @@
      "prob_market": 0.4808,
      "prob_model": 0.5234,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 25.0
     },
     {
      "player_id": "6442",
@@ -10724,8 +10880,8 @@
      "prob_market": 0.4995,
      "prob_model": 0.5398,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 17.0
     },
     {
      "player_id": "6442",
@@ -10737,8 +10893,8 @@
      "prob_market": 0.4803,
      "prob_model": 0.5116,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 24.0
     },
     {
      "player_id": "6442",
@@ -10750,8 +10906,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5356,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4873153",
@@ -10763,8 +10919,8 @@
      "prob_market": 0.5053,
      "prob_model": 0.551,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4873153",
@@ -10776,8 +10932,8 @@
      "prob_market": 0.4727,
      "prob_model": 0.4879,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0
     },
     {
      "player_id": "4278594",
@@ -10789,8 +10945,8 @@
      "prob_market": 0.4718,
      "prob_model": 0.482,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "4278594",
@@ -10802,8 +10958,8 @@
      "prob_market": 0.4698,
      "prob_model": 0.5397,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4278594",
@@ -10815,8 +10971,8 @@
      "prob_market": 0.5325,
      "prob_model": 0.5793,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4278594",
@@ -10828,8 +10984,8 @@
      "prob_market": 0.4943,
      "prob_model": 0.5295,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4278594",
@@ -10841,8 +10997,8 @@
      "prob_market": 0.5248,
      "prob_model": 0.5558,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "4278594",
@@ -10854,8 +11010,8 @@
      "prob_market": 0.5098,
      "prob_model": 0.5165,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 10.0
     },
     {
      "player_id": "4278594",
@@ -10867,8 +11023,8 @@
      "prob_market": 0.5272,
      "prob_model": 0.6357,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "3138160",
@@ -10880,8 +11036,8 @@
      "prob_market": 0.5175,
      "prob_model": 0.5942,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "3138160",
@@ -10893,8 +11049,8 @@
      "prob_market": 0.4165,
      "prob_model": 0.4195,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "3138160",
@@ -10906,8 +11062,8 @@
      "prob_market": 0.512,
      "prob_model": 0.6101,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 23.0
     },
     {
      "player_id": "3138160",
@@ -10919,8 +11075,8 @@
      "prob_market": 0.4953,
      "prob_model": 0.5687,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 19.0
     },
     {
      "player_id": "3138160",
@@ -10932,8 +11088,8 @@
      "prob_market": 0.5508,
      "prob_model": 0.6038,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "5211175",
@@ -10945,8 +11101,8 @@
      "prob_market": 0.4949,
      "prob_model": 0.5905,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 23.0
     },
     {
      "player_id": "5211175",
@@ -10958,8 +11114,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5725,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 17.0
     },
     {
      "player_id": "5211175",
@@ -10971,8 +11127,8 @@
      "prob_market": 0.4675,
      "prob_model": 0.5695,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4873138",
@@ -10984,8 +11140,8 @@
      "prob_market": 0.5246,
      "prob_model": 0.5417,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0
     },
     {
      "player_id": "4873138",
@@ -10997,8 +11153,8 @@
      "prob_market": 0.4497,
      "prob_model": 0.5626,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "4873138",
@@ -11010,8 +11166,8 @@
      "prob_market": 0.4216,
      "prob_model": 0.5284,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4873138",
@@ -11023,8 +11179,8 @@
      "prob_market": 0.5,
      "prob_model": 0.553,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 23.0
     },
     {
      "player_id": "4873138",
@@ -11036,8 +11192,8 @@
      "prob_market": 0.4995,
      "prob_model": 0.5305,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 21.0
     },
     {
      "player_id": "4873138",
@@ -11049,8 +11205,8 @@
      "prob_market": 0.4895,
      "prob_model": 0.4911,
      "edge": 0.0,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "4873138",
@@ -11062,8 +11218,8 @@
      "prob_market": 0.4628,
      "prob_model": 0.5832,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4433627",
@@ -11075,8 +11231,8 @@
      "prob_market": 0.5023,
      "prob_model": 0.5122,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "4433627",
@@ -11088,8 +11244,8 @@
      "prob_market": 0.4698,
      "prob_model": 0.5155,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "4433627",
@@ -11101,8 +11257,8 @@
      "prob_market": 0.4694,
      "prob_model": 0.4922,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4433627",
@@ -11114,8 +11270,8 @@
      "prob_market": 0.5433,
      "prob_model": 0.5736,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "4433627",
@@ -11127,8 +11283,8 @@
      "prob_market": 0.5049,
      "prob_model": 0.5092,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 27.0
     },
     {
      "player_id": "4433627",
@@ -11140,8 +11296,8 @@
      "prob_market": 0.5098,
      "prob_model": 0.5203,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 20.0
     },
     {
      "player_id": "4433627",
@@ -11153,8 +11309,8 @@
      "prob_market": 0.5109,
      "prob_model": 0.5161,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0
     },
     {
      "player_id": "4433627",
@@ -11166,8 +11322,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.5343,
      "edge": 0.0,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 12.0
     },
     {
      "player_id": "4432811",
@@ -11179,8 +11335,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.5352,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4432811",
@@ -11192,8 +11348,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.6069,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4432811",
@@ -11205,8 +11361,8 @@
      "prob_market": 0.6656,
      "prob_model": 0.6729,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4432811",
@@ -11218,8 +11374,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5829,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4432811",
@@ -11231,8 +11387,8 @@
      "prob_market": 0.512,
      "prob_model": 0.5844,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4397077",
@@ -11244,8 +11400,8 @@
      "prob_market": 0.4869,
      "prob_model": 0.5439,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "4397077",
@@ -11257,8 +11413,8 @@
      "prob_market": 0.5119,
      "prob_model": 0.5896,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "4397077",
@@ -11270,8 +11426,8 @@
      "prob_market": 0.5053,
      "prob_model": 0.6423,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4397077",
@@ -11283,8 +11439,8 @@
      "prob_market": 0.5111,
      "prob_model": 0.615,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0
     },
     {
      "player_id": "4397077",
@@ -11296,8 +11452,8 @@
      "prob_market": 0.5086,
      "prob_model": 0.5836,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4397077",
@@ -11309,8 +11465,8 @@
      "prob_market": 0.496,
      "prob_model": 0.5792,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4397077",
@@ -11322,8 +11478,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6771,
      "edge": 0.0025,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "5041955",
@@ -11335,8 +11491,8 @@
      "prob_market": 0.483,
      "prob_model": 0.4953,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "5041955",
@@ -11348,8 +11504,8 @@
      "prob_market": 0.5203,
      "prob_model": 0.6143,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "5041955",
@@ -11361,8 +11517,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5062,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "5041955",
@@ -11374,8 +11530,8 @@
      "prob_market": 0.5755,
      "prob_model": 0.5948,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "5041955",
@@ -11387,8 +11543,8 @@
      "prob_market": 0.5023,
      "prob_model": 0.5094,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 14.0
     },
     {
      "player_id": "5041955",
@@ -11400,8 +11556,8 @@
      "prob_market": 0.5139,
      "prob_model": 0.5244,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0
     },
     {
      "player_id": "5041955",
@@ -11413,8 +11569,8 @@
      "prob_market": 0.4933,
      "prob_model": 0.5061,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "5041955",
@@ -11426,8 +11582,8 @@
      "prob_market": 0.4812,
      "prob_model": 0.5329,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0
     },
     {
      "player_id": "5105839",
@@ -11439,8 +11595,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.5583,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 10.0
     },
     {
      "player_id": "5105839",
@@ -11452,8 +11608,8 @@
      "prob_market": 0.5009,
      "prob_model": 0.5382,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "5105839",
@@ -11465,8 +11621,8 @@
      "prob_market": 0.5023,
      "prob_model": 0.5437,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     },
     {
      "player_id": "5105839",
@@ -11478,8 +11634,8 @@
      "prob_market": 0.4977,
      "prob_model": 0.5395,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 13.0
     },
     {
      "player_id": "5105839",
@@ -11491,8 +11647,8 @@
      "prob_market": 0.5098,
      "prob_model": 0.5664,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 12.0
     },
     {
      "player_id": "5105839",
@@ -11504,8 +11660,8 @@
      "prob_market": 0.4579,
      "prob_model": 0.4788,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     }
    ],
    "players": [
@@ -14338,17 +14494,17 @@
     "abbr": "NY",
     "name": "New York Knicks",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-    "score": "0"
+    "score": "113"
    },
    "away": {
     "id": "11",
     "abbr": "IND",
     "name": "Indiana Pacers",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-    "score": "0"
+    "score": "106"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -14391,9 +14547,9 @@
      ],
      "opp": "NY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "4592829",
@@ -14434,9 +14590,9 @@
      ],
      "opp": "NY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 17,
+     "result": "Tuttu"
     },
     {
      "player_id": "3149673",
@@ -14477,9 +14633,9 @@
      ],
      "opp": "NY",
      "confidence": "Riskli",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "4395712",
@@ -14520,9 +14676,9 @@
      ],
      "opp": "NY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "3062679",
@@ -14563,9 +14719,9 @@
      ],
      "opp": "IND",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 10.0,
+     "actual_min": 39,
+     "result": "Tuttu"
     },
     {
      "player_id": "3149673",
@@ -14606,9 +14762,9 @@
      ],
      "opp": "NY",
      "confidence": "Riskli",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 33,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4278355",
@@ -14649,9 +14805,9 @@
      ],
      "opp": "NY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 9.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4592829",
@@ -14692,9 +14848,9 @@
      ],
      "opp": "NY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 17,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -14711,7 +14867,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.85,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14725,7 +14882,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14739,7 +14897,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14753,7 +14912,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14767,7 +14927,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14781,7 +14942,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14795,7 +14957,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.71,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14809,7 +14972,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14823,7 +14987,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14837,7 +15002,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14851,7 +15017,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.83,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14865,7 +15032,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14879,7 +15047,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.79,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14893,7 +15062,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.48,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14907,7 +15077,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14921,7 +15092,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14935,7 +15107,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14949,7 +15122,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14963,7 +15137,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14977,7 +15152,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.76,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -14991,7 +15167,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -15005,7 +15182,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -15019,7 +15197,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "total",
@@ -15033,7 +15212,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.85,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15047,7 +15227,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.51,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15061,7 +15242,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.74,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15075,7 +15257,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 2.03,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15089,7 +15272,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.34,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15103,7 +15287,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.99,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15117,7 +15302,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.37,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15131,7 +15317,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.72,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15145,7 +15332,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15159,7 +15347,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15173,7 +15362,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15187,7 +15377,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15201,7 +15392,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15215,7 +15407,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 2.02,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15229,7 +15422,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.35,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15243,7 +15437,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.43,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15257,7 +15452,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15271,7 +15467,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.34,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15285,7 +15482,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 2.04,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15299,7 +15497,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.35,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "spread",
@@ -15313,7 +15512,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 2.01,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15327,7 +15527,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15341,7 +15542,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15355,7 +15557,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.95,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15369,7 +15572,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15383,7 +15587,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.9,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15397,7 +15602,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.41,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15411,7 +15617,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.86,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15425,7 +15632,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15439,7 +15647,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15453,7 +15662,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15467,7 +15677,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15481,7 +15692,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15495,7 +15707,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.52,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15509,7 +15722,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.73,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15523,7 +15737,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.43,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15537,7 +15752,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.87,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15551,7 +15767,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15565,7 +15782,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15579,7 +15797,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15593,7 +15812,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15607,7 +15827,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15621,7 +15842,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.8,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15635,7 +15857,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.94,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15649,7 +15872,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15663,7 +15887,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15677,7 +15902,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15691,7 +15917,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15705,7 +15932,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15719,7 +15947,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15733,7 +15962,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15747,7 +15977,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.38,
-     "result": null
+     "result": "Tuttu",
+     "final": "IND 106 – 113 NY"
     },
     {
      "kind": "team_total",
@@ -15761,7 +15992,8 @@
      "model_total": 212.6,
      "model_margin": -0.5,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tutmadı",
+     "final": "IND 106 – 113 NY"
     }
    ],
    "game_bets": [],
@@ -15787,8 +16019,8 @@
      "prob_market": 0.4751,
      "prob_model": 0.5166,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 16.0
     },
     {
      "player_id": "4395712",
@@ -15800,8 +16032,8 @@
      "prob_market": 0.5232,
      "prob_model": 0.5722,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "4395712",
@@ -15813,8 +16045,8 @@
      "prob_market": 0.5541,
      "prob_model": 0.6208,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "4395712",
@@ -15826,8 +16058,8 @@
      "prob_market": 0.5136,
      "prob_model": 0.5741,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 26.0
     },
     {
      "player_id": "4395712",
@@ -15839,8 +16071,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5462,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     },
     {
      "player_id": "4395712",
@@ -15852,8 +16084,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5609,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 24.0
     },
     {
      "player_id": "4395712",
@@ -15865,8 +16097,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5359,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4396909",
@@ -15878,8 +16110,8 @@
      "prob_market": 0.5203,
      "prob_model": 0.678,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4396909",
@@ -15891,8 +16123,8 @@
      "prob_market": 0.4869,
      "prob_model": 0.5621,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "4396909",
@@ -15904,8 +16136,8 @@
      "prob_market": 0.4666,
      "prob_model": 0.6093,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4396909",
@@ -15917,8 +16149,8 @@
      "prob_market": 0.5122,
      "prob_model": 0.6791,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0
     },
     {
      "player_id": "4396909",
@@ -15930,8 +16162,8 @@
      "prob_market": 0.5203,
      "prob_model": 0.6945,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4396909",
@@ -15943,8 +16175,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.6582,
      "edge": 0.002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4396909",
@@ -15956,8 +16188,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5557,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "3133603",
@@ -15969,8 +16201,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5725,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     },
     {
      "player_id": "3133603",
@@ -15982,8 +16214,8 @@
      "prob_market": 0.5601,
      "prob_model": 0.6828,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "3133603",
@@ -15995,8 +16227,8 @@
      "prob_market": 0.5543,
      "prob_model": 0.6767,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "3133603",
@@ -16008,8 +16240,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.6631,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 20.0
     },
     {
      "player_id": "3133603",
@@ -16021,8 +16253,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5903,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 20.0
     },
     {
      "player_id": "3133603",
@@ -16034,8 +16266,8 @@
      "prob_market": 0.4675,
      "prob_model": 0.5769,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     },
     {
      "player_id": "3133603",
@@ -16047,8 +16279,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.6958,
      "edge": 0.0026,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "3149673",
@@ -16060,8 +16292,8 @@
      "prob_market": 0.4812,
      "prob_model": 0.5412,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 25.0
     },
     {
      "player_id": "3149673",
@@ -16073,8 +16305,8 @@
      "prob_market": 0.4696,
      "prob_model": 0.5285,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "3149673",
@@ -16086,8 +16318,8 @@
      "prob_market": 0.5302,
      "prob_model": 0.5985,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "3149673",
@@ -16099,8 +16331,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5232,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 32.0
     },
     {
      "player_id": "3149673",
@@ -16112,8 +16344,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5091,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 31.0
     },
     {
      "player_id": "3149673",
@@ -16125,8 +16357,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.5591,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 26.0
     },
     {
      "player_id": "3149673",
@@ -16138,8 +16370,8 @@
      "prob_market": 0.4554,
      "prob_model": 0.5107,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0
     },
     {
      "player_id": "4278355",
@@ -16151,8 +16383,8 @@
      "prob_market": 0.519,
      "prob_model": 0.5632,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4278355",
@@ -16164,8 +16396,8 @@
      "prob_market": 0.4387,
      "prob_model": 0.509,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "4278355",
@@ -16177,8 +16409,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.5464,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4278355",
@@ -16190,8 +16422,8 @@
      "prob_market": 0.5453,
      "prob_model": 0.6716,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4278355",
@@ -16203,8 +16435,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5446,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "4278355",
@@ -16216,8 +16448,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.5866,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "4278355",
@@ -16229,8 +16461,8 @@
      "prob_market": 0.5,
      "prob_model": 0.511,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4278355",
@@ -16242,8 +16474,8 @@
      "prob_market": 0.4579,
      "prob_model": 0.586,
      "edge": 0.002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "4017837",
@@ -16255,8 +16487,8 @@
      "prob_market": 0.5065,
      "prob_model": 0.604,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4017837",
@@ -16268,8 +16500,8 @@
      "prob_market": 0.5203,
      "prob_model": 0.6633,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 14.0
     },
     {
      "player_id": "4017837",
@@ -16281,8 +16513,8 @@
      "prob_market": 0.4166,
      "prob_model": 0.484,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4017837",
@@ -16294,8 +16526,8 @@
      "prob_market": 0.5144,
      "prob_model": 0.6696,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 25.0
     },
     {
      "player_id": "4017837",
@@ -16307,8 +16539,8 @@
      "prob_market": 0.5212,
      "prob_model": 0.6662,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 24.0
     },
     {
      "player_id": "4017837",
@@ -16320,8 +16552,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6065,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4017837",
@@ -16333,8 +16565,8 @@
      "prob_market": 0.5084,
      "prob_model": 0.669,
      "edge": 0.0022,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     },
     {
      "player_id": "3147657",
@@ -16346,8 +16578,8 @@
      "prob_market": 0.4976,
      "prob_model": 0.6228,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "3147657",
@@ -16359,8 +16591,8 @@
      "prob_market": 0.4462,
      "prob_model": 0.5401,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "3147657",
@@ -16372,8 +16604,8 @@
      "prob_market": 0.4677,
      "prob_model": 0.5145,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0
     },
     {
      "player_id": "3147657",
@@ -16385,8 +16617,8 @@
      "prob_market": 0.5497,
      "prob_model": 0.5534,
      "edge": 0.0,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "3147657",
@@ -16398,8 +16630,8 @@
      "prob_market": 0.496,
      "prob_model": 0.5559,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0
     },
     {
      "player_id": "3147657",
@@ -16411,8 +16643,8 @@
      "prob_market": 0.5187,
      "prob_model": 0.6166,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "3147657",
@@ -16424,8 +16656,8 @@
      "prob_market": 0.5187,
      "prob_model": 0.6221,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "3147657",
@@ -16437,8 +16669,8 @@
      "prob_market": 0.5446,
      "prob_model": 0.6359,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "3934672",
@@ -16450,8 +16682,8 @@
      "prob_market": 0.4848,
      "prob_model": 0.5994,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 22.0
     },
     {
      "player_id": "3934672",
@@ -16463,8 +16695,8 @@
      "prob_market": 0.4058,
      "prob_model": 0.5102,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "3934672",
@@ -16476,8 +16708,8 @@
      "prob_market": 0.5181,
      "prob_model": 0.5539,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "3934672",
@@ -16489,8 +16721,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5931,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 32.0
     },
     {
      "player_id": "3934672",
@@ -16502,8 +16734,8 @@
      "prob_market": 0.4953,
      "prob_model": 0.6244,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 25.0
     },
     {
      "player_id": "3934672",
@@ -16515,8 +16747,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6079,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 29.0
     },
     {
      "player_id": "3934672",
@@ -16528,8 +16760,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5241,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "3062679",
@@ -16541,8 +16773,8 @@
      "prob_market": 0.5473,
      "prob_model": 0.5986,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 11.0
     },
     {
      "player_id": "3062679",
@@ -16554,8 +16786,8 @@
      "prob_market": 0.5428,
      "prob_model": 0.61,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "3062679",
@@ -16567,8 +16799,8 @@
      "prob_market": 0.388,
      "prob_model": 0.4249,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0
     },
     {
      "player_id": "3062679",
@@ -16580,8 +16812,8 @@
      "prob_market": 0.498,
      "prob_model": 0.7067,
      "edge": 0.0029,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 31.0
     },
     {
      "player_id": "3062679",
@@ -16593,8 +16825,8 @@
      "prob_market": 0.5049,
      "prob_model": 0.7362,
      "edge": 0.0032,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 21.0
     },
     {
      "player_id": "3062679",
@@ -16606,8 +16838,8 @@
      "prob_market": 0.4902,
      "prob_model": 0.6948,
      "edge": 0.0029,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 20.0
     },
     {
      "player_id": "3062679",
@@ -16619,8 +16851,8 @@
      "prob_market": 0.5224,
      "prob_model": 0.565,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 21.0
     },
     {
      "player_id": "3914044",
@@ -16632,8 +16864,8 @@
      "prob_market": 0.5,
      "prob_model": 0.602,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 17.0
     },
     {
      "player_id": "3914044",
@@ -16645,8 +16877,8 @@
      "prob_market": 0.5446,
      "prob_model": 0.6924,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "3914044",
@@ -16658,8 +16890,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5359,
      "edge": 0.0008,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0
     },
     {
      "player_id": "3914044",
@@ -16671,8 +16903,8 @@
      "prob_market": 0.519,
      "prob_model": 0.606,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 19.0
     },
     {
      "player_id": "3914044",
@@ -16684,8 +16916,8 @@
      "prob_market": 0.5095,
      "prob_model": 0.6057,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 20.0
     },
     {
      "player_id": "3914044",
@@ -16697,8 +16929,8 @@
      "prob_market": 0.5638,
      "prob_model": 0.6717,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "3136195",
@@ -16710,8 +16942,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.5404,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 30.0
     },
     {
      "player_id": "3136195",
@@ -16723,8 +16955,8 @@
      "prob_market": 0.5216,
      "prob_model": 0.6065,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 13.0
     },
     {
      "player_id": "3136195",
@@ -16736,8 +16968,8 @@
      "prob_market": 0.436,
      "prob_model": 0.5573,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "3136195",
@@ -16749,8 +16981,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5273,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 48.0
     },
     {
      "player_id": "3136195",
@@ -16762,8 +16994,8 @@
      "prob_market": 0.4969,
      "prob_model": 0.5243,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 43.0
     },
     {
      "player_id": "3136195",
@@ -16775,8 +17007,8 @@
      "prob_market": 0.503,
      "prob_model": 0.5185,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 35.0
     },
     {
      "player_id": "3136195",
@@ -16788,8 +17020,8 @@
      "prob_market": 0.4803,
      "prob_model": 0.5872,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 18.0
     }
    ],
    "players": [
@@ -19045,17 +19277,17 @@
     "abbr": "GS",
     "name": "Golden State Warriors",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-    "score": "0"
+    "score": "88"
    },
    "away": {
     "id": "2",
     "abbr": "BOS",
     "name": "Boston Celtics",
     "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-    "score": "0"
+    "score": "87"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NBA",
    "picks": [
@@ -19098,9 +19330,9 @@
      ],
      "opp": "BOS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 38,
+     "result": "Tuttu"
     },
     {
      "player_id": "6589",
@@ -19141,9 +19373,9 @@
      ],
      "opp": "BOS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 9.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5175737",
@@ -19181,9 +19413,9 @@
      "vs": null,
      "opp": "BOS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "4066354",
@@ -19225,9 +19457,9 @@
      ],
      "opp": "GS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 28,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4066436",
@@ -19268,9 +19500,9 @@
      ],
      "opp": "BOS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5175737",
@@ -19308,9 +19540,9 @@
      "vs": null,
      "opp": "BOS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "4997536",
@@ -19351,9 +19583,9 @@
      ],
      "opp": "BOS",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "4433188",
@@ -19395,9 +19627,9 @@
      ],
      "opp": "GS",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     }
    ],
    "all": [],
@@ -19414,7 +19646,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19428,7 +19661,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19442,7 +19676,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19456,7 +19691,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19470,7 +19706,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19484,7 +19721,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.8,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19498,7 +19736,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.75,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19512,7 +19751,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19526,7 +19766,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19540,7 +19781,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19554,7 +19796,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19568,7 +19811,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.72,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19582,7 +19826,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19596,7 +19841,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19610,7 +19856,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.88,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19624,7 +19871,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19638,7 +19886,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19652,7 +19901,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19666,7 +19916,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.4,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "total",
@@ -19680,7 +19931,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.91,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19694,7 +19946,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19708,7 +19961,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19722,7 +19976,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.37,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19736,7 +19991,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.98,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19750,7 +20006,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.35,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19764,7 +20021,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 2.02,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19778,7 +20036,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19792,7 +20051,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19806,7 +20066,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.89,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19820,7 +20081,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.42,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19834,7 +20096,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.76,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19848,7 +20111,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19862,7 +20126,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19876,7 +20141,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.71,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19890,7 +20156,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 2.06,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "spread",
@@ -19904,7 +20171,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.33,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -19918,7 +20186,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -19932,7 +20201,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -19946,7 +20216,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.81,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -19960,7 +20231,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.47,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -19974,7 +20246,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.45,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -19988,7 +20261,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.84,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20002,7 +20276,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20016,7 +20291,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.38,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20030,7 +20306,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20044,7 +20321,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20058,7 +20336,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20072,7 +20351,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.94,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20086,7 +20366,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.93,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20100,7 +20381,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20114,7 +20396,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20128,7 +20411,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20142,7 +20426,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.72,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20156,7 +20441,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.53,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20170,7 +20456,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.5,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20184,7 +20471,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.77,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20198,7 +20486,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.85,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20212,7 +20501,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.44,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20226,7 +20516,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.95,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20240,7 +20531,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20254,7 +20546,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.4,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20268,7 +20561,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.91,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20282,7 +20576,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.39,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BOS 87 – 88 GS"
     },
     {
      "kind": "team_total",
@@ -20296,7 +20591,8 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 1.96,
-     "result": null
+     "result": "Tuttu",
+     "final": "BOS 87 – 88 GS"
     }
    ],
    "game_bets": [
@@ -20312,8 +20608,9 @@
      "model_total": 209.8,
      "model_margin": 6.9,
      "odds_open": 2.06,
-     "result": null,
-     "stake_tl": 0.0
+     "result": "Tuttu",
+     "stake_tl": 0.0,
+     "final": "BOS 87 – 88 GS"
     }
    ],
    "iddaa_total": 209.5,
@@ -20340,8 +20637,8 @@
      "prob_market": 0.4836,
      "prob_model": 0.5972,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0
     },
     {
      "player_id": "4065804",
@@ -20353,8 +20650,8 @@
      "prob_market": 0.5325,
      "prob_model": 0.5619,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 2.0
     },
     {
      "player_id": "4065804",
@@ -20366,8 +20663,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.7183,
      "edge": 0.0035,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4065804",
@@ -20379,8 +20676,8 @@
      "prob_market": 0.481,
      "prob_model": 0.5205,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4066354",
@@ -20392,8 +20689,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6368,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "4066354",
@@ -20405,8 +20702,8 @@
      "prob_market": 0.4154,
      "prob_model": 0.4566,
      "edge": 0.0007,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 1.0
     },
     {
      "player_id": "4066354",
@@ -20418,8 +20715,8 @@
      "prob_market": 0.4405,
      "prob_model": 0.5794,
      "edge": 0.0022,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4066354",
@@ -20431,8 +20728,8 @@
      "prob_market": 0.5249,
      "prob_model": 0.6241,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "4066354",
@@ -20444,8 +20741,8 @@
      "prob_market": 0.5112,
      "prob_model": 0.5778,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4066354",
@@ -20457,8 +20754,8 @@
      "prob_market": 0.4906,
      "prob_model": 0.6021,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "4066354",
@@ -20470,8 +20767,8 @@
      "prob_market": 0.5224,
      "prob_model": 0.6024,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 9.0
     },
     {
      "player_id": "4066354",
@@ -20483,8 +20780,8 @@
      "prob_market": 0.4797,
      "prob_model": 0.5823,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 5.0
     },
     {
      "player_id": "4397424",
@@ -20496,8 +20793,8 @@
      "prob_market": 0.4788,
      "prob_model": 0.556,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "4397424",
@@ -20509,8 +20806,8 @@
      "prob_market": 0.5377,
      "prob_model": 0.5867,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 10.0
     },
     {
      "player_id": "4397424",
@@ -20522,8 +20819,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.5369,
      "edge": 0.0001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "4397424",
@@ -20535,8 +20832,8 @@
      "prob_market": 0.1358,
      "prob_model": 0.317,
      "edge": 0.0093,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 0.0
     },
     {
      "player_id": "4397424",
@@ -20548,8 +20845,8 @@
      "prob_market": 0.489,
      "prob_model": 0.5616,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 20.0
     },
     {
      "player_id": "4397424",
@@ -20561,8 +20858,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.5678,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0
     },
     {
      "player_id": "4397424",
@@ -20574,8 +20871,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.6321,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 10.0
     },
     {
      "player_id": "4397424",
@@ -20587,8 +20884,8 @@
      "prob_market": 0.5148,
      "prob_model": 0.5607,
      "edge": 0.0006,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "4593841",
@@ -20600,8 +20897,8 @@
      "prob_market": 0.4407,
      "prob_model": 0.4675,
      "edge": 0.0004,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4593841",
@@ -20613,8 +20910,8 @@
      "prob_market": 0.4907,
      "prob_model": 0.7149,
      "edge": 0.0032,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "4593841",
@@ -20626,8 +20923,8 @@
      "prob_market": 0.499,
      "prob_model": 0.7172,
      "edge": 0.0031,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0
     },
     {
      "player_id": "4593841",
@@ -20639,8 +20936,8 @@
      "prob_market": 0.5092,
      "prob_model": 0.7476,
      "edge": 0.0033,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "4593841",
@@ -20652,8 +20949,8 @@
      "prob_market": 0.5288,
      "prob_model": 0.6677,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "4065648",
@@ -20665,8 +20962,8 @@
      "prob_market": 0.4911,
      "prob_model": 0.5883,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 27.0
     },
     {
      "player_id": "4065648",
@@ -20678,8 +20975,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6068,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 6.0
     },
     {
      "player_id": "4065648",
@@ -20691,8 +20988,8 @@
      "prob_market": 0.3976,
      "prob_model": 0.4667,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 4.0
     },
     {
      "player_id": "4065648",
@@ -20704,8 +21001,8 @@
      "prob_market": 0.5126,
      "prob_model": 0.6853,
      "edge": 0.0024,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 43.0
     },
     {
      "player_id": "4065648",
@@ -20717,8 +21014,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.6514,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 37.0
     },
     {
      "player_id": "4065648",
@@ -20730,8 +21027,8 @@
      "prob_market": 0.5025,
      "prob_model": 0.6387,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 33.0
     },
     {
      "player_id": "3078576",
@@ -20743,8 +21040,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.6746,
      "edge": 0.0026,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 14.0
     },
     {
      "player_id": "3078576",
@@ -20756,8 +21053,8 @@
      "prob_market": 0.5492,
      "prob_model": 0.6239,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "3078576",
@@ -20769,8 +21066,8 @@
      "prob_market": 0.566,
      "prob_model": 0.6044,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "3078576",
@@ -20782,8 +21079,8 @@
      "prob_market": 0.4995,
      "prob_model": 0.6797,
      "edge": 0.0025,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 22.0
     },
     {
      "player_id": "3078576",
@@ -20795,8 +21092,8 @@
      "prob_market": 0.5127,
      "prob_model": 0.7091,
      "edge": 0.0027,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 17.0
     },
     {
      "player_id": "3078576",
@@ -20808,8 +21105,8 @@
      "prob_market": 0.481,
      "prob_model": 0.6406,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 19.0
     },
     {
      "player_id": "3078576",
@@ -20821,8 +21118,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5877,
      "edge": 0.0012,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "6589",
@@ -20834,8 +21131,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.7176,
      "edge": 0.0033,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0
     },
     {
      "player_id": "6589",
@@ -20847,8 +21144,8 @@
      "prob_market": 0.4799,
      "prob_model": 0.517,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 6.0
     },
     {
      "player_id": "6589",
@@ -20860,8 +21157,8 @@
      "prob_market": 0.4862,
      "prob_model": 0.5188,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "6589",
@@ -20873,8 +21170,8 @@
      "prob_market": 0.4837,
      "prob_model": 0.7108,
      "edge": 0.0033,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "6589",
@@ -20886,8 +21183,8 @@
      "prob_market": 0.4902,
      "prob_model": 0.5576,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 18.0
     },
     {
      "player_id": "6589",
@@ -20899,8 +21196,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.6722,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 15.0
     },
     {
      "player_id": "6589",
@@ -20912,8 +21209,8 @@
      "prob_market": 0.5247,
      "prob_model": 0.6567,
      "edge": 0.0018,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 12.0
     },
     {
      "player_id": "6589",
@@ -20925,8 +21222,8 @@
      "prob_market": 0.4569,
      "prob_model": 0.4691,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0
     },
     {
      "player_id": "5175737",
@@ -20938,8 +21235,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5946,
      "edge": 0.0015,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0
     },
     {
      "player_id": "5175737",
@@ -20951,8 +21248,8 @@
      "prob_market": 0.5315,
      "prob_model": 0.638,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 8.0
     },
     {
      "player_id": "5175737",
@@ -20964,8 +21261,8 @@
      "prob_market": 0.4451,
      "prob_model": 0.5266,
      "edge": 0.0013,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "5175737",
@@ -20977,8 +21274,8 @@
      "prob_market": 0.4072,
      "prob_model": 0.5468,
      "edge": 0.0024,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 1.0
     },
     {
      "player_id": "5175737",
@@ -20990,8 +21287,8 @@
      "prob_market": 0.5156,
      "prob_model": 0.5949,
      "edge": 0.0011,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 23.0
     },
     {
      "player_id": "5175737",
@@ -21003,8 +21300,8 @@
      "prob_market": 0.5194,
      "prob_model": 0.5863,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 20.0
     },
     {
      "player_id": "5175737",
@@ -21016,8 +21313,8 @@
      "prob_market": 0.4803,
      "prob_model": 0.5992,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 15.0
     },
     {
      "player_id": "5175737",
@@ -21029,8 +21326,8 @@
      "prob_market": 0.5306,
      "prob_model": 0.5535,
      "edge": 0.0003,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 11.0
     },
     {
      "player_id": "4066436",
@@ -21042,8 +21339,8 @@
      "prob_market": 0.556,
      "prob_model": 0.5941,
      "edge": 0.0005,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "4066436",
@@ -21055,8 +21352,8 @@
      "prob_market": 0.4625,
      "prob_model": 0.6025,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4066436",
@@ -21068,8 +21365,8 @@
      "prob_market": 0.4669,
      "prob_model": 0.6187,
      "edge": 0.0023,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 0.0
     },
     {
      "player_id": "4066436",
@@ -21081,8 +21378,8 @@
      "prob_market": 0.5,
      "prob_model": 0.7639,
      "edge": 0.0037,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 12.0
     },
     {
      "player_id": "4066436",
@@ -21094,8 +21391,8 @@
      "prob_market": 0.4954,
      "prob_model": 0.7388,
      "edge": 0.0034,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "4066436",
@@ -21107,8 +21404,8 @@
      "prob_market": 0.5497,
      "prob_model": 0.684,
      "edge": 0.0017,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 10.0
     },
     {
      "player_id": "4709138",
@@ -21120,8 +21417,8 @@
      "prob_market": 0.5044,
      "prob_model": 0.6477,
      "edge": 0.002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 18.0
     },
     {
      "player_id": "4709138",
@@ -21133,8 +21430,8 @@
      "prob_market": 0.5202,
      "prob_model": 0.6253,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 7.0
     },
     {
      "player_id": "4709138",
@@ -21146,8 +21443,8 @@
      "prob_market": 0.5063,
      "prob_model": 0.7628,
      "edge": 0.0035,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 27.0
     },
     {
      "player_id": "4709138",
@@ -21159,8 +21456,8 @@
      "prob_market": 0.512,
      "prob_model": 0.6966,
      "edge": 0.0025,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 25.0
     },
     {
      "player_id": "4709138",
@@ -21172,8 +21469,8 @@
      "prob_market": 0.4905,
      "prob_model": 0.7279,
      "edge": 0.0034,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 20.0
     },
     {
      "player_id": "4709138",
@@ -21185,8 +21482,8 @@
      "prob_market": 0.4929,
      "prob_model": 0.7914,
      "edge": 0.0042,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 9.0
     },
     {
      "player_id": "4897262",
@@ -21198,8 +21495,8 @@
      "prob_market": 0.5101,
      "prob_model": 0.581,
      "edge": 0.001,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 3.0
     },
     {
      "player_id": "4897262",
@@ -21211,8 +21508,8 @@
      "prob_market": 0.5046,
      "prob_model": 0.6192,
      "edge": 0.0016,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 2.0
     },
     {
      "player_id": "4897262",
@@ -21224,8 +21521,8 @@
      "prob_market": 0.481,
      "prob_model": 0.6213,
      "edge": 0.002,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 7.0
     },
     {
      "player_id": "4897262",
@@ -21237,8 +21534,8 @@
      "prob_market": 0.5215,
      "prob_model": 0.6233,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tuttu",
+     "actual": 5.0
     },
     {
      "player_id": "4897262",
@@ -21250,8 +21547,8 @@
      "prob_market": 0.4675,
      "prob_model": 0.6048,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 4.0
     },
     {
      "player_id": "4997536",
@@ -21263,8 +21560,8 @@
      "prob_market": 0.4721,
      "prob_model": 0.6021,
      "edge": 0.0019,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 13.0
     },
     {
      "player_id": "4997536",
@@ -21276,8 +21573,8 @@
      "prob_market": 0.6108,
      "prob_model": 0.6931,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4997536",
@@ -21289,8 +21586,8 @@
      "prob_market": 0.455,
      "prob_model": 0.6462,
      "edge": 0.0029,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 3.0
     },
     {
      "player_id": "4997536",
@@ -21302,8 +21599,8 @@
      "prob_market": 0.5123,
      "prob_model": 0.6158,
      "edge": 0.0014,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 21.0
     },
     {
      "player_id": "4997536",
@@ -21315,8 +21612,8 @@
      "prob_market": 0.4817,
      "prob_model": 0.5442,
      "edge": 0.0009,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 18.0
     },
     {
      "player_id": "4997536",
@@ -21328,8 +21625,8 @@
      "prob_market": 0.5203,
      "prob_model": 0.6757,
      "edge": 0.0021,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 16.0
     },
     {
      "player_id": "4997536",
@@ -21341,8 +21638,8 @@
      "prob_market": 0.5541,
      "prob_model": 0.5711,
      "edge": 0.0002,
-     "result": null,
-     "actual": null
+     "result": "Tutmadı",
+     "actual": 8.0
     }
    ],
    "players": [
@@ -29947,8 +30244,8 @@
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
     "score": "0"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NFL",
    "picks": [],
@@ -31365,8 +31662,8 @@
      "stake_tl": 18.0,
      "expected": 0.4,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -31414,8 +31711,8 @@
      "stake_tl": 18.0,
      "expected": 5.4,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 7.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -31463,8 +31760,8 @@
      "stake_tl": 18.0,
      "expected": 60.7,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 86.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -31512,8 +31809,8 @@
      "stake_tl": 10.0,
      "expected": 4.1,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 6.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -31561,8 +31858,8 @@
      "stake_tl": 8.0,
      "expected": 258.0,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 235.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -31613,8 +31910,8 @@
      "stake_tl": 7.0,
      "expected": 60.0,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 109.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -31653,8 +31950,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6431,
      "edge": 0.095,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 235.0,
      "season": 2026
     },
     {
@@ -31667,8 +31964,8 @@
      "prob_market": 0.4812,
      "prob_model": 0.5164,
      "edge": 0.0243,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -31681,8 +31978,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5586,
      "edge": 0.0389,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 38.0,
      "season": 2026
     },
     {
@@ -31695,8 +31992,8 @@
      "prob_market": 0.3616,
      "prob_model": 0.6789,
      "edge": 0.2913,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -31709,8 +32006,8 @@
      "prob_market": 0.2871,
      "prob_model": 0.2907,
      "edge": 0.0042,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -31723,8 +32020,8 @@
      "prob_market": 0.4107,
      "prob_model": 0.442,
      "edge": 0.0253,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -31737,8 +32034,8 @@
      "prob_market": 0.5043,
      "prob_model": 0.5523,
      "edge": 0.0316,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 13.0,
      "season": 2026
     },
     {
@@ -31751,8 +32048,8 @@
      "prob_market": 0.6622,
      "prob_model": 0.7702,
      "edge": 0.0541,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -31765,8 +32062,8 @@
      "prob_market": 0.5467,
      "prob_model": 0.8083,
      "edge": 0.1589,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 7.0,
      "season": 2026
     },
     {
@@ -31779,8 +32076,8 @@
      "prob_market": 0.5,
      "prob_model": 0.7429,
      "edge": 0.1613,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 86.0,
      "season": 2026
     },
     {
@@ -31793,8 +32090,8 @@
      "prob_market": 0.5715,
      "prob_model": 0.7097,
      "edge": 0.0803,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -31807,8 +32104,8 @@
      "prob_market": 0.4561,
      "prob_model": 0.6252,
      "edge": 0.1231,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 6.0,
      "season": 2026
     },
     {
@@ -31821,8 +32118,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5501,
      "edge": 0.0333,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 55.0,
      "season": 2026
     },
     {
@@ -31835,8 +32132,8 @@
      "prob_market": 0.7028,
      "prob_model": 0.7644,
      "edge": 0.0291,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -31849,8 +32146,8 @@
      "prob_market": 0.6429,
      "prob_model": 0.6593,
      "edge": 0.0085,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -31863,8 +32160,8 @@
      "prob_market": 0.4955,
      "prob_model": 0.5387,
      "edge": 0.0289,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 20.0,
      "season": 2026
     },
     {
@@ -31877,8 +32174,8 @@
      "prob_market": 0.5,
      "prob_model": 0.5827,
      "edge": 0.0549,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 255.0,
      "season": 2026
     },
     {
@@ -31891,8 +32188,8 @@
      "prob_market": 0.4848,
      "prob_model": 0.5164,
      "edge": 0.0216,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 3.0,
      "season": 2026
     },
     {
@@ -31905,8 +32202,8 @@
      "prob_market": 0.4979,
      "prob_model": 0.6129,
      "edge": 0.0767,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 49.0,
      "season": 2026
     },
     {
@@ -31919,8 +32216,8 @@
      "prob_market": 0.5482,
      "prob_model": 0.5833,
      "edge": 0.0213,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -31933,8 +32230,8 @@
      "prob_market": 0.4899,
      "prob_model": 0.5247,
      "edge": 0.0236,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -31947,8 +32244,8 @@
      "prob_market": 0.214,
      "prob_model": 0.2432,
      "edge": 0.0453,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -31961,8 +32258,8 @@
      "prob_market": 0.443,
      "prob_model": 0.4736,
      "edge": 0.023,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 3.0,
      "season": 2026
     },
     {
@@ -31975,8 +32272,8 @@
      "prob_market": 0.4856,
      "prob_model": 0.5268,
      "edge": 0.0282,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 34.0,
      "season": 2026
     },
     {
@@ -31989,8 +32286,8 @@
      "prob_market": 0.3367,
      "prob_model": 0.3909,
      "edge": 0.0534,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -32003,8 +32300,8 @@
      "prob_market": 0.5227,
      "prob_model": 0.5602,
      "edge": 0.0238,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 6.0,
      "season": 2026
     },
     {
@@ -32017,8 +32314,8 @@
      "prob_market": 0.5015,
      "prob_model": 0.6359,
      "edge": 0.089,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 109.0,
      "season": 2026
     },
     {
@@ -32031,8 +32328,8 @@
      "prob_market": 0.6801,
      "prob_model": 0.7208,
      "edge": 0.0199,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -32045,8 +32342,8 @@
      "prob_market": 0.7823,
      "prob_model": 0.8149,
      "edge": 0.0138,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     }
    ],
