@@ -7512,17 +7512,17 @@
     "abbr": "MSU",
     "name": "Michigan State Spartans",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-    "score": "0"
+    "score": "70"
    },
    "away": {
     "id": "8",
     "abbr": "ARK",
     "name": "Arkansas Razorbacks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
-    "score": "0"
+    "score": "67"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -7560,9 +7560,9 @@
      "vs": null,
      "opp": "MSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 34,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5142729",
@@ -7593,9 +7593,9 @@
      "vs": null,
      "opp": "MSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 36,
+     "result": "Tuttu"
     },
     {
      "player_id": "5210837",
@@ -7627,9 +7627,9 @@
      "vs": null,
      "opp": "ARK",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 15,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5101798",
@@ -7668,9 +7668,9 @@
      ],
      "opp": "ARK",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 17,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4711255",
@@ -7709,9 +7709,9 @@
      ],
      "opp": "ARK",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 10.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "4872740",
@@ -7750,9 +7750,9 @@
      ],
      "opp": "ARK",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 14.0,
+     "actual_min": 30,
+     "result": "Tuttu"
     },
     {
      "player_id": "4711255",
@@ -7791,9 +7791,9 @@
      ],
      "opp": "ARK",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 20.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176136",
@@ -7829,9 +7829,9 @@
      "vs": null,
      "opp": "MSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -7848,7 +7848,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7862,7 +7863,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7876,7 +7878,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7890,7 +7893,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7904,7 +7908,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7918,7 +7923,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7932,7 +7938,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "total",
@@ -7946,7 +7953,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "spread",
@@ -7960,7 +7968,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "spread",
@@ -7974,7 +7983,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "spread",
@@ -7988,7 +7998,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ARK 67 – 70 MSU"
     },
     {
      "kind": "spread",
@@ -8002,7 +8013,8 @@
      "model_total": 149.6,
      "model_margin": 3.0,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tuttu",
+     "final": "ARK 67 – 70 MSU"
     }
    ],
    "game_bets": [],
@@ -8914,17 +8926,17 @@
     "abbr": "USU",
     "name": "Utah State Aggies",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
-    "score": "0"
+    "score": "78"
    },
    "away": {
     "id": "30",
     "abbr": "USC",
     "name": "USC Trojans",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-    "score": "0"
+    "score": "74"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -8962,9 +8974,9 @@
      "vs": null,
      "opp": "USU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 9,
+     "result": "Tuttu"
     },
     {
      "player_id": "5152734",
@@ -8996,9 +9008,9 @@
      "vs": null,
      "opp": "USC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 29,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5105464",
@@ -9034,9 +9046,9 @@
      "vs": null,
      "opp": "USC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 37,
+     "result": "Tuttu"
     },
     {
      "player_id": "5241409",
@@ -9072,9 +9084,9 @@
      "vs": null,
      "opp": "USC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5177215",
@@ -9110,9 +9122,9 @@
      "vs": null,
      "opp": "USC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 25,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176273",
@@ -9148,9 +9160,9 @@
      "vs": null,
      "opp": "USC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "5241409",
@@ -9186,9 +9198,9 @@
      "vs": null,
      "opp": "USC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4684634",
@@ -9224,9 +9236,9 @@
      "vs": null,
      "opp": "USU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 36,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -9243,7 +9255,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9257,7 +9270,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9271,7 +9285,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9285,7 +9300,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9299,7 +9315,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9313,7 +9330,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9327,7 +9345,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9341,7 +9360,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9355,7 +9375,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9369,7 +9390,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9383,7 +9405,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9397,7 +9420,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9411,7 +9435,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9425,7 +9450,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9439,7 +9465,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9453,7 +9480,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9467,7 +9495,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "total",
@@ -9481,7 +9510,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "spread",
@@ -9495,7 +9525,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "spread",
@@ -9509,7 +9540,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "spread",
@@ -9523,7 +9555,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "spread",
@@ -9537,7 +9570,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "spread",
@@ -9551,7 +9585,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "USC 74 – 78 USU"
     },
     {
      "kind": "spread",
@@ -9565,7 +9600,8 @@
      "model_total": 157.4,
      "model_margin": 2.8,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "USC 74 – 78 USU"
     }
    ],
    "game_bets": [],
@@ -10386,17 +10422,17 @@
     "abbr": "UCLA",
     "name": "UCLA Bruins",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-    "score": "0"
+    "score": "85"
    },
    "away": {
     "id": "2608",
     "abbr": "SMC",
     "name": "Saint Mary's Gaels",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
-    "score": "0"
+    "score": "70"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -10434,9 +10470,9 @@
      "vs": null,
      "opp": "SMC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 36,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5369499",
@@ -10468,9 +10504,9 @@
      "vs": null,
      "opp": "SMC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5183875",
@@ -10506,9 +10542,9 @@
      "vs": null,
      "opp": "UCLA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 38,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313030",
@@ -10544,9 +10580,9 @@
      "vs": null,
      "opp": "UCLA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 40,
+     "result": "Tuttu"
     },
     {
      "player_id": "5060706",
@@ -10582,9 +10618,9 @@
      "vs": null,
      "opp": "SMC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 25,
+     "result": "Tuttu"
     },
     {
      "player_id": "5221321",
@@ -10620,9 +10656,9 @@
      "vs": null,
      "opp": "SMC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 36,
+     "result": "Tuttu"
     },
     {
      "player_id": "5210403",
@@ -10655,9 +10691,9 @@
      "vs": null,
      "opp": "UCLA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 30,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5311969",
@@ -10693,9 +10729,9 @@
      "vs": null,
      "opp": "UCLA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 37,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -10712,7 +10748,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10726,7 +10763,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10740,7 +10778,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10754,7 +10793,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10768,7 +10808,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10782,7 +10823,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10796,7 +10838,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "total",
@@ -10810,7 +10853,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "spread",
@@ -10824,7 +10868,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMC 70 – 85 UCLA"
     },
     {
      "kind": "spread",
@@ -10838,7 +10883,8 @@
      "model_total": 156.6,
      "model_margin": 8.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMC 70 – 85 UCLA"
     }
    ],
    "game_bets": [],
@@ -11656,17 +11702,17 @@
     "abbr": "CREI",
     "name": "Creighton Bluejays",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
-    "score": "0"
+    "score": "95"
    },
    "away": {
     "id": "2628",
     "abbr": "TCU",
     "name": "TCU Horned Frogs",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
-    "score": "0"
+    "score": "87"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -11704,9 +11750,9 @@
      "vs": null,
      "opp": "CREI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 27,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5144380",
@@ -11742,9 +11788,9 @@
      "vs": null,
      "opp": "TCU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 34,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5142717",
@@ -11776,9 +11822,9 @@
      "vs": null,
      "opp": "TCU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 15,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4917097",
@@ -11814,9 +11860,9 @@
      "vs": null,
      "opp": "CREI",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 11,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5196921",
@@ -11852,9 +11898,9 @@
      "vs": null,
      "opp": "CREI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176241",
@@ -11890,9 +11936,9 @@
      "vs": null,
      "opp": "TCU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "5103589",
@@ -11928,9 +11974,9 @@
      "vs": null,
      "opp": "CREI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 10.0,
+     "actual_min": 38,
+     "result": "Tuttu"
     },
     {
      "player_id": "5105461",
@@ -11966,9 +12012,9 @@
      "vs": null,
      "opp": "CREI",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 12.0,
+     "actual_min": 28,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -11985,7 +12031,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -11999,7 +12046,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12013,7 +12061,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12027,7 +12076,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12041,7 +12091,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12055,7 +12106,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12069,7 +12121,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12083,7 +12136,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12097,7 +12151,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "total",
@@ -12111,7 +12166,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "spread",
@@ -12125,7 +12181,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "spread",
@@ -12139,7 +12196,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "spread",
@@ -12153,7 +12211,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TCU 87 – 95 CREI"
     },
     {
      "kind": "spread",
@@ -12167,7 +12226,8 @@
      "model_total": 155.9,
      "model_margin": 1.6,
      "odds_open": 1.69,
-     "result": null
+     "result": "Tuttu",
+     "final": "TCU 87 – 95 CREI"
     }
    ],
    "game_bets": [],
@@ -13088,17 +13148,17 @@
     "abbr": "LSU",
     "name": "LSU Tigers",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-    "score": "0"
+    "score": "86"
    },
    "away": {
     "id": "2567",
     "abbr": "SMU",
     "name": "SMU Mustangs",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
-    "score": "0"
+    "score": "95"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -13133,9 +13193,9 @@
      "vs": null,
      "opp": "SMU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5174959",
@@ -13171,9 +13231,9 @@
      "vs": null,
      "opp": "SMU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 29,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4895780",
@@ -13209,9 +13269,9 @@
      "vs": null,
      "opp": "SMU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5105794",
@@ -13247,9 +13307,9 @@
      "vs": null,
      "opp": "SMU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5105642",
@@ -13285,9 +13345,9 @@
      "vs": null,
      "opp": "LSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 43,
+     "result": "Tuttu"
     },
     {
      "player_id": "5105642",
@@ -13323,9 +13383,9 @@
      "vs": null,
      "opp": "LSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 43,
+     "result": "Tuttu"
     },
     {
      "player_id": "5101840",
@@ -13364,9 +13424,9 @@
      ],
      "opp": "LSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 17.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5281137",
@@ -13399,9 +13459,9 @@
      "vs": null,
      "opp": "SMU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -13418,7 +13478,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13432,7 +13493,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13446,7 +13508,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13460,7 +13523,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13474,7 +13538,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13488,7 +13553,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13502,7 +13568,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13516,7 +13583,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13530,7 +13598,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13544,7 +13613,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13558,7 +13628,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "total",
@@ -13572,7 +13643,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13586,7 +13658,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13600,7 +13673,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13614,7 +13688,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13628,7 +13703,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13642,7 +13718,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13656,7 +13733,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13670,7 +13748,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "SMU 95 – 86 LSU"
     },
     {
      "kind": "spread",
@@ -13684,7 +13763,8 @@
      "model_total": 154.7,
      "model_margin": 3.2,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "SMU 95 – 86 LSU"
     }
    ],
    "game_bets": [],
@@ -14491,17 +14571,17 @@
     "abbr": "PITT",
     "name": "Pittsburgh Panthers",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
-    "score": "0"
+    "score": "71"
    },
    "away": {
     "id": "305",
     "abbr": "DEP",
     "name": "DePaul Blue Demons",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/305.png",
-    "score": "0"
+    "score": "64"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -14542,9 +14622,9 @@
      ],
      "opp": "DEP",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313085",
@@ -14580,9 +14660,9 @@
      "vs": null,
      "opp": "DEP",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5311901",
@@ -14618,9 +14698,9 @@
      "vs": null,
      "opp": "PITT",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 37,
+     "result": "Tuttu"
     },
     {
      "player_id": "5176333",
@@ -14656,9 +14736,9 @@
      "vs": null,
      "opp": "PITT",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 27,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5174557",
@@ -14694,9 +14774,9 @@
      "vs": null,
      "opp": "DEP",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 25,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4845358",
@@ -14732,9 +14812,9 @@
      "vs": null,
      "opp": "PITT",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "5101669",
@@ -14770,9 +14850,9 @@
      "vs": null,
      "opp": "DEP",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 39,
+     "result": "Tuttu"
     },
     {
      "player_id": "5254161",
@@ -14808,9 +14888,9 @@
      "vs": null,
      "opp": "PITT",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 16,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -14827,7 +14907,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "total",
@@ -14841,7 +14922,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "total",
@@ -14855,7 +14937,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "total",
@@ -14869,7 +14952,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "total",
@@ -14883,7 +14967,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "total",
@@ -14897,7 +14982,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "spread",
@@ -14911,7 +14997,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.7,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "spread",
@@ -14925,7 +15012,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.55,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "spread",
@@ -14939,7 +15027,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.54,
-     "result": null
+     "result": "Tuttu",
+     "final": "DEP 64 – 71 PITT"
     },
     {
      "kind": "spread",
@@ -14953,7 +15042,8 @@
      "model_total": 146.1,
      "model_margin": 0.5,
      "odds_open": 1.71,
-     "result": null
+     "result": "Tutmadı",
+     "final": "DEP 64 – 71 PITT"
     }
    ],
    "game_bets": [],
@@ -16017,17 +16107,17 @@
     "abbr": "UCD",
     "name": "UC Davis Aggies",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
-    "score": "0"
+    "score": "63"
    },
    "away": {
     "id": "55",
     "abbr": "JXST",
     "name": "Jacksonville State Gamecocks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
-    "score": "0"
+    "score": "68"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -16065,9 +16155,9 @@
      "vs": null,
      "opp": "UCD",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 34,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5241920",
@@ -16103,9 +16193,9 @@
      "vs": null,
      "opp": "JXST",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 31,
+     "result": "Tuttu"
     },
     {
      "player_id": "4869766",
@@ -16141,9 +16231,9 @@
      "vs": null,
      "opp": "UCD",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 24,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4869766",
@@ -16179,9 +16269,9 @@
      "vs": null,
      "opp": "UCD",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 24,
+     "result": "Tuttu"
     },
     {
      "player_id": "4683768",
@@ -16217,9 +16307,9 @@
      "vs": null,
      "opp": "UCD",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5176386",
@@ -16255,9 +16345,9 @@
      "vs": null,
      "opp": "JXST",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "4683768",
@@ -16293,9 +16383,9 @@
      "vs": null,
      "opp": "UCD",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 5.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313917",
@@ -16331,9 +16421,9 @@
      "vs": null,
      "opp": "UCD",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 30,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -16350,7 +16440,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16364,7 +16455,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16378,7 +16470,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16392,7 +16485,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16406,7 +16500,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16420,7 +16515,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16434,7 +16530,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "total",
@@ -16448,7 +16545,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "spread",
@@ -16462,7 +16560,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "spread",
@@ -16476,7 +16575,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "spread",
@@ -16490,7 +16590,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "spread",
@@ -16504,7 +16605,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "spread",
@@ -16518,7 +16620,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tutmadı",
+     "final": "JXST 68 – 63 UCD"
     },
     {
      "kind": "spread",
@@ -16532,7 +16635,8 @@
      "model_total": 147.4,
      "model_margin": 5.7,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tuttu",
+     "final": "JXST 68 – 63 UCD"
     }
    ],
    "game_bets": [],
@@ -17353,17 +17457,17 @@
     "abbr": "SJU",
     "name": "St. John's Red Storm",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
-    "score": "0"
+    "score": "90"
    },
    "away": {
     "id": "97",
     "abbr": "LOU",
     "name": "Louisville Cardinals",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-    "score": "0"
+    "score": "93"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -17401,9 +17505,9 @@
      "vs": null,
      "opp": "SJU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 22,
+     "result": "Tuttu"
     },
     {
      "player_id": "5095152",
@@ -17442,9 +17546,9 @@
      ],
      "opp": "LOU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 15,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4873145",
@@ -17483,9 +17587,9 @@
      ],
      "opp": "LOU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5242127",
@@ -17521,9 +17625,9 @@
      "vs": null,
      "opp": "SJU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 34,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4845361",
@@ -17559,9 +17663,9 @@
      "vs": null,
      "opp": "SJU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5177211",
@@ -17597,9 +17701,9 @@
      "vs": null,
      "opp": "SJU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5075625",
@@ -17635,9 +17739,9 @@
      "vs": null,
      "opp": "LOU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 10.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "4845361",
@@ -17673,9 +17777,9 @@
      "vs": null,
      "opp": "SJU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -17692,7 +17796,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17706,7 +17811,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17720,7 +17826,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17734,7 +17841,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17748,7 +17856,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17762,7 +17871,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17776,7 +17886,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17790,7 +17901,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17804,7 +17916,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "total",
@@ -17818,7 +17931,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17832,7 +17946,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17846,7 +17961,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17860,7 +17976,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17874,7 +17991,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17888,7 +18006,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17902,7 +18021,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17916,7 +18036,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tuttu",
+     "final": "LOU 93 – 90 SJU"
     },
     {
      "kind": "spread",
@@ -17930,7 +18051,8 @@
      "model_total": 155.5,
      "model_margin": 6.4,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "LOU 93 – 90 SJU"
     }
    ],
    "game_bets": [],
@@ -18971,17 +19093,17 @@
     "abbr": "KSU",
     "name": "Kansas State Wildcats",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
-    "score": "0"
+    "score": "91"
    },
    "away": {
     "id": "333",
     "abbr": "ALA",
     "name": "Alabama Crimson Tide",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
-    "score": "0"
+    "score": "104"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -19021,9 +19143,9 @@
      "vs": null,
      "opp": "ALA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 35,
+     "result": "Tutmadı"
     },
     {
      "player_id": "4684276",
@@ -19061,9 +19183,9 @@
      "vs": null,
      "opp": "KSU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 24,
+     "result": "Tuttu"
     },
     {
      "player_id": "4712846",
@@ -19101,9 +19223,9 @@
      "vs": null,
      "opp": "ALA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5093403",
@@ -19139,9 +19261,9 @@
      "vs": null,
      "opp": "ALA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 28,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5101833",
@@ -19179,9 +19301,9 @@
      "vs": null,
      "opp": "KSU",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "5103590",
@@ -19219,9 +19341,9 @@
      "vs": null,
      "opp": "ALA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 33,
+     "result": "Tuttu"
     },
     {
      "player_id": "5281366",
@@ -19257,9 +19379,9 @@
      "vs": null,
      "opp": "ALA",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 23,
+     "result": "Tuttu"
     },
     {
      "player_id": "4684276",
@@ -19297,9 +19419,9 @@
      "vs": null,
      "opp": "KSU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 24,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -19316,7 +19438,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "total",
@@ -19330,7 +19453,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "total",
@@ -19344,7 +19468,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tuttu",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "total",
@@ -19358,7 +19483,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "spread",
@@ -19372,7 +19498,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "spread",
@@ -19386,7 +19513,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "spread",
@@ -19400,7 +19528,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "spread",
@@ -19414,7 +19543,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "spread",
@@ -19428,7 +19558,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "ALA 104 – 91 KSU"
     },
     {
      "kind": "spread",
@@ -19442,7 +19573,8 @@
      "model_total": 157.4,
      "model_margin": -1.0,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "ALA 104 – 91 KSU"
     }
    ],
    "game_bets": [],
@@ -19914,17 +20046,17 @@
     "abbr": "OMA",
     "name": "Omaha Mavericks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png",
-    "score": "0"
+    "score": "62"
    },
    "away": {
     "id": "279",
     "abbr": "PAC",
     "name": "Pacific Tigers",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/279.png",
-    "score": "0"
+    "score": "71"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -19962,9 +20094,9 @@
      "vs": null,
      "opp": "PAC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 7.0,
+     "actual_min": 34,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313362",
@@ -20000,9 +20132,9 @@
      "vs": null,
      "opp": "PAC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 1.0,
+     "actual_min": 19,
+     "result": "Tuttu"
     },
     {
      "player_id": "5177349",
@@ -20035,9 +20167,9 @@
      "vs": null,
      "opp": "PAC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 25,
+     "result": "Tuttu"
     },
     {
      "player_id": "5461713",
@@ -20070,9 +20202,9 @@
      "vs": null,
      "opp": "PAC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 30,
+     "result": "Tuttu"
     },
     {
      "player_id": "5177116",
@@ -20108,9 +20240,9 @@
      "vs": null,
      "opp": "OMA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 31,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313563",
@@ -20146,9 +20278,9 @@
      "vs": null,
      "opp": "OMA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 9.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     },
     {
      "player_id": "5239573",
@@ -20184,9 +20316,9 @@
      "vs": null,
      "opp": "PAC",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 30,
+     "result": "Tuttu"
     },
     {
      "player_id": "5313563",
@@ -20222,9 +20354,9 @@
      "vs": null,
      "opp": "OMA",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 6.0,
+     "actual_min": 35,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -20241,7 +20373,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "total",
@@ -20255,7 +20388,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "total",
@@ -20269,7 +20403,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "total",
@@ -20283,7 +20418,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "spread",
@@ -20297,7 +20433,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tuttu",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "spread",
@@ -20311,7 +20448,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "spread",
@@ -20325,7 +20463,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "spread",
@@ -20339,7 +20478,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "spread",
@@ -20353,7 +20493,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "PAC 71 – 62 OMA"
     },
     {
      "kind": "spread",
@@ -20367,7 +20508,8 @@
      "model_total": 147.8,
      "model_margin": -5.5,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "PAC 71 – 62 OMA"
     }
    ],
    "game_bets": [],
@@ -21321,17 +21463,17 @@
     "abbr": "ORE",
     "name": "Oregon Ducks",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
-    "score": "0"
+    "score": "59"
    },
    "away": {
     "id": "2641",
     "abbr": "TTU",
     "name": "Texas Tech Red Raiders",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
-    "score": "0"
+    "score": "62"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -21369,9 +21511,9 @@
      "vs": null,
      "opp": "ORE",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 20,
+     "result": "Tuttu"
     },
     {
      "player_id": "4937074",
@@ -21407,9 +21549,9 @@
      "vs": null,
      "opp": "ORE",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 2.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5037875",
@@ -21447,9 +21589,9 @@
      "vs": null,
      "opp": "TTU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5243127",
@@ -21485,9 +21627,9 @@
      "vs": null,
      "opp": "ORE",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 20,
+     "result": "Tuttu"
     },
     {
      "player_id": "5107355",
@@ -21523,9 +21665,9 @@
      "vs": null,
      "opp": "ORE",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 37,
+     "result": "Tuttu"
     },
     {
      "player_id": "5037875",
@@ -21563,9 +21705,9 @@
      "vs": null,
      "opp": "TTU",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0,
+     "actual_min": 0,
+     "result": "İade"
     },
     {
      "player_id": "5107198",
@@ -21603,9 +21745,9 @@
      "vs": null,
      "opp": "ORE",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 38,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5241667",
@@ -21641,9 +21783,9 @@
      "vs": null,
      "opp": "ORE",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 11.0,
+     "actual_min": 32,
+     "result": "Tuttu"
     }
    ],
    "all": [],
@@ -21660,7 +21802,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "total",
@@ -21674,7 +21817,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tuttu",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "total",
@@ -21688,7 +21832,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "total",
@@ -21702,7 +21847,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "total",
@@ -21716,7 +21862,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "total",
@@ -21730,7 +21877,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tuttu",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "spread",
@@ -21744,7 +21892,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "spread",
@@ -21758,7 +21907,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tuttu",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "spread",
@@ -21772,7 +21922,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.67,
-     "result": null
+     "result": "Tutmadı",
+     "final": "TTU 62 – 59 ORE"
     },
     {
      "kind": "spread",
@@ -21786,7 +21937,8 @@
      "model_total": 150.3,
      "model_margin": -1.4,
      "odds_open": 1.57,
-     "result": null
+     "result": "Tuttu",
+     "final": "TTU 62 – 59 ORE"
     }
    ],
    "game_bets": [],
@@ -22635,17 +22787,17 @@
     "abbr": "GONZ",
     "name": "Gonzaga Bulldogs",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-    "score": "0"
+    "score": "72"
    },
    "away": {
     "id": "239",
     "abbr": "BAY",
     "name": "Baylor Bears",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
-    "score": "0"
+    "score": "64"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NCAAB",
    "picks": [
@@ -22683,9 +22835,9 @@
      "vs": null,
      "opp": "GONZ",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 0.0,
+     "actual_min": 22,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5144108",
@@ -22721,9 +22873,9 @@
      "vs": null,
      "opp": "GONZ",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 25,
+     "result": "Tuttu"
     },
     {
      "player_id": "5196913",
@@ -22759,9 +22911,9 @@
      "vs": null,
      "opp": "BAY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 3.0,
+     "actual_min": 29,
+     "result": "Tuttu"
     },
     {
      "player_id": "5144473",
@@ -22793,9 +22945,9 @@
      "vs": null,
      "opp": "GONZ",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 9.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5167829",
@@ -22825,9 +22977,9 @@
      "vs": null,
      "opp": "BAY",
      "confidence": "Orta Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 17.0,
+     "actual_min": 27,
+     "result": "Tuttu"
     },
     {
      "player_id": "5107169",
@@ -22863,9 +23015,9 @@
      "vs": null,
      "opp": "BAY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 4.0,
+     "actual_min": 24,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5311903",
@@ -22904,9 +23056,9 @@
      ],
      "opp": "BAY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 10.0,
+     "actual_min": 20,
+     "result": "Tutmadı"
     },
     {
      "player_id": "5107169",
@@ -22942,9 +23094,9 @@
      "vs": null,
      "opp": "BAY",
      "confidence": "Yüksek Güven",
-     "actual": null,
-     "actual_min": null,
-     "result": null
+     "actual": 8.0,
+     "actual_min": 24,
+     "result": "Tutmadı"
     }
    ],
    "all": [],
@@ -22961,7 +23113,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.65,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -22975,7 +23128,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.59,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -22989,7 +23143,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23003,7 +23158,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23017,7 +23173,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.64,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23031,7 +23188,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.6,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23045,7 +23203,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23059,7 +23218,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23073,7 +23233,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23087,7 +23248,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23101,7 +23263,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.63,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23115,7 +23278,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.61,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23129,7 +23293,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "total",
@@ -23143,7 +23308,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.62,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "spread",
@@ -23157,7 +23323,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.56,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "spread",
@@ -23171,7 +23338,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.68,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "spread",
@@ -23185,7 +23353,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.66,
-     "result": null
+     "result": "Tutmadı",
+     "final": "BAY 64 – 72 GONZ"
     },
     {
      "kind": "spread",
@@ -23199,7 +23368,8 @@
      "model_total": 152.5,
      "model_margin": 0.3,
      "odds_open": 1.58,
-     "result": null
+     "result": "Tuttu",
+     "final": "BAY 64 – 72 GONZ"
     }
    ],
    "game_bets": [],
@@ -24092,8 +24262,8 @@
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
     "score": "0"
    },
-   "state": "pre",
-   "completed": false,
+   "state": "post",
+   "completed": true,
    "season_type": 2,
    "league": "NFL",
    "picks": [],
@@ -25490,8 +25660,8 @@
      "stake_tl": 22.0,
      "expected": 2.8,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 4.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -25539,8 +25709,8 @@
      "stake_tl": 15.0,
      "expected": 261.2,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 174.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -25591,8 +25761,8 @@
      "stake_tl": 12.0,
      "expected": 3.1,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -25643,8 +25813,8 @@
      "stake_tl": 12.0,
      "expected": 0.6,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026,
      "d": {
       "dist": "nb",
@@ -25692,8 +25862,8 @@
      "stake_tl": 0.0,
      "expected": 241.7,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 81.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -25744,8 +25914,8 @@
      "stake_tl": 0.0,
      "expected": 103.5,
      "proj_min": 0,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 117.0,
      "season": 2026,
      "d": {
       "dist": "normal",
@@ -25787,8 +25957,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6727,
      "edge": 0.1008,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 174.0,
      "season": 2026
     },
     {
@@ -25801,8 +25971,8 @@
      "prob_market": 0.4554,
      "prob_model": 0.6843,
      "edge": 0.1468,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 4.0,
      "season": 2026
     },
     {
@@ -25815,8 +25985,8 @@
      "prob_market": 0.5052,
      "prob_model": 0.571,
      "edge": 0.038,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 24.0,
      "season": 2026
     },
     {
@@ -25829,8 +25999,8 @@
      "prob_market": 0.3986,
      "prob_model": 0.5528,
      "edge": 0.1129,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -25843,8 +26013,8 @@
      "prob_market": 0.4452,
      "prob_model": 0.5136,
      "edge": 0.0449,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -25857,8 +26027,8 @@
      "prob_market": 0.5031,
      "prob_model": 0.5524,
      "edge": 0.0286,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 19.0,
      "season": 2026
     },
     {
@@ -25871,8 +26041,8 @@
      "prob_market": 0.7226,
      "prob_model": 0.7717,
      "edge": 0.0198,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -25885,8 +26055,8 @@
      "prob_market": 0.5942,
      "prob_model": 0.6344,
      "edge": 0.0198,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 4.0,
      "season": 2026
     },
     {
@@ -25899,8 +26069,8 @@
      "prob_market": 0.4978,
      "prob_model": 0.6064,
      "edge": 0.0637,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 71.0,
      "season": 2026
     },
     {
@@ -25913,8 +26083,8 @@
      "prob_market": 0.7099,
      "prob_model": 0.7562,
      "edge": 0.0191,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -25927,8 +26097,8 @@
      "prob_market": 0.4138,
      "prob_model": 0.4765,
      "edge": 0.0443,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -25941,8 +26111,8 @@
      "prob_market": 0.4964,
      "prob_model": 0.5524,
      "edge": 0.0329,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 13.0,
      "season": 2026
     },
     {
@@ -25955,8 +26125,8 @@
      "prob_market": 0.7724,
      "prob_model": 0.8396,
      "edge": 0.0254,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -25969,8 +26139,8 @@
      "prob_market": 0.4193,
      "prob_model": 0.551,
      "edge": 0.0917,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -25983,8 +26153,8 @@
      "prob_market": 0.5024,
      "prob_model": 0.6507,
      "edge": 0.0861,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 81.0,
      "season": 2026
     },
     {
@@ -25997,8 +26167,8 @@
      "prob_market": 0.5752,
      "prob_model": 0.6611,
      "edge": 0.0436,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -26011,8 +26181,8 @@
      "prob_market": 0.5,
      "prob_model": 0.6359,
      "edge": 0.0794,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 117.0,
      "season": 2026
     },
     {
@@ -26025,8 +26195,8 @@
      "prob_market": 0.5854,
      "prob_model": 0.6406,
      "edge": 0.0275,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 1.0,
      "season": 2026
     },
     {
@@ -26039,8 +26209,8 @@
      "prob_market": 0.5072,
      "prob_model": 0.5606,
      "edge": 0.0308,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 8.0,
      "season": 2026
     },
     {
@@ -26053,8 +26223,8 @@
      "prob_market": 0.5367,
      "prob_model": 0.6197,
      "edge": 0.0452,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -26067,8 +26237,8 @@
      "prob_market": 0.5038,
      "prob_model": 0.6221,
      "edge": 0.0686,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 15.0,
      "season": 2026
     },
     {
@@ -26081,8 +26251,8 @@
      "prob_market": 0.2766,
      "prob_model": 0.3563,
      "edge": 0.0841,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -26095,8 +26265,8 @@
      "prob_market": 0.4902,
      "prob_model": 0.5238,
      "edge": 0.02,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 3.0,
      "season": 2026
     },
     {
@@ -26109,8 +26279,8 @@
      "prob_market": 0.7755,
      "prob_model": 0.8158,
      "edge": 0.0152,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -26123,8 +26293,8 @@
      "prob_market": 0.4059,
      "prob_model": 0.4425,
      "edge": 0.0263,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -26137,8 +26307,8 @@
      "prob_market": 0.7605,
      "prob_model": 0.8026,
      "edge": 0.0162,
-     "result": null,
-     "actual": null,
+     "result": "Tuttu",
+     "actual": 0.0,
      "season": 2026
     },
     {
@@ -26151,8 +26321,8 @@
      "prob_market": 0.4231,
      "prob_model": 0.5814,
      "edge": 0.1092,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 2.0,
      "season": 2026
     },
     {
@@ -26165,8 +26335,8 @@
      "prob_market": 0.1266,
      "prob_model": 0.157,
      "edge": 0.0702,
-     "result": null,
-     "actual": null,
+     "result": "Tutmadı",
+     "actual": 0.0,
      "season": 2026
     }
    ],
